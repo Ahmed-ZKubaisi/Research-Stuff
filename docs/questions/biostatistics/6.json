@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "A CSF sample shows increased protein, decreased glucose, and a lymphocyte predominance. What is the MOST likely diagnosis?",
+      "correct_answer": "TB meningitis",
+      "wrong_answers": [
+        "Viral meningitis",
+        "Bacterial meningitis",
+        "Subarachnoid hemorrhage"
+      ]
+    },
+    {
+      "question": "A traumatic lumbar puncture is suspected. Which finding supports this?",
+      "correct_answer": "Decreasing RBCs in successive tubes",
+      "wrong_answers": [
+        "Same RBC count in all tubes",
+        "Xanthochromia present",
+        "High protein"
+      ]
+    },
+    {
+      "question": "Which CSF finding is MOST specific for subarachnoid hemorrhage?",
+      "correct_answer": "Xanthochromia",
+      "wrong_answers": [
+        "RBCs",
+        "Neutrophils",
+        "Increased protein"
+      ]
+    },
+    {
+      "question": "A patient with nephrotic syndrome develops pleural effusion. What is the mechanism?",
+      "correct_answer": "Decreased oncotic pressure",
+      "wrong_answers": [
+        "Increased capillary permeability",
+        "Infection",
+        "Tumor infiltration"
+      ]
+    },
+    {
+      "question": "Pleural effusion with lymphocyte predominance suggests:",
+      "correct_answer": "TB",
+      "wrong_answers": [
+        "Pneumonia",
+        "Pulmonary embolism",
+        "CHF"
+      ]
+    },
+    {
+      "question": "Which is TRUE about Light’s criteria?",
+      "correct_answer": "One criterion is sufficient for exudate",
+      "wrong_answers": [
+        "Requires all criteria",
+        "Used only for transudate",
+        "Based on glucose"
+      ]
+    },
+    {
+      "question": "Ascitic fluid SAAG is calculated using:",
+      "correct_answer": "Serum – ascitic albumin",
+      "wrong_answers": [
+        "Protein ratio",
+        "LDH ratio",
+        "Glucose difference"
+      ]
+    },
+    {
+      "question": "Which condition gives LOW SAAG?",
+      "correct_answer": "Malignancy",
+      "wrong_answers": [
+        "Cirrhosis",
+        "Heart failure",
+        "Portal hypertension"
+      ]
+    },
+    {
+      "question": "In SBP, which is most diagnostic?",
+      "correct_answer": "Neutrophils >250/µL",
+      "wrong_answers": [
+        "Protein level",
+        "LDH",
+        "Glucose"
+      ]
+    },
+    {
+      "question": "A patient has milky ascitic fluid. Most likely cause?",
+      "correct_answer": "Chylous ascites",
+      "wrong_answers": [
+        "Infection",
+        "Malignancy",
+        "Hemorrhage"
+      ]
+    },
+    {
+      "question": "Which immunoglobulin is FIRST produced in infection?",
+      "correct_answer": "IgM",
+      "wrong_answers": [
+        "IgA",
+        "IgG",
+        "IgE"
+      ]
+    },
+    {
+      "question": "Which cell presents antigen via MHC II?",
+      "correct_answer": "APC",
+      "wrong_answers": [
+        "RBC",
+        "Platelets",
+        "Neutrophils"
+      ]
+    },
+    {
+      "question": "Which test is MOST sensitive for CRP measurement?",
+      "correct_answer": "Nephelometry",
+      "wrong_answers": [
+        "Turbidimetry",
+        "Agglutination",
+        "ELISA"
+      ]
+    },
+    {
+      "question": "Which technique gives semi-quantitative results with patterns?",
+      "correct_answer": "Immunofluorescence",
+      "wrong_answers": [
+        "ELISA",
+        "PCR",
+        "Nephelometry"
+      ]
+    },
+    {
+      "question": "ANA titre of 1:40 is:",
+      "correct_answer": "Usually insignificant",
+      "wrong_answers": [
+        "Highly significant",
+        "Diagnostic",
+        "Always pathological"
+      ]
+    },
+    {
+      "question": "Which autoantibody uses Crithidia luciliae substrate?",
+      "correct_answer": "Anti-dsDNA",
+      "wrong_answers": [
+        "ANA",
+        "ANCA",
+        "AMA"
+      ]
+    },
+    {
+      "question": "Which condition gives positive Direct Coombs test?",
+      "correct_answer": "Autoimmune hemolytic anemia",
+      "wrong_answers": [
+        "Rh incompatibility",
+        "Infection",
+        "Malaria"
+      ]
+    },
+    {
+      "question": "Which PCR type detects multiple targets simultaneously?",
+      "correct_answer": "Multiplex PCR",
+      "wrong_answers": [
+        "RT-PCR",
+        "qPCR",
+        "Digital PCR"
+      ]
+    },
+    {
+      "question": "Which sequencing method is BEST for whole genome analysis?",
+      "correct_answer": "NGS",
+      "wrong_answers": [
+        "Sanger",
+        "PCR",
+        "FISH"
+      ]
+    },
+    {
+      "question": "Which technique is BEST for comparing lab accuracy worldwide?",
+      "correct_answer": "External QC",
+      "wrong_answers": [
+        "Internal QC",
+        "PCR",
+        "Calibration"
+      ]
+    }
+  ]
+}

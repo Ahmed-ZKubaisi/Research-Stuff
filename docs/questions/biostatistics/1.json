@@ -1,0 +1,274 @@
+{
+  "questions": [
+    {
+      "question": "A 30-year-old patient is suspected to have a chromosomal abnormality involving large structural changes. Which is the BEST initial test?",
+      "correct_answer": "Karyotyping",
+      "wrong_answers": [
+        "PCR",
+        "FISH",
+        "qPCR"
+      ]
+    },
+    {
+      "question": "A leukemia patient requires detection of a specific translocation quickly. Best test?",
+      "correct_answer": "FISH",
+      "wrong_answers": [
+        "Karyotyping",
+        "PCR",
+        "DNA sequencing"
+      ]
+    },
+    {
+      "question": "Which technique requires live dividing cells?",
+      "correct_answer": "Karyotyping",
+      "wrong_answers": [
+        "PCR",
+        "FISH",
+        "qPCR"
+      ]
+    },
+    {
+      "question": "A clinician needs to detect a point mutation in a gene. Best test?",
+      "correct_answer": "PCR",
+      "wrong_answers": [
+        "Karyotyping",
+        "FISH",
+        "Cytogenetics"
+      ]
+    },
+    {
+      "question": "A viral load is being monitored in a patient with hepatitis. Best test?",
+      "correct_answer": "Real-time PCR",
+      "wrong_answers": [
+        "Conventional PCR",
+        "FISH",
+        "Karyotyping"
+      ]
+    },
+    {
+      "question": "Which of the following techniques is quantitative?",
+      "correct_answer": "Real-time PCR",
+      "wrong_answers": [
+        "Conventional PCR",
+        "Gel electrophoresis",
+        "Karyotyping"
+      ]
+    },
+    {
+      "question": "PCR amplification follows which mathematical pattern?",
+      "correct_answer": "Logarithmic (2ⁿ)",
+      "wrong_answers": [
+        "Linear",
+        "Constant",
+        "Random"
+      ]
+    },
+    {
+      "question": "A sample undergoes denaturation, annealing, and extension cycles. This describes:",
+      "correct_answer": "PCR",
+      "wrong_answers": [
+        "DNA sequencing",
+        "FISH",
+        "Karyotyping"
+      ]
+    },
+    {
+      "question": "Which PCR type is used to detect RNA viruses?",
+      "correct_answer": "RT-PCR",
+      "wrong_answers": [
+        "qPCR",
+        "Multiplex PCR",
+        "Digital PCR"
+      ]
+    },
+    {
+      "question": "Which technique detects DNA during amplification (not endpoint)?",
+      "correct_answer": "qPCR",
+      "wrong_answers": [
+        "Conventional PCR",
+        "FISH",
+        "Sanger sequencing"
+      ]
+    },
+    {
+      "question": "Which technique uses fluorescent probes binding to DNA?",
+      "correct_answer": "FISH",
+      "wrong_answers": [
+        "PCR",
+        "Karyotyping",
+        "ELISA"
+      ]
+    },
+    {
+      "question": "Which technique detects large chromosomal abnormalities (>5 Mb)?",
+      "correct_answer": "Karyotyping",
+      "wrong_answers": [
+        "PCR",
+        "FISH",
+        "qPCR"
+      ]
+    },
+    {
+      "question": "Which of the following is TRUE about FISH?",
+      "correct_answer": "Uses fluorescent probes",
+      "wrong_answers": [
+        "Needs live cells",
+        "Detects only RNA",
+        "Low specificity"
+      ]
+    },
+    {
+      "question": "Genetic test identifies trisomy 21. This is an example of:",
+      "correct_answer": "Numerical abnormality",
+      "wrong_answers": [
+        "Structural abnormality",
+        "Mutation",
+        "Inversion"
+      ]
+    },
+    {
+      "question": "Turner syndrome is:",
+      "correct_answer": "XO",
+      "wrong_answers": [
+        "XXY",
+        "Trisomy",
+        "Translocation"
+      ]
+    },
+    {
+      "question": "Klinefelter syndrome is:",
+      "correct_answer": "XXY",
+      "wrong_answers": [
+        "XO",
+        "Trisomy 21",
+        "Deletion"
+      ]
+    },
+    {
+      "question": "Which sequencing method is MOST accurate for small genes?",
+      "correct_answer": "Sanger sequencing",
+      "wrong_answers": [
+        "NGS",
+        "3rd generation",
+        "PCR"
+      ]
+    },
+    {
+      "question": "Which sequencing method provides massive parallel sequencing?",
+      "correct_answer": "NGS",
+      "wrong_answers": [
+        "Sanger",
+        "PCR",
+        "FISH"
+      ]
+    },
+    {
+      "question": "Which sequencing method produces long reads?",
+      "correct_answer": "Third-generation sequencing",
+      "wrong_answers": [
+        "Sanger",
+        "NGS",
+        "PCR"
+      ]
+    },
+    {
+      "question": "Which PCR component provides building blocks?",
+      "correct_answer": "dNTPs",
+      "wrong_answers": [
+        "Primers",
+        "DNA polymerase",
+        "Template DNA"
+      ]
+    },
+    {
+      "question": "Which PCR component determines specificity?",
+      "correct_answer": "Primers",
+      "wrong_answers": [
+        "dNTPs",
+        "Polymerase",
+        "Buffer"
+      ]
+    },
+    {
+      "question": "Which mutation is associated with polycythemia vera?",
+      "correct_answer": "JAK2 V617F",
+      "wrong_answers": [
+        "BCR-ABL",
+        "p53",
+        "KRAS"
+      ]
+    },
+    {
+      "question": "JAK2 mutation is present in what % of PV cases?",
+      "correct_answer": "90–95%",
+      "wrong_answers": [
+        "30–40%",
+        "50%",
+        "70%"
+      ]
+    },
+    {
+      "question": "Which technique is best for minimal residual disease (MRD)?",
+      "correct_answer": "Digital PCR",
+      "wrong_answers": [
+        "Karyotyping",
+        "PCR",
+        "FISH"
+      ]
+    },
+    {
+      "question": "Which technique compares results between laboratories?",
+      "correct_answer": "External QC",
+      "wrong_answers": [
+        "Internal QC",
+        "PCR",
+        "FISH"
+      ]
+    },
+    {
+      "question": "Which of the following detects gene expression?",
+      "correct_answer": "RT-PCR",
+      "wrong_answers": [
+        "Karyotyping",
+        "PCR",
+        "FISH"
+      ]
+    },
+    {
+      "question": "A test detects DNA sequence order (A, T, C, G). This is:",
+      "correct_answer": "Sequencing",
+      "wrong_answers": [
+        "PCR",
+        "FISH",
+        "Cytogenetics"
+      ]
+    },
+    {
+      "question": "Which bond links nucleotides in DNA backbone?",
+      "correct_answer": "Phosphodiester bond",
+      "wrong_answers": [
+        "Hydrogen bond",
+        "Peptide bond",
+        "Ionic bond"
+      ]
+    },
+    {
+      "question": "Which bases are purines?",
+      "correct_answer": "A & G",
+      "wrong_answers": [
+        "C & T",
+        "A & T",
+        "G & C"
+      ]
+    },
+    {
+      "question": "RNA differs from DNA by:",
+      "correct_answer": "Ribose sugar",
+      "wrong_answers": [
+        "Double strand",
+        "Thymine",
+        "Stability"
+      ]
+    }
+  ]
+}

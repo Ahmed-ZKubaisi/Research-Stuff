@@ -1,0 +1,2029 @@
+{
+  "questions": [
+    {
+      "question": "Hemostasis is best defined as the physiological process that:",
+      "correct_answer": "Keeps blood fluid in vessels and prevents blood loss",
+      "wrong_answers": [
+        "Causes vasodilation and fibrinolysis only",
+        "Produces platelets in the bone marrow",
+        "Activates only the intrinsic pathway"
+      ]
+    },
+    {
+      "question": "Which of the following is the correct sequence in primary hemostasis?",
+      "correct_answer": "Adhesion → activation → aggregation",
+      "wrong_answers": [
+        "Aggregation → adhesion → activation",
+        "Activation → adhesion → aggregation",
+        "Adhesion → aggregation → activation"
+      ]
+    },
+    {
+      "question": "The fibrin mesh that stabilizes the platelet plug is formed during the:",
+      "correct_answer": "Coagulation phase",
+      "wrong_answers": [
+        "Vasoconstriction phase",
+        "Platelet phase",
+        "Fibrinolytic phase"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT considered a major component of hemostasis?",
+      "correct_answer": "Erythropoietin",
+      "wrong_answers": [
+        "Blood vessels",
+        "Platelets",
+        "Coagulation inhibitors"
+      ]
+    },
+    {
+      "question": "Preoperative screening for a suspected bleeding tendency is an indication for:",
+      "correct_answer": "Investigating hemostasis",
+      "wrong_answers": [
+        "Avoiding laboratory testing",
+        "Measuring only serum bilirubin",
+        "Doing only a blood film"
+      ]
+    },
+    {
+      "question": "Bleeding time primarily assesses:",
+      "correct_answer": "Platelet function",
+      "wrong_answers": [
+        "Extrinsic pathway",
+        "Fibrin formation",
+        "Fibrinolysis"
+      ]
+    },
+    {
+      "question": "Prothrombin time evaluates the:",
+      "correct_answer": "Extrinsic and common pathways",
+      "wrong_answers": [
+        "Intrinsic and common pathways",
+        "Platelet plug only",
+        "Fibrinolytic system only"
+      ]
+    },
+    {
+      "question": "Activated partial thromboplastin time mainly evaluates factors of the:",
+      "correct_answer": "Intrinsic pathway and common pathway",
+      "wrong_answers": [
+        "Extrinsic pathway only",
+        "Platelet phase only",
+        "Vitamin K-independent pathway only"
+      ]
+    },
+    {
+      "question": "Thrombin time measures:",
+      "correct_answer": "Conversion of fibrinogen to fibrin",
+      "wrong_answers": [
+        "Platelet adhesion",
+        "Factor VII activity",
+        "Fibrinolytic inhibition"
+      ]
+    },
+    {
+      "question": "Which test is most useful for monitoring warfarin therapy?",
+      "correct_answer": "PT/INR",
+      "wrong_answers": [
+        "Bleeding time",
+        "TT",
+        "Platelet count"
+      ]
+    },
+    {
+      "question": "A prolonged bleeding time with a normal platelet count suggests:",
+      "correct_answer": "Functional platelet defect",
+      "wrong_answers": [
+        "Normal platelet function",
+        "Factor VII deficiency",
+        "Hyperfibrinogenemia"
+      ]
+    },
+    {
+      "question": "Bleeding time has largely been replaced by:",
+      "correct_answer": "PFA-100",
+      "wrong_answers": [
+        "ESR",
+        "D-dimer",
+        "Mixing study"
+      ]
+    },
+    {
+      "question": "Isolated prolonged PT is most classically seen in:",
+      "correct_answer": "Factor VII deficiency",
+      "wrong_answers": [
+        "Hemophilia A",
+        "von Willebrand disease",
+        "Heparin therapy"
+      ]
+    },
+    {
+      "question": "Isolated prolonged APTT is most likely seen in:",
+      "correct_answer": "Hemophilia",
+      "wrong_answers": [
+        "Warfarin use",
+        "Factor VII deficiency",
+        "Early vitamin K deficiency only affecting PT"
+      ]
+    },
+    {
+      "question": "Both PT and APTT are prolonged in all of the following EXCEPT:",
+      "correct_answer": "Bernard-Soulier syndrome",
+      "wrong_answers": [
+        "DIC",
+        "Severe vitamin K deficiency",
+        "Liver disease"
+      ]
+    },
+    {
+      "question": "Heparin classically causes:",
+      "correct_answer": "Prolonged APTT only",
+      "wrong_answers": [
+        "Prolonged PT only",
+        "Shortened APTT",
+        "Decreased bleeding time only"
+      ]
+    },
+    {
+      "question": "The Hess (tourniquet) test is used mainly in the evaluation of:",
+      "correct_answer": "Vascular disorders",
+      "wrong_answers": [
+        "Coagulation factor disorders",
+        "Hemophilia",
+        "Fibrinolysis defects"
+      ]
+    },
+    {
+      "question": "In the Hess test, a normal result is:",
+      "correct_answer": "Fewer than 15 petechiae",
+      "wrong_answers": [
+        "More than 50 petechiae",
+        "More than 30 petechiae",
+        "Zero petechiae only"
+      ]
+    },
+    {
+      "question": "Normal platelet count is approximately:",
+      "correct_answer": "150–450 ×10⁹/L",
+      "wrong_answers": [
+        "50–100 ×10⁹/L",
+        "100–150 ×10⁹/L",
+        "450–700 ×10⁹/L"
+      ]
+    },
+    {
+      "question": "A patient with platelet count 70,000/µL is expected to have which bleeding severity?",
+      "correct_answer": "Mild with minimal bleeding",
+      "wrong_answers": [
+        "Severe spontaneous bleeding",
+        "Moderate trauma bleeding",
+        "Fatal intracranial bleeding in all cases"
+      ]
+    },
+    {
+      "question": "A platelet count below 20,000/µL is associated most strongly with:",
+      "correct_answer": "Spontaneous severe bleeding",
+      "wrong_answers": [
+        "No bleeding risk",
+        "Trauma-related bleeding only",
+        "Isolated arterial thrombosis"
+      ]
+    },
+    {
+      "question": "Which of the following is a cause of thrombocytopenia due to increased consumption?",
+      "correct_answer": "ITP",
+      "wrong_answers": [
+        "Splenic sequestration only",
+        "Bone marrow failure",
+        "Dilutional effect only"
+      ]
+    },
+    {
+      "question": "Which of the following is a hereditary qualitative platelet disorder?",
+      "correct_answer": "Glanzmann thrombasthenia",
+      "wrong_answers": [
+        "Uremia",
+        "Antiplatelet drug use",
+        "Myelodysplastic syndrome"
+      ]
+    },
+    {
+      "question": "Which of the following is an acquired qualitative platelet disorder?",
+      "correct_answer": "Uremia",
+      "wrong_answers": [
+        "Bernard-Soulier syndrome",
+        "Storage pool disease",
+        "von Willebrand disease"
+      ]
+    },
+    {
+      "question": "Closure time (CT) in platelet adhesion testing refers to:",
+      "correct_answer": "Time for blood to occlude the small aperture in the membrane",
+      "wrong_answers": [
+        "Time for plasma to clot after adding thrombin",
+        "Time for INR normalization",
+        "Time for fibrin degradation"
+      ]
+    },
+    {
+      "question": "The gold standard method for assessment of platelet aggregation is based on:",
+      "correct_answer": "Light transmission through platelet-rich plasma",
+      "wrong_answers": [
+        "Serum bilirubin measurement",
+        "Clot retraction only",
+        "D-dimer assay"
+      ]
+    },
+    {
+      "question": "In platelet aggregation studies, platelet-rich plasma becomes clearer after agonist addition because of:",
+      "correct_answer": "Precipitation of platelet aggregates",
+      "wrong_answers": [
+        "Hemolysis",
+        "Platelet destruction",
+        "Fibrinogen depletion"
+      ]
+    },
+    {
+      "question": "Hemophilia A is caused by deficiency of:",
+      "correct_answer": "Factor VIII",
+      "wrong_answers": [
+        "Factor IX",
+        "Factor VII",
+        "vWF"
+      ]
+    },
+    {
+      "question": "Hemophilia B is caused by deficiency of:",
+      "correct_answer": "Factor IX",
+      "wrong_answers": [
+        "Factor VIII",
+        "Factor XI",
+        "Factor XIII"
+      ]
+    },
+    {
+      "question": "Hemophilia is typically inherited as:",
+      "correct_answer": "X-linked",
+      "wrong_answers": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "Mitochondrial"
+      ]
+    },
+    {
+      "question": "The most characteristic screening test abnormality in hemophilia is:",
+      "correct_answer": "Prolonged APTT",
+      "wrong_answers": [
+        "Prolonged BT only",
+        "Prolonged PT only",
+        "Thrombocytopenia"
+      ]
+    },
+    {
+      "question": "A patient has normal CBC, normal BT, normal PT, prolonged APTT, and abnormal factor assay. The most likely diagnosis is:",
+      "correct_answer": "Hemophilia",
+      "wrong_answers": [
+        "Liver disease",
+        "DIC",
+        "Vitamin K deficiency"
+      ]
+    },
+    {
+      "question": "The two major functions of von Willebrand factor are:",
+      "correct_answer": "Platelet adhesion and protection of factor VIII",
+      "wrong_answers": [
+        "Activates fibrinolysis and inhibits thrombin",
+        "Platelet production and fibrin degradation",
+        "Vitamin K transport and platelet aggregation only"
+      ]
+    },
+    {
+      "question": "In von Willebrand disease, platelets are usually:",
+      "correct_answer": "Normal in number",
+      "wrong_answers": [
+        "Increased",
+        "Decreased",
+        "Absent"
+      ]
+    },
+    {
+      "question": "Which pattern best fits von Willebrand disease?",
+      "correct_answer": "BT increased, PT normal, APTT may increase",
+      "wrong_answers": [
+        "BT normal, PT increased, APTT normal",
+        "BT normal, PT normal, TT increased only",
+        "BT decreased, PT increased, platelets decreased"
+      ]
+    },
+    {
+      "question": "Vitamin K deficiency affects synthesis of all of the following EXCEPT:",
+      "correct_answer": "Factor VIII",
+      "wrong_answers": [
+        "Factor II",
+        "Factor VII",
+        "Factor X"
+      ]
+    },
+    {
+      "question": "In vitamin K deficiency, the usual lab pattern is:",
+      "correct_answer": "PT increased, APTT increased, TT normal, platelets normal",
+      "wrong_answers": [
+        "PT normal, APTT normal, BT increased",
+        "TT increased, platelets decreased only",
+        "PT decreased, APTT decreased"
+      ]
+    },
+    {
+      "question": "In liver disease, the hemostatic state is described as:",
+      "correct_answer": "Rebalanced state",
+      "wrong_answers": [
+        "Completely normal",
+        "Purely hypercoagulable only",
+        "Isolated platelet disorder only"
+      ]
+    },
+    {
+      "question": "Which of the following is most typical of liver disease?",
+      "correct_answer": "Platelets decreased, PT increased, APTT increased, TT increased",
+      "wrong_answers": [
+        "Platelets increased, PT shortened",
+        "BT shortened, PT normal",
+        "Only factor VIII deficiency"
+      ]
+    },
+    {
+      "question": "Disseminated intravascular coagulation is characterized by:",
+      "correct_answer": "Widespread coagulation with consumption of platelets and factors",
+      "wrong_answers": [
+        "Localized platelet dysfunction only",
+        "Isolated fibrinolysis defect",
+        "Pure hereditary deficiency of factor VIII"
+      ]
+    },
+    {
+      "question": "A common laboratory finding in DIC is:",
+      "correct_answer": "Schistocytes",
+      "wrong_answers": [
+        "Increased fibrinogen",
+        "Decreased D-dimer",
+        "Normal PT and APTT"
+      ]
+    },
+    {
+      "question": "Which of the following can precipitate DIC?",
+      "correct_answer": "All of the above",
+      "wrong_answers": [
+        "Infection",
+        "Trauma",
+        "Malignancy"
+      ]
+    },
+    {
+      "question": "A boy has recurrent hemarthroses. Labs show normal PT, normal BT, normal platelet count, and prolonged APTT. The most likely diagnosis is:",
+      "correct_answer": "Hemophilia",
+      "wrong_answers": [
+        "DIC",
+        "Vitamin K deficiency",
+        "Thrombocytopenia"
+      ]
+    },
+    {
+      "question": "A patient presents with mucocutaneous bleeding. Labs show increased bleeding time, normal PT, increased APTT, normal platelet count, and low vWF. Diagnosis?",
+      "correct_answer": "von Willebrand disease",
+      "wrong_answers": [
+        "Hemophilia B",
+        "Factor VII deficiency",
+        "Liver failure"
+      ]
+    },
+    {
+      "question": "A patient on warfarin is most likely to first show abnormality in:",
+      "correct_answer": "PT",
+      "wrong_answers": [
+        "BT",
+        "Platelet count",
+        "Hess test"
+      ]
+    },
+    {
+      "question": "Which condition classically shows prolonged PT only in early or isolated involvement?",
+      "correct_answer": "Factor VII deficiency",
+      "wrong_answers": [
+        "Hemophilia A",
+        "vWD",
+        "Bernard-Soulier syndrome"
+      ]
+    },
+    {
+      "question": "A patient with DIC is expected to have which combination?",
+      "correct_answer": "Decreased fibrinogen and increased D-dimer",
+      "wrong_answers": [
+        "Increased platelets and decreased D-dimer",
+        "Normal PT and low FDP",
+        "Normal smear and normal fibrinogen"
+      ]
+    },
+    {
+      "question": "Which bleeding disorder is most likely to have normal platelet count with abnormal platelet adhesion?",
+      "correct_answer": "von Willebrand disease",
+      "wrong_answers": [
+        "Severe thrombocytopenia",
+        "Polycythemia",
+        "Factor XIII deficiency"
+      ]
+    },
+    {
+      "question": "The commonest severe hereditary bleeding disorder in the file is identified as:",
+      "correct_answer": "Hemophilia",
+      "wrong_answers": [
+        "DIC",
+        "Vitamin K deficiency",
+        "Liver disease"
+      ]
+    },
+    {
+      "question": "Which summary pattern is correct?",
+      "correct_answer": "vWD: BT increased, PT normal, APTT may increase, platelets usually normal",
+      "wrong_answers": [
+        "Hemophilia: BT increased, PT increased, platelets decreased",
+        "DIC: BT normal, PT normal, APTT normal",
+        "Liver disease: PT normal, APTT normal, platelets increased"
+      ]
+    },
+    {
+      "question": "The most reliable simple test for assessing renal function is:",
+      "correct_answer": "Serum creatinine",
+      "wrong_answers": [
+        "Serum urea",
+        "Uric acid",
+        "Sodium"
+      ]
+    },
+    {
+      "question": "Serum creatinine may remain normal until GFR decreases by approximately:",
+      "correct_answer": "50%",
+      "wrong_answers": [
+        "10%",
+        "25%",
+        "75%"
+      ]
+    },
+    {
+      "question": "With further decline in GFR, serum creatinine:",
+      "correct_answer": "Doubles with each 50% reduction in GFR",
+      "wrong_answers": [
+        "Remains unchanged",
+        "Decreases",
+        "Becomes undetectable"
+      ]
+    },
+    {
+      "question": "Serum creatinine is affected mainly by:",
+      "correct_answer": "Muscle mass",
+      "wrong_answers": [
+        "Liver function",
+        "Platelet count",
+        "Sodium intake"
+      ]
+    },
+    {
+      "question": "Normal serum urea level is approximately:",
+      "correct_answer": "15–40 mg/dL",
+      "wrong_answers": [
+        "5–10 mg/dL",
+        "10–20 mg/dL",
+        "50–100 mg/dL"
+      ]
+    },
+    {
+      "question": "Blood urea nitrogen (BUN) is calculated from urea by:",
+      "correct_answer": "Urea ÷ 2.14",
+      "wrong_answers": [
+        "Urea × 2",
+        "Urea × 0.5",
+        "Urea ÷ 10"
+      ]
+    },
+    {
+      "question": "Uric acid is increased in all EXCEPT:",
+      "correct_answer": "Iron deficiency anemia",
+      "wrong_answers": [
+        "Gout",
+        "Renal failure",
+        "Leukemia"
+      ]
+    },
+    {
+      "question": "GFR is best defined as:",
+      "correct_answer": "Measure of functional nephron mass",
+      "wrong_answers": [
+        "Rate of urine production",
+        "Plasma sodium clearance",
+        "Tubular secretion rate"
+      ]
+    },
+    {
+      "question": "Renal clearance refers to:",
+      "correct_answer": "Volume of plasma cleared per unit time",
+      "wrong_answers": [
+        "Urine flow per minute",
+        "Total kidney size",
+        "Tubular reabsorption capacity"
+      ]
+    },
+    {
+      "question": "An ideal GFR marker should have all EXCEPT:",
+      "correct_answer": "Secreted by tubules",
+      "wrong_answers": [
+        "Freely filtered",
+        "Not reabsorbed",
+        "Constant plasma level"
+      ]
+    },
+    {
+      "question": "Creatinine clearance slightly overestimates GFR because creatinine is:",
+      "correct_answer": "Secreted",
+      "wrong_answers": [
+        "Reabsorbed",
+        "Not filtered",
+        "Protein bound"
+      ]
+    },
+    {
+      "question": "Which method is most commonly used clinically for estimating GFR?",
+      "correct_answer": "eGFR",
+      "wrong_answers": [
+        "Inulin clearance",
+        "Creatinine clearance",
+        "Urea clearance"
+      ]
+    },
+    {
+      "question": "The MOST accurate eGFR formula currently is:",
+      "correct_answer": "CKD-EPI",
+      "wrong_answers": [
+        "Cockcroft-Gault",
+        "MDRD",
+        "Schwartz"
+      ]
+    },
+    {
+      "question": "CKD-EPI is especially more accurate when GFR is:",
+      "correct_answer": ">60 mL/min",
+      "wrong_answers": [
+        "<15 mL/min",
+        "<30 mL/min",
+        "=0"
+      ]
+    },
+    {
+      "question": "Cystatin C is useful because it:",
+      "correct_answer": "Is independent of muscle mass",
+      "wrong_answers": [
+        "Is affected by diet",
+        "Increases later than creatinine",
+        "Is produced only in kidneys"
+      ]
+    },
+    {
+      "question": "Compared to creatinine, cystatin C rises:",
+      "correct_answer": "Earlier",
+      "wrong_answers": [
+        "Later",
+        "At same time",
+        "Not at all"
+      ]
+    },
+    {
+      "question": "β2-microglobulin is a marker of:",
+      "correct_answer": "Tubular function",
+      "wrong_answers": [
+        "Glomerular filtration",
+        "Liver function",
+        "Coagulation"
+      ]
+    },
+    {
+      "question": "Increased β2-microglobulin may indicate:",
+      "correct_answer": "Tubular damage",
+      "wrong_answers": [
+        "Liver cirrhosis",
+        "Platelet disorder",
+        "Hemophilia"
+      ]
+    },
+    {
+      "question": "Presence of glucose in urine with normal blood glucose suggests:",
+      "correct_answer": "Tubular defect",
+      "wrong_answers": [
+        "Diabetes mellitus",
+        "Liver failure",
+        "Dehydration"
+      ]
+    },
+    {
+      "question": "Glycosuria can occur physiologically in:",
+      "correct_answer": "Pregnancy",
+      "wrong_answers": [
+        "Hypertension",
+        "Anemia",
+        "Liver disease"
+      ]
+    },
+    {
+      "question": "Aminoaciduria is classically seen in:",
+      "correct_answer": "Cystinuria",
+      "wrong_answers": [
+        "Nephrotic syndrome",
+        "Liver failure",
+        "Hemophilia"
+      ]
+    },
+    {
+      "question": "Normal kidney concentration ability is indicated by:",
+      "correct_answer": "SG >1.020",
+      "wrong_answers": [
+        "SG <1.010",
+        "Osmolality <300",
+        "Sodium <20"
+      ]
+    },
+    {
+      "question": "Urine osmolality >800 mOsm/kg indicates:",
+      "correct_answer": "Normal concentration ability",
+      "wrong_answers": [
+        "Renal failure",
+        "Diabetes insipidus",
+        "SIADH"
+      ]
+    },
+    {
+      "question": "Failure to concentrate urine may be due to all EXCEPT:",
+      "correct_answer": "Hyperthyroidism",
+      "wrong_answers": [
+        "Psychogenic",
+        "Central ADH deficiency",
+        "Nephrogenic DI"
+      ]
+    },
+    {
+      "question": "Fluid deprivation test is based on:",
+      "correct_answer": "Dehydration leading to ADH release",
+      "wrong_answers": [
+        "Increased sodium excretion",
+        "Increased glucose filtration",
+        "Decreased urea"
+      ]
+    },
+    {
+      "question": "In fluid deprivation test, if osmolality exceeds 800 mOsm/kg:",
+      "correct_answer": "Kidney is normal → stop test",
+      "wrong_answers": [
+        "Continue test",
+        "Give vasopressin",
+        "Diagnose nephrogenic DI"
+      ]
+    },
+    {
+      "question": "Vasopressin (DDAVP) test mimics:",
+      "correct_answer": "ADH",
+      "wrong_answers": [
+        "Insulin",
+        "Aldosterone",
+        "Renin"
+      ]
+    },
+    {
+      "question": "A patient shows no response to fluid deprivation but responds to DDAVP. Diagnosis?",
+      "correct_answer": "Central diabetes insipidus",
+      "wrong_answers": [
+        "Psychogenic polydipsia",
+        "Nephrogenic diabetes insipidus",
+        "SIADH"
+      ]
+    },
+    {
+      "question": "No response to both deprivation and DDAVP suggests:",
+      "correct_answer": "Nephrogenic DI",
+      "wrong_answers": [
+        "Psychogenic",
+        "Central DI",
+        "Normal kidney"
+      ]
+    },
+    {
+      "question": "Response to both deprivation and DDAVP suggests:",
+      "correct_answer": "Psychogenic polydipsia",
+      "wrong_answers": [
+        "Nephrogenic DI",
+        "Central DI",
+        "Renal failure"
+      ]
+    },
+    {
+      "question": "Normal protein excretion in urine is:",
+      "correct_answer": "<150 mg/day",
+      "wrong_answers": [
+        "<50 mg/day",
+        "<100 mg/day",
+        "<500 mg/day"
+      ]
+    },
+    {
+      "question": "Microalbuminuria range is:",
+      "correct_answer": "30–300 mg/day",
+      "wrong_answers": [
+        "<30 mg/day",
+        ">300 mg/day",
+        ">1000 mg/day"
+      ]
+    },
+    {
+      "question": "Glomerular proteinuria is characterized mainly by:",
+      "correct_answer": "Albumin",
+      "wrong_answers": [
+        "Hemoglobin",
+        "Myoglobin",
+        "Uric acid"
+      ]
+    },
+    {
+      "question": "Overflow proteinuria is seen in:",
+      "correct_answer": "Myeloma (Bence Jones protein)",
+      "wrong_answers": [
+        "Fanconi syndrome",
+        "Pyelonephritis",
+        "Hypertension"
+      ]
+    },
+    {
+      "question": "Functional proteinuria can occur in:",
+      "correct_answer": "All of the above",
+      "wrong_answers": [
+        "Exercise",
+        "Fever",
+        "Cold exposure"
+      ]
+    },
+    {
+      "question": "The best simple screening test for proteinuria is:",
+      "correct_answer": "Dipstick",
+      "wrong_answers": [
+        "Serum albumin",
+        "PCR",
+        "ELISA"
+      ]
+    },
+    {
+      "question": "Albumin/creatinine ratio (ACR) is measured in:",
+      "correct_answer": "Random urine sample",
+      "wrong_answers": [
+        "Blood sample",
+        "24-hour urine only",
+        "CSF"
+      ]
+    },
+    {
+      "question": "Creatinine level >5 mg/dL is considered:",
+      "correct_answer": "Critical value",
+      "wrong_answers": [
+        "Normal",
+        "Mild elevation",
+        "Irrelevant"
+      ]
+    },
+    {
+      "question": "Dangerous potassium level includes:",
+      "correct_answer": "<3 or >6",
+      "wrong_answers": [
+        "3.5",
+        "4.5",
+        "5.2"
+      ]
+    },
+    {
+      "question": "Sodium becomes critical when:",
+      "correct_answer": "<120 or >160",
+      "wrong_answers": [
+        "<130",
+        ">140 only",
+        ">150 only"
+      ]
+    },
+    {
+      "question": "The main excretory function of the liver is:",
+      "correct_answer": "Bile formation and excretion",
+      "wrong_answers": [
+        "Protein synthesis",
+        "Glucose metabolism",
+        "Hormone production"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a synthetic function of the liver?",
+      "correct_answer": "Bile excretion",
+      "wrong_answers": [
+        "Albumin production",
+        "Coagulation factors",
+        "Lipid synthesis"
+      ]
+    },
+    {
+      "question": "Total bilirubin is calculated as:",
+      "correct_answer": "Direct + indirect",
+      "wrong_answers": [
+        "Direct – indirect",
+        "Indirect only",
+        "Conjugated only"
+      ]
+    },
+    {
+      "question": "Normal total bilirubin level is:",
+      "correct_answer": "≤1 mg/dL",
+      "wrong_answers": [
+        "<0.2 mg/dL",
+        "2–3 mg/dL",
+        ">5 mg/dL"
+      ]
+    },
+    {
+      "question": "Jaundice becomes clinically apparent when bilirubin exceeds:",
+      "correct_answer": "2 mg/dL",
+      "wrong_answers": [
+        "1 mg/dL",
+        "3 mg/dL",
+        "5 mg/dL"
+      ]
+    },
+    {
+      "question": "Unconjugated bilirubin is:",
+      "correct_answer": "Lipid soluble",
+      "wrong_answers": [
+        "Water soluble",
+        "Excreted in urine",
+        "Bound to albumin and filtered"
+      ]
+    },
+    {
+      "question": "Conjugated bilirubin is:",
+      "correct_answer": "Water soluble",
+      "wrong_answers": [
+        "Lipid soluble",
+        "Not excreted in urine",
+        "Not detectable"
+      ]
+    },
+    {
+      "question": "Dark urine and clay-colored stool suggest:",
+      "correct_answer": "Conjugated hyperbilirubinemia",
+      "wrong_answers": [
+        "Unconjugated hyperbilirubinemia",
+        "Hemolysis",
+        "Gilbert syndrome"
+      ]
+    },
+    {
+      "question": "Increased urobilinogen in urine is seen in:",
+      "correct_answer": "Unconjugated hyperbilirubinemia",
+      "wrong_answers": [
+        "Conjugated hyperbilirubinemia",
+        "Obstructive jaundice",
+        "Biliary atresia"
+      ]
+    },
+    {
+      "question": "In unconjugated hyperbilirubinemia, stool color is usually:",
+      "correct_answer": "Normal",
+      "wrong_answers": [
+        "Pale",
+        "Clay-colored",
+        "Black"
+      ]
+    },
+    {
+      "question": "Albumin is synthesized:",
+      "correct_answer": "In hepatocytes only",
+      "wrong_answers": [
+        "In kidneys",
+        "In spleen",
+        "In bone marrow"
+      ]
+    },
+    {
+      "question": "Albumin is NOT a good marker for acute liver disease because:",
+      "correct_answer": "It has long half-life",
+      "wrong_answers": [
+        "It is rapidly degraded",
+        "It is not synthesized in liver",
+        "It is affected by platelets"
+      ]
+    },
+    {
+      "question": "The best test for assessing liver synthetic function is:",
+      "correct_answer": "PT",
+      "wrong_answers": [
+        "ALT",
+        "AST",
+        "Bilirubin"
+      ]
+    },
+    {
+      "question": "PT is prolonged in liver disease due to:",
+      "correct_answer": "Decreased clotting factor synthesis",
+      "wrong_answers": [
+        "Platelet destruction",
+        "Increased fibrinolysis only",
+        "Increased albumin"
+      ]
+    },
+    {
+      "question": "If PT corrects after vitamin K administration, the cause is:",
+      "correct_answer": "Vitamin K deficiency",
+      "wrong_answers": [
+        "Liver failure",
+        "DIC",
+        "Hemophilia"
+      ]
+    },
+    {
+      "question": "If PT does NOT correct after vitamin K, the cause is:",
+      "correct_answer": "Liver failure",
+      "wrong_answers": [
+        "Vitamin K deficiency",
+        "Malnutrition",
+        "Hemophilia"
+      ]
+    },
+    {
+      "question": "Hypoglycemia in liver disease is due to:",
+      "correct_answer": "Impaired glycogen breakdown",
+      "wrong_answers": [
+        "Increased insulin",
+        "Increased gluconeogenesis",
+        "Increased glucagon"
+      ]
+    },
+    {
+      "question": "Hyperammonemia is toxic mainly to:",
+      "correct_answer": "CNS",
+      "wrong_answers": [
+        "Liver",
+        "Kidney",
+        "Heart"
+      ]
+    },
+    {
+      "question": "ALT is:",
+      "correct_answer": "More liver-specific",
+      "wrong_answers": [
+        "Less specific than AST",
+        "Not used clinically",
+        "Only elevated in muscle disease"
+      ]
+    },
+    {
+      "question": "AST is:",
+      "correct_answer": "Less specific",
+      "wrong_answers": [
+        "More specific than ALT",
+        "Only found in liver",
+        "Not elevated in disease"
+      ]
+    },
+    {
+      "question": "De Ritis ratio (AST/ALT) >1 suggests:",
+      "correct_answer": "Alcoholic liver disease",
+      "wrong_answers": [
+        "Viral hepatitis",
+        "Normal liver",
+        "Hemolysis"
+      ]
+    },
+    {
+      "question": "Which enzyme rises earlier and persists longer in cholestasis?",
+      "correct_answer": "GGT",
+      "wrong_answers": [
+        "ALT",
+        "AST",
+        "LDH"
+      ]
+    },
+    {
+      "question": "ALP is markedly elevated in:",
+      "correct_answer": "Obstructive jaundice",
+      "wrong_answers": [
+        "Viral hepatitis",
+        "Hemolysis",
+        "Renal failure"
+      ]
+    },
+    {
+      "question": "Acute hepatitis is characterized by:",
+      "correct_answer": "ALT/AST ↑ (8–50×)",
+      "wrong_answers": [
+        "ALT/AST ↑ (1–2×)",
+        "ALT normal",
+        "ALP very high (>10×)"
+      ]
+    },
+    {
+      "question": "In acute hepatitis, ALT is typically:",
+      "correct_answer": "> AST",
+      "wrong_answers": [
+        "< AST",
+        "= AST",
+        "Absent"
+      ]
+    },
+    {
+      "question": "Chronic hepatitis is defined as inflammation lasting:",
+      "correct_answer": ">6 months",
+      "wrong_answers": [
+        ">1 month",
+        ">3 months",
+        ">1 year"
+      ]
+    },
+    {
+      "question": "Chronic hepatitis labs show:",
+      "correct_answer": "ALT/AST ↑ (1–5×)",
+      "wrong_answers": [
+        "ALT/AST ↑ (50×)",
+        "Normal always",
+        "Only bilirubin increase"
+      ]
+    },
+    {
+      "question": "Hepatitis A infection is associated with:",
+      "correct_answer": "Mild, self-limited illness",
+      "wrong_answers": [
+        "Chronic disease",
+        "Cirrhosis",
+        "Carcinoma"
+      ]
+    },
+    {
+      "question": "Anti-HAV IgM indicates:",
+      "correct_answer": "Early infection",
+      "wrong_answers": [
+        "Past infection",
+        "Immunity only",
+        "Chronic disease"
+      ]
+    },
+    {
+      "question": "Anti-HAV IgG indicates:",
+      "correct_answer": "Lifelong immunity",
+      "wrong_answers": [
+        "Acute infection",
+        "Early infection",
+        "Chronic infection"
+      ]
+    },
+    {
+      "question": "HBsAg indicates:",
+      "correct_answer": "Early infection",
+      "wrong_answers": [
+        "Immunity",
+        "Past infection",
+        "Vaccination"
+      ]
+    },
+    {
+      "question": "HBeAg indicates:",
+      "correct_answer": "Infectivity",
+      "wrong_answers": [
+        "Immunity",
+        "Recovery",
+        "Chronicity only"
+      ]
+    },
+    {
+      "question": "HBV DNA is:",
+      "correct_answer": "Most sensitive marker",
+      "wrong_answers": [
+        "Least sensitive",
+        "Only for chronic disease",
+        "Not useful"
+      ]
+    },
+    {
+      "question": "Anti-HBc IgM indicates:",
+      "correct_answer": "Acute infection",
+      "wrong_answers": [
+        "Chronic infection",
+        "Immunity",
+        "Vaccination"
+      ]
+    },
+    {
+      "question": "Anti-HBs indicates:",
+      "correct_answer": "Immunity",
+      "wrong_answers": [
+        "Infection",
+        "Acute phase",
+        "Liver failure"
+      ]
+    },
+    {
+      "question": "HBsAg +, Anti-HBc IgM +, Anti-HBs – indicates:",
+      "correct_answer": "Acute infection",
+      "wrong_answers": [
+        "Chronic infection",
+        "Vaccinated",
+        "Resolved"
+      ]
+    },
+    {
+      "question": "HBsAg –, Anti-HBc +, Anti-HBs + indicates:",
+      "correct_answer": "Resolved infection",
+      "wrong_answers": [
+        "Acute infection",
+        "Chronic infection",
+        "Vaccinated"
+      ]
+    },
+    {
+      "question": "HBsAg –, Anti-HBc –, Anti-HBs + indicates:",
+      "correct_answer": "Vaccinated",
+      "wrong_answers": [
+        "Acute infection",
+        "Chronic infection",
+        "Liver failure"
+      ]
+    },
+    {
+      "question": "HBsAg persistence >6 months indicates:",
+      "correct_answer": "Chronic infection",
+      "wrong_answers": [
+        "Acute infection",
+        "Immunity",
+        "Recovery"
+      ]
+    },
+    {
+      "question": "Earliest test for HCV detection is:",
+      "correct_answer": "HCV RNA",
+      "wrong_answers": [
+        "Anti-HCV",
+        "ALT",
+        "AST"
+      ]
+    },
+    {
+      "question": "Anti-HCV appears after approximately:",
+      "correct_answer": "70 days",
+      "wrong_answers": [
+        "1 week",
+        "2 weeks",
+        "6 months"
+      ]
+    },
+    {
+      "question": "A patient with jaundice has dark urine and pale stool. Diagnosis?",
+      "correct_answer": "Conjugated hyperbilirubinemia",
+      "wrong_answers": [
+        "Hemolysis",
+        "Unconjugated hyperbilirubinemia",
+        "Gilbert syndrome"
+      ]
+    },
+    {
+      "question": "A patient has ALT >> AST with marked elevation (20×). Diagnosis?",
+      "correct_answer": "Acute viral hepatitis",
+      "wrong_answers": [
+        "Alcoholic liver disease",
+        "Chronic hepatitis",
+        "Cirrhosis"
+      ]
+    },
+    {
+      "question": "A patient has AST/ALT >1. Diagnosis?",
+      "correct_answer": "Alcoholic liver disease",
+      "wrong_answers": [
+        "Viral hepatitis",
+        "Hemolysis",
+        "Cholestasis"
+      ]
+    },
+    {
+      "question": "Best test for follow-up after thyroid treatment is:",
+      "correct_answer": "Free T4",
+      "wrong_answers": [
+        "TSH",
+        "T3",
+        "ALT"
+      ]
+    },
+    {
+      "question": "Thrombophilia is best defined as:",
+      "correct_answer": "Genetic predisposition to hypercoagulability",
+      "wrong_answers": [
+        "Bleeding tendency",
+        "Platelet deficiency",
+        "Fibrinolysis defect only"
+      ]
+    },
+    {
+      "question": "Thrombophilia most commonly leads to:",
+      "correct_answer": "Venous thrombosis",
+      "wrong_answers": [
+        "Arterial thrombosis",
+        "Bleeding disorders",
+        "Hemophilia"
+      ]
+    },
+    {
+      "question": "Physiological anticoagulant systems act to:",
+      "correct_answer": "Limit clot to injury site",
+      "wrong_answers": [
+        "Promote clotting",
+        "Dissolve platelets only",
+        "Increase fibrin formation"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a major physiological anticoagulant?",
+      "correct_answer": "Factor VIII",
+      "wrong_answers": [
+        "Antithrombin III",
+        "Protein C",
+        "TFPI"
+      ]
+    },
+    {
+      "question": "Antithrombin III mainly inhibits:",
+      "correct_answer": "Coagulation factors",
+      "wrong_answers": [
+        "Platelets",
+        "RBCs",
+        "Fibrinolysis"
+      ]
+    },
+    {
+      "question": "Protein C system primarily acts by:",
+      "correct_answer": "Inhibiting coagulation factors",
+      "wrong_answers": [
+        "Activating clotting factors",
+        "Increasing fibrin formation",
+        "Activating platelets"
+      ]
+    },
+    {
+      "question": "Tissue Factor Pathway Inhibitor (TFPI) mainly inhibits:",
+      "correct_answer": "Extrinsic pathway",
+      "wrong_answers": [
+        "Intrinsic pathway",
+        "Platelets",
+        "Fibrinolysis"
+      ]
+    },
+    {
+      "question": "The fibrinolytic system is responsible for:",
+      "correct_answer": "Dissolving fibrin clots",
+      "wrong_answers": [
+        "Platelet formation",
+        "Clot stabilization",
+        "Producing coagulation factors"
+      ]
+    },
+    {
+      "question": "Plasmin is formed from plasminogen by:",
+      "correct_answer": "t-PA",
+      "wrong_answers": [
+        "Thrombin",
+        "Factor VIII",
+        "Platelets"
+      ]
+    },
+    {
+      "question": "Which of the following activates plasminogen?",
+      "correct_answer": "Both A and B",
+      "wrong_answers": [
+        "u-PA",
+        "t-PA",
+        "Neither"
+      ]
+    },
+    {
+      "question": "Which of the following inhibits fibrinolysis?",
+      "correct_answer": "PAI-1",
+      "wrong_answers": [
+        "t-PA",
+        "u-PA",
+        "Plasmin"
+      ]
+    },
+    {
+      "question": "Thrombophilia occurs due to disturbance in all EXCEPT:",
+      "correct_answer": "Hemoglobin synthesis",
+      "wrong_answers": [
+        "Coagulation system",
+        "Fibrinolysis",
+        "Platelets"
+      ]
+    },
+    {
+      "question": "The most common type of thrombosis is:",
+      "correct_answer": "Venous",
+      "wrong_answers": [
+        "Arterial",
+        "Capillary",
+        "Cardiac"
+      ]
+    },
+    {
+      "question": "Venous thrombosis is explained by Virchow’s triad which includes all EXCEPT:",
+      "correct_answer": "Hydration",
+      "wrong_answers": [
+        "Stasis",
+        "Hypercoagulability",
+        "Endothelial injury"
+      ]
+    },
+    {
+      "question": "Arterial thrombosis is mainly related to:",
+      "correct_answer": "Atherosclerosis risk factors",
+      "wrong_answers": [
+        "Platelet deficiency",
+        "Hypocoagulability",
+        "Low fibrinogen"
+      ]
+    },
+    {
+      "question": "Which of the following is a risk factor for arterial thrombosis?",
+      "correct_answer": "All of the above",
+      "wrong_answers": [
+        "Hyperlipidemia",
+        "Hypertension",
+        "Diabetes mellitus"
+      ]
+    },
+    {
+      "question": "Which of the following is associated with arterial thrombosis?",
+      "correct_answer": "All of the above",
+      "wrong_answers": [
+        "Lupus anticoagulant",
+        "Smoking",
+        "Hyperhomocysteinemia"
+      ]
+    },
+    {
+      "question": "Deficiency of which leads to inherited thrombophilia?",
+      "correct_answer": "All of the above",
+      "wrong_answers": [
+        "Protein C",
+        "Protein S",
+        "Antithrombin III"
+      ]
+    },
+    {
+      "question": "Factor V Leiden mutation causes:",
+      "correct_answer": "Activated protein C resistance",
+      "wrong_answers": [
+        "Decreased clotting",
+        "Platelet dysfunction",
+        "Fibrinolysis"
+      ]
+    },
+    {
+      "question": "Prothrombin gene mutation leads to:",
+      "correct_answer": "Increased thrombin activity",
+      "wrong_answers": [
+        "Decreased thrombin",
+        "Platelet deficiency",
+        "Fibrin deficiency"
+      ]
+    },
+    {
+      "question": "Which of the following increases procoagulant activity?",
+      "correct_answer": "All of the above",
+      "wrong_answers": [
+        "Increased factor VIII",
+        "Increased factor IX",
+        "Increased factor XI"
+      ]
+    },
+    {
+      "question": "Which of the following is an acquired cause of thrombophilia?",
+      "correct_answer": "All of the above",
+      "wrong_answers": [
+        "Oral contraceptives",
+        "Malignancy",
+        "Immobilization"
+      ]
+    },
+    {
+      "question": "Antiphospholipid syndrome is an example of:",
+      "correct_answer": "Acquired thrombophilia",
+      "wrong_answers": [
+        "Bleeding disorder",
+        "Platelet deficiency",
+        "Hemophilia"
+      ]
+    },
+    {
+      "question": "Which condition increases blood viscosity and risk of thrombosis?",
+      "correct_answer": "Polycythemia",
+      "wrong_answers": [
+        "Anemia",
+        "Leukopenia",
+        "Thrombocytopenia"
+      ]
+    },
+    {
+      "question": "Inherited thrombophilia should be suspected in:",
+      "correct_answer": "Recurrent thrombosis at young age",
+      "wrong_answers": [
+        "Elderly patients only",
+        "Single episode after surgery",
+        "Mild anemia"
+      ]
+    },
+    {
+      "question": "Which of the following suggests inherited thrombophilia?",
+      "correct_answer": "Family history of thrombosis",
+      "wrong_answers": [
+        "Thrombosis after trauma",
+        "Thrombosis at age >70",
+        "Isolated infection"
+      ]
+    },
+    {
+      "question": "Unusual sites of thrombosis include:",
+      "correct_answer": "Both B and C",
+      "wrong_answers": [
+        "Leg veins only",
+        "Cerebral veins",
+        "Portal vein"
+      ]
+    },
+    {
+      "question": "Routine workup includes:",
+      "correct_answer": "All of the above",
+      "wrong_answers": [
+        "PT",
+        "APTT",
+        "Fibrinogen"
+      ]
+    },
+    {
+      "question": "Factor V Leiden is detected by:",
+      "correct_answer": "PCR",
+      "wrong_answers": [
+        "ELISA",
+        "Culture",
+        "Imaging"
+      ]
+    },
+    {
+      "question": "Protein C and S are assessed by:",
+      "correct_answer": "Assays",
+      "wrong_answers": [
+        "Imaging",
+        "Biopsy",
+        "Urine test"
+      ]
+    },
+    {
+      "question": "APS (antiphospholipid syndrome) testing includes:",
+      "correct_answer": "All of the above",
+      "wrong_answers": [
+        "Lupus anticoagulant",
+        "Anticardiolipin",
+        "Anti-β2 glycoprotein I"
+      ]
+    },
+    {
+      "question": "Testing for thrombophilia should NOT be done during:",
+      "correct_answer": "Acute thrombosis",
+      "wrong_answers": [
+        "Stable condition",
+        "After treatment",
+        "Follow-up"
+      ]
+    },
+    {
+      "question": "Warfarin therapy causes false decrease in:",
+      "correct_answer": "Protein C and S",
+      "wrong_answers": [
+        "Platelets",
+        "Sodium",
+        "Urea"
+      ]
+    },
+    {
+      "question": "Heparin affects:",
+      "correct_answer": "Antithrombin levels",
+      "wrong_answers": [
+        "Platelets only",
+        "Only bilirubin",
+        "Albumin"
+      ]
+    },
+    {
+      "question": "DOACs interfere with:",
+      "correct_answer": "Clotting assays",
+      "wrong_answers": [
+        "Hormone levels",
+        "Liver enzymes",
+        "Electrolytes"
+      ]
+    },
+    {
+      "question": "Best time to test thrombophilia is:",
+      "correct_answer": "After 3–6 months treatment",
+      "wrong_answers": [
+        "During acute attack",
+        "Immediately after anticoagulation",
+        "During surgery"
+      ]
+    },
+    {
+      "question": "Heparin acts by:",
+      "correct_answer": "Enhancing antithrombin",
+      "wrong_answers": [
+        "Blocking vitamin K",
+        "Increasing platelets",
+        "Activating fibrin"
+      ]
+    },
+    {
+      "question": "Warfarin acts as:",
+      "correct_answer": "Vitamin K antagonist",
+      "wrong_answers": [
+        "Factor Xa inhibitor",
+        "Platelet activator",
+        "Thrombin activator"
+      ]
+    },
+    {
+      "question": "Heparin monitoring is done using:",
+      "correct_answer": "APTT",
+      "wrong_answers": [
+        "PT",
+        "INR",
+        "Platelet count"
+      ]
+    },
+    {
+      "question": "Warfarin monitoring is done using:",
+      "correct_answer": "INR",
+      "wrong_answers": [
+        "APTT",
+        "TT",
+        "BT"
+      ]
+    },
+    {
+      "question": "Hormones are best described as:",
+      "correct_answer": "Chemical messengers in very low concentration",
+      "wrong_answers": [
+        "Structural proteins",
+        "Chemical messengers in high concentration",
+        "Enzymes"
+      ]
+    },
+    {
+      "question": "Hormones exert their effects by:",
+      "correct_answer": "Binding to specific receptors",
+      "wrong_answers": [
+        "Direct DNA destruction",
+        "Only acting in blood",
+        "Platelet activation"
+      ]
+    },
+    {
+      "question": "Most hormones are measured in:",
+      "correct_answer": "Serum",
+      "wrong_answers": [
+        "Whole blood",
+        "Urine only",
+        "CSF"
+      ]
+    },
+    {
+      "question": "EDTA plasma is specifically used for measuring:",
+      "correct_answer": "ACTH and PTH",
+      "wrong_answers": [
+        "Insulin",
+        "Cortisol",
+        "Thyroxine"
+      ]
+    },
+    {
+      "question": "24-hour urine collection is useful for:",
+      "correct_answer": "Cortisol",
+      "wrong_answers": [
+        "TSH",
+        "Albumin",
+        "Sodium"
+      ]
+    },
+    {
+      "question": "Saliva is useful for measuring:",
+      "correct_answer": "Free hormones",
+      "wrong_answers": [
+        "Bound hormones",
+        "Only proteins",
+        "Only enzymes"
+      ]
+    },
+    {
+      "question": "Standing position increases:",
+      "correct_answer": "Epinephrine",
+      "wrong_answers": [
+        "Insulin",
+        "Albumin",
+        "Calcium"
+      ]
+    },
+    {
+      "question": "Exercise increases all EXCEPT:",
+      "correct_answer": "Insulin",
+      "wrong_answers": [
+        "Cortisol",
+        "GH",
+        "Adrenaline"
+      ]
+    },
+    {
+      "question": "Cortisol shows circadian rhythm with peak at:",
+      "correct_answer": "8 AM",
+      "wrong_answers": [
+        "Midnight",
+        "12 PM",
+        "6 PM"
+      ]
+    },
+    {
+      "question": "Growth hormone peaks:",
+      "correct_answer": "2 hours after deep sleep",
+      "wrong_answers": [
+        "Early morning",
+        "After meals",
+        "At noon"
+      ]
+    },
+    {
+      "question": "Primary endocrine disorder is due to:",
+      "correct_answer": "Peripheral gland dysfunction",
+      "wrong_answers": [
+        "Pituitary dysfunction",
+        "Hypothalamic dysfunction",
+        "Renal failure"
+      ]
+    },
+    {
+      "question": "Secondary endocrine disorder is due to:",
+      "correct_answer": "Pituitary disorder",
+      "wrong_answers": [
+        "Liver disease",
+        "Kidney disease",
+        "Thyroid gland only"
+      ]
+    },
+    {
+      "question": "Stimulation tests are used in:",
+      "correct_answer": "Hypofunction",
+      "wrong_answers": [
+        "Hyperfunction",
+        "Normal function",
+        "Liver disease"
+      ]
+    },
+    {
+      "question": "Suppression tests are used in:",
+      "correct_answer": "Hyperfunction",
+      "wrong_answers": [
+        "Hypofunction",
+        "Renal failure",
+        "Platelet disorders"
+      ]
+    },
+    {
+      "question": "Basal GH level is:",
+      "correct_answer": "Not useful",
+      "wrong_answers": [
+        "Highly reliable",
+        "Diagnostic",
+        "Constant"
+      ]
+    },
+    {
+      "question": "Best test for GH deficiency is:",
+      "correct_answer": "Stimulation test",
+      "wrong_answers": [
+        "Basal GH",
+        "Random GH",
+        "CT scan"
+      ]
+    },
+    {
+      "question": "Which is used as GH stimulation test?",
+      "correct_answer": "Insulin-induced hypoglycemia",
+      "wrong_answers": [
+        "Glucose",
+        "Calcium",
+        "Bilirubin"
+      ]
+    },
+    {
+      "question": "GH excess (acromegaly) is diagnosed by:",
+      "correct_answer": "Suppression with glucose",
+      "wrong_answers": [
+        "Stimulation test",
+        "PT",
+        "APTT"
+      ]
+    },
+    {
+      "question": "In acromegaly, GH after glucose is:",
+      "correct_answer": "Not suppressed",
+      "wrong_answers": [
+        "Suppressed",
+        "Unchanged",
+        "Zero"
+      ]
+    },
+    {
+      "question": "Most common pituitary tumor is:",
+      "correct_answer": "Prolactinoma",
+      "wrong_answers": [
+        "GH tumor",
+        "ACTH tumor",
+        "TSH tumor"
+      ]
+    },
+    {
+      "question": "Hyperprolactinemia causes:",
+      "correct_answer": "Decreased gonadotropins",
+      "wrong_answers": [
+        "Increased fertility",
+        "Increased TSH",
+        "Increased cortisol"
+      ]
+    },
+    {
+      "question": "Which is a physiological cause of hyperprolactinemia?",
+      "correct_answer": "Pregnancy",
+      "wrong_answers": [
+        "Liver disease",
+        "Tumor",
+        "Drugs"
+      ]
+    },
+    {
+      "question": "Primary hyperthyroidism shows:",
+      "correct_answer": "↑ T3/T4 + ↓ TSH",
+      "wrong_answers": [
+        "↑ T3/T4 + ↑ TSH",
+        "↓ T3/T4 + ↑ TSH",
+        "Normal TSH"
+      ]
+    },
+    {
+      "question": "Primary hypothyroidism shows:",
+      "correct_answer": "↓ T3/T4 + ↑ TSH",
+      "wrong_answers": [
+        "↑ T3/T4 + ↓ TSH",
+        "↓ TSH only",
+        "↑ TSH only"
+      ]
+    },
+    {
+      "question": "Secondary hypothyroidism shows:",
+      "correct_answer": "↓ T3/T4 + ↓ TSH",
+      "wrong_answers": [
+        "↑ T3/T4 + ↑ TSH",
+        "↑ T3 only",
+        "Normal TSH"
+      ]
+    },
+    {
+      "question": "Subclinical thyroid disease shows:",
+      "correct_answer": "Normal T3/T4 + abnormal TSH",
+      "wrong_answers": [
+        "Abnormal T3/T4",
+        "Normal TSH",
+        "Low T3 only"
+      ]
+    },
+    {
+      "question": "Marker of Graves disease is:",
+      "correct_answer": "TSH receptor antibody",
+      "wrong_answers": [
+        "Anti-TPO",
+        "Anti-Tg",
+        "Anti-HBc"
+      ]
+    },
+    {
+      "question": "Marker of Hashimoto disease includes:",
+      "correct_answer": "Both A and B",
+      "wrong_answers": [
+        "Anti-TPO",
+        "Anti-Tg",
+        "None"
+      ]
+    },
+    {
+      "question": "After thyroid treatment, best follow-up test is:",
+      "correct_answer": "Free T4",
+      "wrong_answers": [
+        "TSH",
+        "T3",
+        "Calcium"
+      ]
+    },
+    {
+      "question": "Parathyroid hormone (PTH) causes:",
+      "correct_answer": "↑ calcium",
+      "wrong_answers": [
+        "↓ calcium",
+        "No effect",
+        "↓ phosphate only"
+      ]
+    },
+    {
+      "question": "Calcitonin causes:",
+      "correct_answer": "↓ calcium",
+      "wrong_answers": [
+        "↑ calcium",
+        "↑ phosphate",
+        "No effect"
+      ]
+    },
+    {
+      "question": "Primary hyperparathyroidism shows:",
+      "correct_answer": "↑ Ca, ↓ phosphate, ↑ PTH",
+      "wrong_answers": [
+        "↓ Ca, ↑ phosphate",
+        "Normal Ca",
+        "↓ PTH"
+      ]
+    },
+    {
+      "question": "Secondary hyperparathyroidism shows:",
+      "correct_answer": "↓ Ca or normal Ca + ↑ PTH",
+      "wrong_answers": [
+        "↑ Ca",
+        "↓ PTH",
+        "Normal everything"
+      ]
+    },
+    {
+      "question": "Cushing syndrome is characterized by:",
+      "correct_answer": "↑ cortisol",
+      "wrong_answers": [
+        "↓ cortisol",
+        "↓ ACTH always",
+        "↓ glucose"
+      ]
+    },
+    {
+      "question": "In Cushing disease (pituitary), ACTH is:",
+      "correct_answer": "High/normal",
+      "wrong_answers": [
+        "Low",
+        "Absent",
+        "Zero"
+      ]
+    },
+    {
+      "question": "Addison disease is:",
+      "correct_answer": "Adrenal failure",
+      "wrong_answers": [
+        "Hypercortisolism",
+        "Pituitary tumor",
+        "Thyroid disease"
+      ]
+    },
+    {
+      "question": "In Addison disease, cortisol response to ACTH is:",
+      "correct_answer": "Absent",
+      "wrong_answers": [
+        "Increased",
+        "Normal",
+        "Delayed"
+      ]
+    },
+    {
+      "question": "Pheochromocytoma is a tumor of:",
+      "correct_answer": "Adrenal medulla",
+      "wrong_answers": [
+        "Adrenal cortex",
+        "Thyroid",
+        "Pituitary"
+      ]
+    },
+    {
+      "question": "It secretes:",
+      "correct_answer": "Catecholamines",
+      "wrong_answers": [
+        "Cortisol",
+        "Aldosterone",
+        "Insulin"
+      ]
+    },
+    {
+      "question": "Best screening test includes:",
+      "correct_answer": "Urine metanephrines",
+      "wrong_answers": [
+        "TSH",
+        "ALT",
+        "PT"
+      ]
+    },
+    {
+      "question": "Diabetes mellitus is defined as:",
+      "correct_answer": "Hyperglycemia",
+      "wrong_answers": [
+        "Hypoglycemia",
+        "Hyperlipidemia",
+        "Anemia"
+      ]
+    },
+    {
+      "question": "Fasting glucose diagnostic value for diabetes is:",
+      "correct_answer": "≥126 mg/dL",
+      "wrong_answers": [
+        "≥100 mg/dL",
+        "≥110 mg/dL",
+        "≥150 mg/dL"
+      ]
+    },
+    {
+      "question": "HbA1c diagnostic cutoff is:",
+      "correct_answer": "6.5%",
+      "wrong_answers": [
+        "5%",
+        "5.7%",
+        "7.5%"
+      ]
+    },
+    {
+      "question": "Random glucose diagnostic level is:",
+      "correct_answer": "≥200 mg/dL",
+      "wrong_answers": [
+        "≥140 mg/dL",
+        "≥160 mg/dL",
+        "≥180 mg/dL"
+      ]
+    },
+    {
+      "question": "Prediabetes HbA1c range is:",
+      "correct_answer": "5.7–6.4%",
+      "wrong_answers": [
+        "4–5%",
+        "6.5–7%",
+        ">7%"
+      ]
+    },
+    {
+      "question": "A 12-year-old boy has short stature with normal basal GH. Best test?",
+      "correct_answer": "Stimulation test",
+      "wrong_answers": [
+        "MRI",
+        "Random GH",
+        "TSH"
+      ]
+    },
+    {
+      "question": "Patient has ↓ T4, ↑ TSH, +anti-TPO. Diagnosis?",
+      "correct_answer": "Hashimoto",
+      "wrong_answers": [
+        "Graves",
+        "Secondary hypothyroidism",
+        "Hyperthyroidism"
+      ]
+    },
+    {
+      "question": "After treatment of hypothyroidism, TSH still high but FT4 normal. Best follow-up?",
+      "correct_answer": "Free T4",
+      "wrong_answers": [
+        "TSH",
+        "T3",
+        "Cortisol"
+      ]
+    },
+    {
+      "question": "Patient with episodic headache, sweating, hypertension → diagnosis?",
+      "correct_answer": "Pheochromocytoma",
+      "wrong_answers": [
+        "Addison",
+        "Cushing",
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "question": "Patient with polyuria, polydipsia, fasting glucose 130 mg/dL → diagnosis?",
+      "correct_answer": "Diabetes mellitus",
+      "wrong_answers": [
+        "Prediabetes",
+        "Normal",
+        "Hypoglycemia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "questions": [
+    {
+      "question": "A 40-year-old female is concerned about a newly identified, extremely rare genetic mutation that predisposes individuals to a specific type of cancer. The incidence of this cancer is estimated to be 1 in 1,000,000 people per year. A research team proposes a prospective cohort study to follow individuals with and without this mutation to determine the cancer's incidence. What is the most significant limitation of using a prospective cohort study design for this particular research question?",
+      "correct_answer": "B. Not suitable for the evaluation of extremely rare diseases due to sample size requirements",
+      "wrong_answers": [
+        "A. Ethical issues of observing people with a genetic mutation",
+        "C. Difficulty in establishing a temporal sequence between mutation and cancer",
+        "D. Changes in environmental factors during the long follow-up period"
+      ]
+    },
+    {
+      "question": "Which statement accurately describes the fundamental difference in the direction of inquiry between case-control and cohort studies?",
+      "correct_answer": "C. Case-control studies proceed from outcome (disease) to exposure, while cohort studies proceed from exposure to outcome.",
+      "wrong_answers": [
+        "A. Case-control studies proceed from exposure to outcome, while cohort studies proceed from outcome to exposure.",
+        "B. Both study types proceed from exposure to outcome, but with different participant selection.",
+        "D. Both study types proceed from outcome to exposure, but with different methods of data collection."
+      ]
+    },
+    {
+      "question": "A prospective cohort study is being conducted to investigate the long-term effects of air pollution exposure on cardiovascular disease. Researchers have identified cohorts based on residential proximity to industrial areas. They need to collect data on the development of cardiovascular disease over a 20-year follow-up period. Which of the following would be the most appropriate source for obtaining data on the *exposure* in this study?",
+      "correct_answer": "A. Environmental surveys of air quality.",
+      "wrong_answers": [
+        "B. Baseline interviews about residential history.",
+        "C. Death records and medical records from hospitals.",
+        "D. Laboratory investigations for initial exposure markers."
+      ]
+    },
+    {
+      "question": "A 68-year-old female is diagnosed with a rare form of liver cancer. A case-control study is initiated to investigate potential risk factors. Cases are recruited exclusively from a specialized tertiary care hospital that receives referrals for complex cases from across the country. Controls are selected from the general population using random digit dialling. What type of bias is most likely to affect the results of this study due to the selection methods described?",
+      "correct_answer": "C. Selection bias, as hospital cases may not represent all cases in the population.",
+      "wrong_answers": [
+        "A. Information bias, specifically recall bias.",
+        "B. Confounding bias, due to unmeasured factors.",
+        "D. Interviewer bias, due to differential questioning of cases and controls."
+      ]
+    },
+    {
+      "question": "A researcher wants to directly calculate the incidence rate of a disease among exposed and non-exposed groups and then determine how many times those exposed are likely to develop the disease relative to non-exposed. Which type of analytic study is most appropriate for this goal?",
+      "correct_answer": "C. Prospective cohort study, calculating Relative Risk.",
+      "wrong_answers": [
+        "A. Case-control study, calculating Odds Ratio.",
+        "B. Retrospective cohort study, calculating Attributable Risk Percent.",
+        "D. Cross-sectional study, calculating prevalence."
+      ]
+    },
+    {
+      "question": "A 42-year-old male is diagnosed with Crohn's disease. Researchers conduct a case-control study to explore the association between early childhood antibiotic use and the development of Crohn's disease. Cases (patients with Crohn's) are asked to recall their antibiotic use from childhood, and controls (healthy individuals) are asked the same. The researchers observe that patients with Crohn's disease tend to remember and report more instances of antibiotic use than the healthy controls. This differential recall between cases and controls is an example of which specific type of bias?",
+      "correct_answer": "A. Recall bias.",
+      "wrong_answers": [
+        "B. Confounding bias.",
+        "C. Observer bias.",
+        "D. Selection bias"
+      ]
+    },
+    {
+      "question": "Which of the following is a key advantage of cohort studies, particularly when studying rare exposures?",
+      "correct_answer": "A. It is of value when exposure is rare.",
+      "wrong_answers": [
+        "B. It is suitable for evaluating rare diseases.",
+        "C. It is generally less expensive and time-consuming.",
+        "D. It can examine multiple exposures for a single outcome"
+      ]
+    },
+    {
+      "question": "A cohort study found that the incidence rate of a certain infection among individuals who frequently use public transportation (Ie) is 0.05 (5%), while among those who rarely use it (Io) is 0.01 (1%). The Attributable Risk Percent (ARP) was calculated to be 80%. What does an ARP of 80% specifically indicate in this context?",
+      "correct_answer": "A. 80% of the infections among public transportation users can be attributed to their use of public transportation.",
+      "wrong_answers": [
+        "B. 80% of the total infections in the population are due to public transportation use.",
+        "C. The risk of infection is 80% higher among public transportation users.",
+        "D. 80% of individuals using public transportation will develop the infection."
+      ]
+    },
+    {
+      "question": "A public health researcher is planning a study to test the hypothesis that exposure to secondhand smoke increases the risk of asthma in children. To do this, the researcher intends to compare the incidence of asthma in children exposed to secondhand smoke versus children not exposed. The researcher's intention to use a comparison group to test a hypothesis about a causal relationship aligns with the key feature of which type of epidemiology?",
+      "correct_answer": "B. Analytic epidemiology.",
+      "wrong_answers": [
+        "A. Descriptive epidemiology.",
+        "C. Surveillance epidemiology.",
+        "D. Experimental epidemiology."
+      ]
+    },
+    {
+      "question": "In a cohort study, a calculated Relative Risk (RR) of 0.75 indicates which of the following regarding the exposure and disease association?",
+      "correct_answer": "C. The exposure is protective against the disease.",
+      "wrong_answers": [
+        "A. There is no association between the exposure and the disease.",
+        "B. The exposure is a risk factor for the disease.",
+        "D. The incidence rate among the exposed is higher than the non-exposed."
+      ]
+    },
+    {
+      "question": "A case-control study primarily has a retrospective nature concerning which aspect?",
+      "correct_answer": "D. The exposure.",
+      "wrong_answers": [
+        "A. The selection of participants.",
+        "B. The outcome.",
+        "C. The follow-up period."
+      ]
+    },
+    {
+      "question": "A study that begins by identifying a cohort of exposed and non-exposed individuals in the past using existing records and then determines who developed the outcome by the present time is best described as which type of study?",
+      "correct_answer": "B. Retrospective cohort study.",
+      "wrong_answers": [
+        "A. Prospective cohort study.",
+        "C. Longitudinal cohort study.",
+        "D. Concurrent cohort study."
+      ]
+    },
+    {
+      "question": "What is the fundamental characteristic that distinguishes analytic epidemiology from descriptive epidemiology?",
+      "correct_answer": "D. Use of a comparison group.",
+      "wrong_answers": [
+        "A. Focus on disease distribution patterns.",
+        "B. Description of health events over time.",
+        "C. Calculation of prevalence rates."
+      ]
+    },
+    {
+      "question": "A 55-year-old female smoker is advised by her physician to quit smoking due to the numerous health risks. A public health researcher is designing a study to investigate the full spectrum of health problems associated with long-term smoking, including cardiovascular disease, various cancers, and chronic respiratory conditions. Which type of analytic study is best suited to examine multiple health outcomes resulting from a single exposure like smoking?",
+      "correct_answer": "D. Cohort study.",
+      "wrong_answers": [
+        "A. Case-control study.",
+        "B. Ecological study.",
+        "C. Cross-sectional study."
+      ]
+    },
+    {
+      "question": "A 48-year-old female is diagnosed with type 2 diabetes. A case-control study is designed to investigate the association between a sedentary lifestyle and the development of type 2 diabetes. To ensure comparability, for each case of diabetes, a control individual without diabetes is selected who is of the same age, sex, and body mass index (BMI). What is the primary reason for matching cases and controls on age, sex, and BMI in this study?",
+      "correct_answer": "B. To control for potential confounding factors.",
+      "wrong_answers": [
+        "A. To increase the statistical power of the study.",
+        "C. To ensure a representative sample of the population.",
+        "D. To simplify the calculation of the Odds Ratio."
+      ]
+    },
+    {
+      "question": "An Odds Ratio (OR) of 1.0 in a case-control study indicates which of the following?",
+      "correct_answer": "A. There is no association between the exposure factor and the disease.",
+      "wrong_answers": [
+        "B. The exposure is protective against the disease.",
+        "C. The exposure is a strong risk factor for the disease.",
+        "D. The incidence of the disease is higher in the exposed group."
+      ]
+    },
+    {
+      "question": "When selecting cases for a case-control study, which of the following is considered a main disadvantage of using hospital-based cases?",
+      "correct_answer": "D. They may not be representative of all individuals with the disease in the general population.",
+      "wrong_answers": [
+        "A. They are difficult to diagnose accurately.",
+        "B. They are often too few in number for statistical power.",
+        "C. They are typically less willing to participate in research."
+      ]
+    },
+    {
+      "question": "A case-control study investigated the association between a specific dietary supplement and the development of a neurological disorder. The study found an Odds Ratio (OR) of 0.6. How should this Odds Ratio be interpreted?",
+      "correct_answer": "B. The dietary supplement is protective against the neurological disorder.",
+      "wrong_answers": [
+        "A. The dietary supplement is a risk factor for the neurological disorder.",
+        "C. There is no association between the supplement and the disorder.",
+        "D. Individuals taking the supplement are 60% more likely to develop the disorder."
+      ]
+    },
+    {
+      "question": "A 50-year-old male presents with a history of heavy alcohol consumption for 20 years and is now diagnosed with alcoholic liver cirrhosis. A researcher wants to understand the causal link between alcohol consumption and cirrhosis. If the researcher starts by identifying individuals with cirrhosis and a comparable group without cirrhosis, and then asks about their past alcohol intake, what is the primary direction of inquiry for this study?",
+      "correct_answer": "D. From outcome to exposure.",
+      "wrong_answers": [
+        "A. From exposure to outcome.",
+        "B. From present to future.",
+        "C. From intervention to effect."
+      ]
+    },
+    {
+      "question": "A major limitation of prospective cohort studies, especially for diseases with long latency periods, is the potential for participants to drop out or be lost during follow-up, which can affect the validity of the results. What is this problem specifically known as?",
+      "correct_answer": "B. Attrition problem.",
+      "wrong_answers": [
+        "A. Selection bias.",
+        "C. Information bias.",
+        "D. Confounding bias."
+      ]
+    },
+    {
+      "question": "A 58-year-old male presents with newly diagnosed lung cancer. An investigator wants to study the association between occupational asbestos exposure and lung cancer. The investigator reviews factory health records from 1980 to 2000 to identify workers exposed to asbestos and a comparable group of non-exposed workers, then determines which individuals in both groups developed lung cancer by the year 2000. What type of study design is the investigator employing?",
+      "correct_answer": "B. Retrospective cohort study.",
+      "wrong_answers": [
+        "A. Prospective cohort study.",
+        "C. Cross-sectional study.",
+        "D. Case-control study."
+      ]
+    },
+    {
+      "question": "Which of the following best defines a cohort study?",
+      "correct_answer": "C. Individuals selected based on exposure status and followed for outcome development.",
+      "wrong_answers": [
+        "A. A study that describes the distribution of disease in a population.",
+        "B. Individuals selected based on disease status and investigated for past exposures.",
+        "D. A study where an intervention is applied to a group and compared to a control group."
+      ]
+    },
+    {
+      "question": "A major limitation of case-control studies is that they are generally restricted to investigating how many outcomes?",
+      "correct_answer": "B. One outcome.",
+      "wrong_answers": [
+        "A. Multiple outcomes.",
+        "C. Two outcomes simultaneously.",
+        "D. An unlimited number of outcomes."
+      ]
+    },
+    {
+      "question": "Researchers are interested in the association between colorectal carcinoma and nonsteroidal anti-inflammatory drug use. They first interview a group of patients with biopsy-proven colorectal carcinoma and then interview a group consisting of the patients' neighbors with similar age and race. The analysis is based on comparing the results of pairs of individuals (one from each of the 2 groups) who have similar characteristics. This design technique best helps address which of the following potential problems with this study?",
+      "correct_answer": "A. Confounding",
+      "wrong_answers": [
+        "B. Observer bias",
+        "C. Recall bias",
+        "D. Selection bias"
+      ]
+    },
+    {
+      "question": "400 women aged 20-35 coming for routine check-up are asked about their smoking status. 40% of the women smokers. Over the next ten years. 25 smokers and 24 non-smokers developed breast cancer. Which of the following best describes the study design?",
+      "correct_answer": "A. Prospective cohort study",
+      "wrong_answers": [
+        "B. Retrospective cohort study",
+        "C. Case-control study",
+        "D. Cross-sectional study"
+      ]
+    },
+    {
+      "question": "Researchers want to estimate the association between environmental lead exposure and cognitive deficits in children. Among all children who received preventive care at 5 local pediatric clinics over the last 5 years, they identify 20 children diagnosed with cognitive deficits and 40 without the diagnosis. The researchers then review the patients' medical records and calculate the distance between the patients' residence and known lead contaminated geographic areas. Which of the following best describes the study design used by the researchers?",
+      "correct_answer": "A. Case-control study",
+      "wrong_answers": [
+        "B. Cross-sectional study",
+        "C. Prospective cohort study",
+        "D. Randomized control trials"
+      ]
+    },
+    {
+      "question": "A researcher is interested in studying whether association between neural tube defects and use of acetaminophen during the first 3 months of pregnancy. He randomly chooses a group of women who have just delivered babies with neural tube defects, a second group of women who delivered apparently healthy babies. These 2 groups were then asked about their use of acetaminophen during the first 3 months of pregnancy. Which of the following choices represents this type of study?",
+      "correct_answer": "C. Case-control study",
+      "wrong_answers": [
+        "A. Prospective cohort study",
+        "B. Retrospective cohort study",
+        "D. Cross-sectional study"
+      ]
+    },
+    {
+      "question": "Which of the following measures of association investigators most likely to report from the previous scenario?",
+      "correct_answer": "A. Odds ratio",
+      "wrong_answers": [
+        "B. Prevalence ratio",
+        "C. Relative rate",
+        "D. Relative risk"
+      ]
+    },
+    {
+      "question": "An epidemiologist wants to conduct a study on hepatitis C (HCV) transmission in a country with limited healthcare resources. She has access to a group of adults newly diagnosed with HCV and a group of age-matched HCV-negative adults. She plans to use these 2 groups of adults to conduct a case-control study. Which of the following would be the appropriate measure of interest for this researcher's study?",
+      "correct_answer": "B. The frequency of past blood transfusions in each cohort",
+      "wrong_answers": [
+        "A. The average death rate in each cohort",
+        "C. The incidence rate of liver HCV-positive participants",
+        "D. The rate of eventual infect HCV-negative participants"
+      ]
+    },
+    {
+      "question": "The aim of a prospective cohort study conducted in a group of adults with diagnosed type 2 diabetes mellitus (T2DM) is to investigate the association between the presence of morbid obesity (BMI >40 kg/m²) and the risk of developing diabetic nephropathy. One of the groups in the study consists of adults with T2DM, a BMI >40 kg/m², and no diabetic nephropathy. Which of the following is the most appropriate comparison group for this prospective cohort study?",
+      "correct_answer": "C. Adults with T2DM who have normal weight and no diabetic nephropathy",
+      "wrong_answers": [
+        "A. Adults with T2DM who have morbid obesity and diabetic nephropathy",
+        "B. Adults with T2DM who have normal weight and diabetic nephropathy",
+        "D. Adults without T2DM who have morbid obesity and no diabetic nephropathy"
+      ]
+    },
+    {
+      "question": "A geneticist is interested in the potential causes of a congenital abnormality. She hypothesizes that acetaminophen use during the first trimester of pregnancy might be associated with the abnormality. In her study, a sample of mothers of children with and without abnormality is identified from birth records. Interviews are then conducted with the mothers to determine fetal exposure to acetaminophen. Results show that mothers of children who do not have the abnormality did not take acetaminophen as frequently during the first trimester. This type of study is most susceptible to which of the following types of bias?",
+      "correct_answer": "B. Recall bias",
+      "wrong_answers": [
+        "A. Detection bias",
+        "C. Referral bias",
+        "D. Selection bias"
+      ]
+    },
+    {
+      "question": "Officials of a public health department report a higher than normal prevalence of acute myelogenous leukemia (AML) among children age 5-12 in their community. They observe that some households in the community are exposed to chemical waste from a nearby factory and worry that exposure to this waste is responsible for the increased prevalence of AML in childhood. A case-control study is designed to evaluate the health department officials' claim that exposure to chemical waste is associated with AML in childhood. Which of the following populations should be selected as the control group?",
+      "correct_answer": "C. Children who do not have AML, regardless of exposure status to chemical waste",
+      "wrong_answers": [
+        "A. Children who do not have AML and are exposed to chemical waste",
+        "B. Children who do not have AML and are not exposed to chemical waste",
+        "D. Children who have AML and are not exposed to chemical waste"
+      ]
+    },
+    {
+      "question": "A study assessed the association between a new vaccine and traveler's diarrhea (TD). Researchers selected a random sample of people who intended to travel to regions where they were at increased risk for TD and who had received the new vaccine and another independent random sample of people who intended to travel to the same regions and who had not received the new vaccine. These 2 samples of travelers were assessed for the occurrence of TD during the trip and for 7 days after returning home. Which of the following measures of association are the investigators most likely to report?",
+      "correct_answer": "D. Relative risk",
+      "wrong_answers": [
+        "A. Control risk",
+        "B. Odds ratio",
+        "C. Prevalence"
+      ]
+    },
+    {
+      "question": "The physical examination records of the entire incoming freshman class of 1935 at the University of Minnesota were examined in 1977 to see if their recorded height and weight at the time of admission to the university was related to the development of coronary heart disease (CHD) by 1986. This is an example of:",
+      "correct_answer": "D. A retrospective cohort",
+      "wrong_answers": [
+        "A. A cross-sectional study",
+        "B. A case-control study",
+        "C. A prospective cohort study"
+      ]
+    },
+    {
+      "question": "In a small pilot study, 12 women with endometrial cancer (cancer of the uterus) and 12 women with no apparent disease were contacted and asked whether they had ever used estrogen. Each woman with cancer was matched by age, race, weight, and parity to a woman without disease. What kind of study design is this?",
+      "correct_answer": "C. Case-control study",
+      "wrong_answers": [
+        "A. Prospective cohort study",
+        "B. Retrospective cohort study",
+        "D. Cross sectional study"
+      ]
+    },
+    {
+      "question": "In a study begun in 1965, a group of 3,000 adults in Baltimore were asked about alcohol consumption. The occurrence of cases of cancer between 1981 and 1995 was studied in this group. This is an example of:",
+      "correct_answer": "D. A retrospective cohort study",
+      "wrong_answers": [
+        "A. A cross-sectional study",
+        "B. A clinical trial",
+        "C. A prospective cohort study"
+      ]
+    },
+    {
+      "question": "Which of the following is not an advantage of a prospective cohort study?",
+      "correct_answer": "A. It usually costs less than a case-control study",
+      "wrong_answers": [
+        "B. Incidence rates can be calculated",
+        "C. Recall bias is minimized compared with a case-control study",
+        "D. Many disease outcomes can be studied simultaneously"
+      ]
+    },
+    {
+      "question": "The association between low birth weight and maternal smoking during pregnancy can be studied by obtaining smoking history from women at the time of the first prenatal visit and then correlating birth weight (outcome) with smoking history (exposure). What type of study is this?",
+      "correct_answer": "B. Prospective cohort",
+      "wrong_answers": [
+        "A. Cross-sectional",
+        "C. Case-control",
+        "D. Correlation"
+      ]
+    },
+    {
+      "question": "An investigator wanted to study the relation between rare Hematologic Disorders in young infants & mothers smoking during pregnancy. Which is the best study design?",
+      "correct_answer": "A. Case control study",
+      "wrong_answers": [
+        "B. Prospective cohort",
+        "C. Ecological study",
+        "D. Cross-sectional study"
+      ]
+    }
+  ]
+}

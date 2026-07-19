@@ -1,0 +1,274 @@
+{
+  "questions": [
+    {
+      "question": "A 60-year-old patient with congestive heart failure develops pericardial effusion. What is the MOST likely type?",
+      "correct_answer": "Transudate",
+      "wrong_answers": [
+        "Exudate",
+        "Hemorrhagic",
+        "Chylous"
+      ]
+    },
+    {
+      "question": "A patient with tuberculosis presents with pericardial effusion. This is classified as:",
+      "correct_answer": "Exudate",
+      "wrong_answers": [
+        "Transudate",
+        "Physiological fluid",
+        "Chylous"
+      ]
+    },
+    {
+      "question": "A pericardial fluid sample appears turbid. Most likely cause?",
+      "correct_answer": "Infection or malignancy",
+      "wrong_answers": [
+        "Normal fluid",
+        "Transudate",
+        "Dehydration"
+      ]
+    },
+    {
+      "question": "A hemorrhagic pericardial effusion is MOST commonly associated with:",
+      "correct_answer": "Malignancy",
+      "wrong_answers": [
+        "Diabetes",
+        "Hypertension",
+        "Hyperlipidemia"
+      ]
+    },
+    {
+      "question": "A pericardial fluid sample shows glucose < 40 mg/dL. Possible cause?",
+      "correct_answer": "Bacterial infection",
+      "wrong_answers": [
+        "Viral infection",
+        "Dehydration",
+        "Hypertension"
+      ]
+    },
+    {
+      "question": "Which of the following is TRUE regarding pericardial fluid protein?",
+      "correct_answer": "Limited diagnostic value",
+      "wrong_answers": [
+        "Highly diagnostic",
+        "Always elevated in exudate",
+        "Used as gold standard"
+      ]
+    },
+    {
+      "question": "Milky pericardial fluid suggests:",
+      "correct_answer": "Chylous effusion",
+      "wrong_answers": [
+        "Hemorrhagic effusion",
+        "Transudate",
+        "Infection"
+      ]
+    },
+    {
+      "question": "Which condition may cause hemorrhagic pericardial effusion?",
+      "correct_answer": "Myocardial infarction syndrome",
+      "wrong_answers": [
+        "Hypothyroidism",
+        "Dehydration",
+        "Hyperglycemia"
+      ]
+    },
+    {
+      "question": "Which parameter is ONLY supportive (not diagnostic) for exudate in pericardial fluid?",
+      "correct_answer": "All of the above",
+      "wrong_answers": [
+        "LDH",
+        "Glucose",
+        "Specific gravity"
+      ]
+    },
+    {
+      "question": "Microscopic examination of pericardial fluid shows increased neutrophils. Most likely diagnosis?",
+      "correct_answer": "Bacterial infection",
+      "wrong_answers": [
+        "Malignancy",
+        "Viral infection",
+        "Autoimmune disease"
+      ]
+    },
+    {
+      "question": "A patient presents with fever and neck stiffness. CSF shows ↓ glucose and neutrophilic predominance. Diagnosis?",
+      "correct_answer": "Bacterial meningitis",
+      "wrong_answers": [
+        "Viral meningitis",
+        "TB meningitis",
+        "Multiple sclerosis"
+      ]
+    },
+    {
+      "question": "CSF shows lymphocytic predominance and normal glucose. Most likely?",
+      "correct_answer": "Viral meningitis",
+      "wrong_answers": [
+        "Bacterial meningitis",
+        "Subarachnoid hemorrhage",
+        "Tumor"
+      ]
+    },
+    {
+      "question": "A CSF sample appears yellow after centrifugation. This indicates:",
+      "correct_answer": "Xanthochromia",
+      "wrong_answers": [
+        "Infection",
+        "Lipemia",
+        "Hemolysis"
+      ]
+    },
+    {
+      "question": "Best test to confirm CSF leak from nose?",
+      "correct_answer": "β2 transferrin",
+      "wrong_answers": [
+        "Protein level",
+        "Glucose",
+        "LDH"
+      ]
+    },
+    {
+      "question": "Pleural fluid protein ratio ≥0.5 indicates:",
+      "correct_answer": "Exudate",
+      "wrong_answers": [
+        "Transudate",
+        "Normal",
+        "Artifact"
+      ]
+    },
+    {
+      "question": "Which condition is MOST associated with transudative pleural effusion?",
+      "correct_answer": "Heart failure",
+      "wrong_answers": [
+        "Pneumonia",
+        "Malignancy",
+        "TB"
+      ]
+    },
+    {
+      "question": "Pleural fluid LDH is very high (>1000 IU/L). Most likely?",
+      "correct_answer": "Empyema",
+      "wrong_answers": [
+        "Transudate",
+        "Normal",
+        "Dehydration"
+      ]
+    },
+    {
+      "question": "Milky pleural fluid with high triglycerides suggests:",
+      "correct_answer": "Chylous effusion",
+      "wrong_answers": [
+        "Pseudochylous",
+        "Hemorrhagic",
+        "Infection"
+      ]
+    },
+    {
+      "question": "SAAG ≥1.1 g/dL indicates:",
+      "correct_answer": "Portal hypertension",
+      "wrong_answers": [
+        "Exudate",
+        "Infection",
+        "Malignancy"
+      ]
+    },
+    {
+      "question": "Ascitic fluid with neutrophils >250 cells/µL suggests:",
+      "correct_answer": "SBP",
+      "wrong_answers": [
+        "Viral infection",
+        "Tuberculosis",
+        "Malignancy"
+      ]
+    },
+    {
+      "question": "ANA test is BEST performed using:",
+      "correct_answer": "Immunofluorescence",
+      "wrong_answers": [
+        "ELISA",
+        "PCR",
+        "Western blot"
+      ]
+    },
+    {
+      "question": "Which immunoglobulin is MOST abundant in serum?",
+      "correct_answer": "IgG",
+      "wrong_answers": [
+        "IgA",
+        "IgM",
+        "IgE"
+      ]
+    },
+    {
+      "question": "Which test detects antibodies attached to RBCs?",
+      "correct_answer": "Direct Coombs",
+      "wrong_answers": [
+        "Indirect Coombs",
+        "ELISA",
+        "PCR"
+      ]
+    },
+    {
+      "question": "Widal test is based on:",
+      "correct_answer": "Agglutination",
+      "wrong_answers": [
+        "Precipitation",
+        "Complement fixation",
+        "ELISA"
+      ]
+    },
+    {
+      "question": "Nephelometry measures:",
+      "correct_answer": "Light scattering",
+      "wrong_answers": [
+        "Light absorption",
+        "Fluorescence",
+        "Radioactivity"
+      ]
+    },
+    {
+      "question": "ELISA detects antigen by:",
+      "correct_answer": "Enzyme color reaction",
+      "wrong_answers": [
+        "Fluorescence",
+        "Radioactivity",
+        "Heat"
+      ]
+    },
+    {
+      "question": "Which condition shows oligoclonal bands in CSF?",
+      "correct_answer": "Multiple sclerosis",
+      "wrong_answers": [
+        "Bacterial meningitis",
+        "Viral meningitis",
+        "SAH"
+      ]
+    },
+    {
+      "question": "Pleural fluid glucose ↓ is seen in:",
+      "correct_answer": "TB",
+      "wrong_answers": [
+        "CHF",
+        "Dehydration",
+        "Normal"
+      ]
+    },
+    {
+      "question": "Which cells dominate in TB pleural effusion?",
+      "correct_answer": "Lymphocytes",
+      "wrong_answers": [
+        "Neutrophils",
+        "Eosinophils",
+        "RBCs"
+      ]
+    },
+    {
+      "question": "Chylous vs pseudochylous effusion is differentiated by:",
+      "correct_answer": "Triglycerides & cholesterol",
+      "wrong_answers": [
+        "Protein",
+        "Glucose",
+        "LDH"
+      ]
+    }
+  ]
+}

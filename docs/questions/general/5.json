@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "Which study design is the “gold standard” in determining the benefits and harms of a therapeutic regimen?",
+      "correct_answer": "C. Randomized controlled clinical trial",
+      "wrong_answers": [
+        "A. Case—control study",
+        "B. Prospective cohort study",
+        "D. Case report"
+      ]
+    },
+    {
+      "question": "Which feature BEST distinguishes an intervention study from a cohort study?",
+      "correct_answer": "C. Active assignment of exposure by investigator",
+      "wrong_answers": [
+        "A. Presence of follow-up over time",
+        "B. Measurement of incidence",
+        "D. Use of a comparison group"
+      ]
+    },
+    {
+      "question": "A study was conducted included children enrolled in a health insurance organization. At 2 months, each child was randomly given one of two types of a new vaccine against rotavirus infection. Parents were called by a nurse two weeks later and asked whether the children had experienced any of a list of side-effects. What is the study design?",
+      "correct_answer": "C. Randomized controlled trial",
+      "wrong_answers": [
+        "A. Case-control study",
+        "B. Cohort study",
+        "D. Case report"
+      ]
+    },
+    {
+      "question": "A researcher assigns participants to receive a new vaccine or no vaccine and then follows them for disease incidence over 2 years. What is the type of study?",
+      "correct_answer": "D. Intervention (experimental) study",
+      "wrong_answers": [
+        "A. Prospective cohort study",
+        "B. Case-control study",
+        "C. Cross-sectional study"
+      ]
+    },
+    {
+      "question": "A new angiotensin-converting enzyme inhibitor (ACEI), has been approved for use and is now being prescribed to patients with hypertension. Researchers now want to monitor the drug for long-term and rare adverse effects in the general population. Which phase of clinical trials does this post-marketing monitoring represent?",
+      "correct_answer": "D. Phase IV trial",
+      "wrong_answers": [
+        "A. Phase I trial",
+        "B. Phase II trial",
+        "C. Phase III trial"
+      ]
+    },
+    {
+      "question": "A new antiviral drug is given to 20 healthy volunteers for the first time to assess safety, dose tolerance, and side effects. Which phase of clinical trials does this study represent?",
+      "correct_answer": "A. Phase I trial",
+      "wrong_answers": [
+        "B. Phase II trial",
+        "C. Phase III trial",
+        "D. Phase IV trial"
+      ]
+    },
+    {
+      "question": "A cancer drug is tested in 120 patients with leukemia to evaluate its effectiveness and determine the safe dose. Which phase of clinical trials does this study represent?",
+      "correct_answer": "B. Phase II trial",
+      "wrong_answers": [
+        "A. Phase I trial",
+        "C. Phase III trial",
+        "D. Phase IV trial"
+      ]
+    },
+    {
+      "question": "A new vaccine is compared with an existing standard vaccine in 3000 participants to determine comparative effectiveness and monitor its adverse effects. Which phase of clinical trials does this study represent?",
+      "correct_answer": "C. Phase III trial",
+      "wrong_answers": [
+        "A. Phase I trial",
+        "B. Phase II trial",
+        "D. Phase IV trial"
+      ]
+    },
+    {
+      "question": "What is the main value of using a placebo in randomized controlled trial?",
+      "correct_answer": "C. Avoid Psychological (placebo) effect on outcomes",
+      "wrong_answers": [
+        "A. Minimize selection bias",
+        "B. Minimize recall bias",
+        "D. Control confounding factors"
+      ]
+    },
+    {
+      "question": "A Phase III randomized controlled trial is designed to evaluate a novel antihypertensive agent against the current traditional antihypertensive treatment. Participants were unaware about the type of treatment they receive. Outcome assessments were conducted by a separate panel of clinicians who had no contact with the participants. What is the level of blinding in the study?",
+      "correct_answer": "C. Double blinded trial",
+      "wrong_answers": [
+        "A. Open-lable trial",
+        "B. Single blinded trial",
+        "D. Triple blinded trial"
+      ]
+    },
+    {
+      "question": "What is the main aim of randomization in a randomized controlled trial?",
+      "correct_answer": "B. Control for confounding factors",
+      "wrong_answers": [
+        "A. Reduce the cost",
+        "C. Minimize loss to follow-up",
+        "D. Increase participant compliance"
+      ]
+    },
+    {
+      "question": "What is the type of bias that could be minimized by blinding?",
+      "correct_answer": "C. Information bias",
+      "wrong_answers": [
+        "A. Selection bias",
+        "B. Attrition bias",
+        "D. Recall bias"
+      ]
+    },
+    {
+      "question": "In a study evaluating the effectiveness of a new surgical procedure versus medical treatment, the outcome assessors know which intervention was performed. What is the type of design if it lacks blinding of outcomes?",
+      "correct_answer": "D. Open-label",
+      "wrong_answers": [
+        "A. Single-blinded",
+        "B. Double-blinded",
+        "C. Triple-blinded"
+      ]
+    },
+    {
+      "question": "A clinical trial was conducted in which participants, investigators, and the statisticians analyzing the data were all unaware of group allocation until the study is complete. What is the type of blinding?",
+      "correct_answer": "C. Triple-blind",
+      "wrong_answers": [
+        "A. Single-blind",
+        "B. Double-blind",
+        "D. Open-label"
+      ]
+    },
+    {
+      "question": "What is the main objective of phase I clinical trial?",
+      "correct_answer": "B. Make sure that the new medicine presents no major safety issues",
+      "wrong_answers": [
+        "A. Decide the effective dose",
+        "C. Compares results of drug effectiveness and safety against that achieved by existing treatment.",
+        "D. Assess the adverse effects over longer period of time."
+      ]
+    },
+    {
+      "question": "A randomized trial is designed to test a new drug for a life-threatening condition for which a traditional treatment already exists. The investigators propose using a placebo for the control group, what is the most appropriate ethical judgment?",
+      "correct_answer": "B. Placebo use is unethical as a standard treatment exists",
+      "wrong_answers": [
+        "A. Placebo use is acceptable because it improves blinding",
+        "C. Placebo use is required for internal validity",
+        "D. Placebo use is acceptable if participants give consent"
+      ]
+    },
+    {
+      "question": "A randomized controlled trial reports that erythropoietin administration to patients with end stage kidney disease reduces mortality within 3 months compared to nothing. The study reported a number needed to treat (NNT) equals 5. What is the interpretation of the findings of this study?",
+      "correct_answer": "B. Treating 5 patients with erythropoietin will prevent one additional death within 3 months compared with no treatment.",
+      "wrong_answers": [
+        "A. Erythropoietin reduces mortality by 5% within 3 months.",
+        "C. Five patients must receive erythropoietin to achieve a relative risk reduction of 5.",
+        "D. Erythropoietin is effective in only 20% of patients with end-stage kidney disease."
+      ]
+    },
+    {
+      "question": "A randomized controlled trial found that a new antiplatelet drug reduced the risk of myocardial infarction in high-risk patients over 1 year. The number needed to treat (NNT) was 25. What is the BEST interpretation of this finding?",
+      "correct_answer": "C. It is required to give the new drug to 25 patients to prevent one additional myocardial infarction over 1 year",
+      "wrong_answers": [
+        "A. The drug reduces the risk of myocardial infarction by 25%.",
+        "B. One in 25 patients will be cured of heart disease.",
+        "D. The relative risk reduction is 25."
+      ]
+    },
+    {
+      "question": "A randomized clinical trial in patients with multiple sclerosis showed that a new drug reduced the 6-month relapse rate to 20%. Patients who received the standard treatment had a relapse rate of 25% during the same period. How many patients need to be treated with the new drug to prevent one additional relapse during the first 6 months of therapy?",
+      "correct_answer": "C. 20",
+      "wrong_answers": [
+        "A. 5",
+        "B. 10",
+        "D. 80"
+      ]
+    },
+    {
+      "question": "In a clinical trial comparing the effectiveness of two different intervention to prevent myocardial infarction, the absolute risk reduction (ARR) for myocardial infarction (MI) is 0.05. Which interpretation is MOST appropriate?",
+      "correct_answer": "C. There is a 5% absolute reduction in the risk of MI due to intervention",
+      "wrong_answers": [
+        "A. The experimental group is five times more at risk for MI",
+        "B. Five patients must be treated to prevent one additional MI",
+        "D. There is no difference between the two intervention groups regarding incidence of MI"
+      ]
+    }
+  ]
+}

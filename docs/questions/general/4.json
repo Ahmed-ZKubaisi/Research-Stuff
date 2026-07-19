@@ -1,0 +1,228 @@
+{
+  "questions": [
+    {
+      "question": "Which epidemiological study design is most appropriate for studying the association between different doses of radiation exposure and the occurrence of multiple myeloma?",
+      "correct_answer": "D. Prospective cohort",
+      "wrong_answers": [
+        "A. Cross sectional",
+        "B. Case control",
+        "C. Correlation"
+      ]
+    },
+    {
+      "question": "A research team identifies a group of 500 smokers and a group of 500 non-smokers. They follow both groups for 20 years to compare the rate of development of lung cancer. Which study design is this?",
+      "correct_answer": "B. Prospective cohort study",
+      "wrong_answers": [
+        "A. Case-control study",
+        "C. Retrospective cohort study",
+        "D. Cross-sectional study"
+      ]
+    },
+    {
+      "question": "Which of the following epidemiological study designs does not include a control or comparison group?",
+      "correct_answer": "A. Cross-sectional study",
+      "wrong_answers": [
+        "B. Case-control study",
+        "C. Cohort study",
+        "D. Randomized controlled trial"
+      ]
+    },
+    {
+      "question": "In a prospective cohort study, 40% of the exposed group and 10% of the unexposed group are lost to follow-up. What type of bias might this introduce?",
+      "correct_answer": "B. Attrition bias",
+      "wrong_answers": [
+        "A. Recall bias",
+        "C. Selection bias",
+        "D. Information bias"
+      ]
+    },
+    {
+      "question": "In a cohort study, exposure was measured by self-report. Some participants under-reported their intake of fatty diets. What is the type of bias?",
+      "correct_answer": "B. Information bias",
+      "wrong_answers": [
+        "A. Confounding bias",
+        "C. Selection bias"
+      ]
+    },
+    {
+      "question": "An investigator aims to determine the extent to which the disease is attributable to the exposure in the studied group. Which of the following measures would be most appropriate for them to calculate from a cohort study?",
+      "correct_answer": "C. Attributable Risk (AR)",
+      "wrong_answers": [
+        "A. Relative Risk (RR)",
+        "B. Odds Ratio (OR)",
+        "D. Incidence rate"
+      ]
+    },
+    {
+      "question": "Which of the following is a feature of a retrospective cohort?",
+      "correct_answer": "D. Both the exposure and outcome have already occurred before the study begins",
+      "wrong_answers": [
+        "A. It starts with the outcome and looks back for exposures.",
+        "B. It starts with the exposure and follows subjects forward in time for the outcome.",
+        "C. The investigator manipulates the exposure of the diseased subjects."
+      ]
+    },
+    {
+      "question": "In a retrospective cohort study, what is the base to define the groups?",
+      "correct_answer": "C. Their past exposure status (exposed vs. unexposed).",
+      "wrong_answers": [
+        "A. Their disease status (healthy vs. sick).",
+        "B. A randomly assigned treatment.",
+        "D. Their personal characteristics."
+      ]
+    },
+    {
+      "question": "Which measure of association is calculated in a retrospective cohort study?",
+      "correct_answer": "B. Relative Risk (RR)",
+      "wrong_answers": [
+        "A. Odds Ratio (OR)",
+        "C. Risk reduction rate",
+        "D. Number Needed to Treat (NNT)"
+      ]
+    },
+    {
+      "question": "A study is conducted in which mothers are categorized based on their intake of sulfonamides during the first trimester of pregnancy (intake vs. no intake). At the time of delivery, the presence of heart defects in their newborns was evaluated. Which of the following metrics is used to determine the risk associated with sulfonamide intake and heart defects among newborns?",
+      "correct_answer": "B. Relative risk",
+      "wrong_answers": [
+        "A. Prevalence of heart defects",
+        "C. Odds ratio",
+        "D. Risk reduction rate"
+      ]
+    },
+    {
+      "question": "The association between low birth weight and maternal smoking during pregnancy can be studied by obtaining smoking history from women at the time of the first prenatal visit and then correlating birth weight (outcome) with smoking history (exposure). What type of study is this?",
+      "correct_answer": "B. Prospective cohort",
+      "wrong_answers": [
+        "A. Cross-sectional",
+        "C. Case-control",
+        "D. Correlation"
+      ]
+    },
+    {
+      "question": "In 2025, a researcher uses hospital employment records from 1990 to classify workers as either exposed or unexposed to benzene. Then he reviews medical records from 1990 to 2025 to identify which workers developed leukaemia. No new participants are recruited. What is the study design?",
+      "correct_answer": "D. Retrospective cohort study",
+      "wrong_answers": [
+        "A. Case-control study",
+        "B. Cross-sectional study",
+        "C. Prospective cohort study"
+      ]
+    },
+    {
+      "question": "In a case control study to reveal the causal association between cancer prostate & exposure to radiation, which of the following measures could be obtained?",
+      "correct_answer": "D. The rate of exposure to radiation among patients compared to control",
+      "wrong_answers": [
+        "A. The incidence of prostate cancer",
+        "B. The excess risk of prostate cancer among patients exposed to radiation",
+        "C. The prevalence of prostate cancer"
+      ]
+    },
+    {
+      "question": "What type of epidemiological study is used to assess prior hormonal treatment use among women with a rare vaginal cancer and women without cancer?",
+      "correct_answer": "B. Case control",
+      "wrong_answers": [
+        "A. Cross sectional",
+        "C. Correlation",
+        "D. Case series"
+      ]
+    },
+    {
+      "question": "What is the type of bias in the case-control studies where cases are more likely to memorize and report an exposure than controls?",
+      "correct_answer": "B. Recall bias",
+      "wrong_answers": [
+        "A. Selection bias",
+        "C. Confounding bias",
+        "D. Observer bias"
+      ]
+    },
+    {
+      "question": "An investigator suspects that the use of acetaminophen during the first trimester of pregnancy may cause neural tube defects (NTDs). Knowing that the prevalence of NTDs in the general infant population is 1 per 1,000 births, which is considered a rare prevalence. Which of the following is the most appropriate study design to investigate this hypothesis?",
+      "correct_answer": "B. Case control study",
+      "wrong_answers": [
+        "A. Cohort study",
+        "C. Cross sectional study",
+        "D. Ecological study"
+      ]
+    },
+    {
+      "question": "In a case-control study to find the relation between smoking and lung cancer, cases were asked detailed questions about smoking, while controls were only asked a single yes/no question. What is the type of bias?",
+      "correct_answer": "C. Interviewer bias",
+      "wrong_answers": [
+        "A. Selection bias",
+        "B. Recall bias",
+        "D. Confounding"
+      ]
+    },
+    {
+      "question": "Studying the relation between smoking and lung cancer using cases from a public hospital and controls from the population. What type of bias could arise?",
+      "correct_answer": "C. Selection bias",
+      "wrong_answers": [
+        "A. Confounding bias",
+        "B. Information bias"
+      ]
+    },
+    {
+      "question": "Researchers conduct a case-control study on smoking and lung cancer. They match cases and controls by age and sex. Which statement is TRUE?",
+      "correct_answer": "C. Matching on age and sex allows the study to assess their effect on lung cancer",
+      "wrong_answers": [
+        "A. Matching guarantees that there is no confounding in the study",
+        "B. Matching on age and sex allows clearer estimation of smoking-lung cancer relationship",
+        "D. Matching introduces bias that cannot be corrected in the analysis"
+      ]
+    },
+    {
+      "question": "Temporal relationship can be missed in which of the following studies?",
+      "correct_answer": "C. Case-control studies",
+      "wrong_answers": [
+        "A. Retrospective cohort",
+        "B. Prospective cohort",
+        "D. a&b",
+        "E. b&c"
+      ]
+    },
+    {
+      "question": "A research team follows 1200 organ transplant recipients and a similar group of non-transplant patients at an outpatient clinic over 1 year to determine the rate of development of pneumonia. What is this type of study?",
+      "correct_answer": "C. Prospective cohort",
+      "wrong_answers": [
+        "A. Cross sectional",
+        "B. Correlation studies",
+        "D. Case control"
+      ]
+    },
+    {
+      "question": "Which of the following studies would be suitable for identifying the causes of a rare type of sarcoma, given that the registry for this cancer is unfortunately incomplete?",
+      "correct_answer": "D. Case-control",
+      "wrong_answers": [
+        "A. Prospective cohort",
+        "B. Retrospective cohort",
+        "C. Cross-sectional"
+      ]
+    },
+    {
+      "question": "In case-control studies, what is the primary purpose of matching?",
+      "correct_answer": "C. To reduce the influence of confounding variables",
+      "wrong_answers": [
+        "A. To increase the sample size",
+        "B. To ensure the exposure is equally distributed among cases and controls",
+        "D. To improve the statistical significance of results"
+      ]
+    },
+    {
+      "question": "What is the measure of association reported from a case-control study?",
+      "correct_answer": "C. Odds Ratio (OR)",
+      "wrong_answers": [
+        "A. Relative Risk (RR)",
+        "B. Incidence Rate",
+        "D. Prevalence Rate"
+      ]
+    },
+    {
+      "question": "An investigator wanted to study the relation between rare Hematologic Disorders in young infants & mothers smoking during pregnancy. Which is the best study design?",
+      "correct_answer": "A. Case control study",
+      "wrong_answers": [
+        "B. Prospective cohort",
+        "C. Ecological study",
+        "D. Cross-sectional study"
+      ]
+    }
+  ]
+}

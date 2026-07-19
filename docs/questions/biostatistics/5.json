@@ -1,0 +1,1004 @@
+{
+  "questions": [
+    {
+      "question": "A patient presents with mucosal bleeding and petechiae. Which phase of hemostasis is most likely affected?",
+      "correct_answer": "Platelet phase",
+      "wrong_answers": [
+        "Vasoconstriction",
+        "Coagulation phase",
+        "Fibrinolysis",
+        "Complement activation"
+      ]
+    },
+    {
+      "question": "Bleeding time primarily assesses:",
+      "correct_answer": "Platelet function",
+      "wrong_answers": [
+        "Coagulation factors",
+        "Fibrinolysis",
+        "PT pathway",
+        "Liver function"
+      ]
+    },
+    {
+      "question": "Prolonged BT with normal platelet count suggests:",
+      "correct_answer": "Functional platelet defect",
+      "wrong_answers": [
+        "Quantitative platelet disorder",
+        "Coagulation factor deficiency",
+        "DIC",
+        "Hemophilia"
+      ]
+    },
+    {
+      "question": "PT evaluates which pathway?",
+      "correct_answer": "Extrinsic + common",
+      "wrong_answers": [
+        "Intrinsic",
+        "Intrinsic + extrinsic",
+        "Fibrinolytic",
+        "Platelet phase"
+      ]
+    },
+    {
+      "question": "A patient on warfarin is monitored using:",
+      "correct_answer": "INR",
+      "wrong_answers": [
+        "APTT",
+        "TT",
+        "BT",
+        "Platelet count"
+      ]
+    },
+    {
+      "question": "APTT measures deficiency of:",
+      "correct_answer": "Factor VIII",
+      "wrong_answers": [
+        "Factor VII",
+        "Factor V",
+        "Factor II",
+        "Factor XIII"
+      ]
+    },
+    {
+      "question": "Thrombin time is prolonged in all EXCEPT:",
+      "correct_answer": "Warfarin therapy",
+      "wrong_answers": [
+        "DIC",
+        "Liver disease",
+        "Hypofibrinogenemia",
+        "Thrombolysis"
+      ]
+    },
+    {
+      "question": "Isolated prolonged PT is seen in:",
+      "correct_answer": "Factor VII deficiency",
+      "wrong_answers": [
+        "Hemophilia",
+        "vWD",
+        "Heparin use",
+        "DIC"
+      ]
+    },
+    {
+      "question": "Prolonged APTT only is seen in:",
+      "correct_answer": "Hemophilia",
+      "wrong_answers": [
+        "Warfarin therapy",
+        "Vitamin K deficiency",
+        "Liver disease",
+        "DIC"
+      ]
+    },
+    {
+      "question": "Both PT & APTT prolonged in:",
+      "correct_answer": "Severe vitamin K deficiency",
+      "wrong_answers": [
+        "Hemophilia",
+        "vWD",
+        "Factor VII deficiency",
+        "Isolated platelet disorder"
+      ]
+    },
+    {
+      "question": "Normal platelet count is:",
+      "correct_answer": "150–450 ×10⁹/L",
+      "wrong_answers": [
+        "50–100 ×10⁹/L",
+        "100–200 ×10⁹/L",
+        "300–600 ×10⁹/L",
+        "400–700 ×10⁹/L"
+      ]
+    },
+    {
+      "question": "Spontaneous bleeding occurs when platelets are:",
+      "correct_answer": "<20k",
+      "wrong_answers": [
+        "<100k",
+        "<50k",
+        "<10k",
+        "<5k"
+      ]
+    },
+    {
+      "question": "Which is a qualitative platelet disorder?",
+      "correct_answer": "Glanzmann thrombasthenia",
+      "wrong_answers": [
+        "ITP",
+        "TTP",
+        "DIC",
+        "Splenic sequestration"
+      ]
+    },
+    {
+      "question": "Gold standard for platelet aggregation testing:",
+      "correct_answer": "Light transmission aggregometry",
+      "wrong_answers": [
+        "BT",
+        "PFA-100",
+        "PT",
+        "TT"
+      ]
+    },
+    {
+      "question": "Hess test evaluates:",
+      "correct_answer": "Capillary fragility",
+      "wrong_answers": [
+        "Platelet aggregation",
+        "Coagulation factors",
+        "Fibrinolysis",
+        "Protein C"
+      ]
+    },
+    {
+      "question": "Hemophilia A deficiency is of:",
+      "correct_answer": "Factor VIII",
+      "wrong_answers": [
+        "Factor IX",
+        "Factor VII",
+        "Factor X",
+        "Factor V"
+      ]
+    },
+    {
+      "question": "Lab pattern in hemophilia:",
+      "correct_answer": "↑ APTT",
+      "wrong_answers": [
+        "↑ BT",
+        "↑ PT",
+        "↓ Platelets",
+        "↑ TT"
+      ]
+    },
+    {
+      "question": "vWF function includes:",
+      "correct_answer": "Platelet adhesion",
+      "wrong_answers": [
+        "Activates factor X",
+        "Fibrin breakdown",
+        "Anticoagulation",
+        "Platelet destruction"
+      ]
+    },
+    {
+      "question": "Vitamin K deficiency affects:",
+      "correct_answer": "II, VII, IX, X",
+      "wrong_answers": [
+        "I, II, III",
+        "V, VIII",
+        "XI, XII",
+        "XIII"
+      ]
+    },
+    {
+      "question": "DIC is characterized by:",
+      "correct_answer": "Consumption of clotting factors",
+      "wrong_answers": [
+        "Increased fibrinogen",
+        "Decreased D-dimer",
+        "Increased platelets",
+        "Normal PT"
+      ]
+    },
+    {
+      "question": "Most reliable simple test of renal function:",
+      "correct_answer": "Creatinine",
+      "wrong_answers": [
+        "Urea",
+        "Uric acid",
+        "Sodium",
+        "Potassium"
+      ]
+    },
+    {
+      "question": "Creatinine is affected by:",
+      "correct_answer": "Muscle mass",
+      "wrong_answers": [
+        "Liver function",
+        "Diet only",
+        "Platelets",
+        "Hormones"
+      ]
+    },
+    {
+      "question": "Ideal GFR marker should be:",
+      "correct_answer": "Constant plasma level",
+      "wrong_answers": [
+        "Secreted",
+        "Reabsorbed",
+        "Protein bound",
+        "Lipid soluble"
+      ]
+    },
+    {
+      "question": "Best GFR estimation equation:",
+      "correct_answer": "CKD-EPI",
+      "wrong_answers": [
+        "Cockcroft-Gault",
+        "MDRD",
+        "Schwartz",
+        "None"
+      ]
+    },
+    {
+      "question": "Cystatin C is:",
+      "correct_answer": "Early marker",
+      "wrong_answers": [
+        "Late marker",
+        "Affected by muscle",
+        "Affected by diet",
+        "Only in urine"
+      ]
+    },
+    {
+      "question": "Glycosuria with normal glucose suggests:",
+      "correct_answer": "Tubular defect",
+      "wrong_answers": [
+        "Diabetes",
+        "Liver disease",
+        "DKA",
+        "Hyperthyroidism"
+      ]
+    },
+    {
+      "question": "β2-microglobulin indicates:",
+      "correct_answer": "Tubular function",
+      "wrong_answers": [
+        "Glomerular damage",
+        "Liver function",
+        "Cardiac injury",
+        "Platelet function"
+      ]
+    },
+    {
+      "question": "Urine osmolality >800 mOsm/kg indicates:",
+      "correct_answer": "Normal kidney function",
+      "wrong_answers": [
+        "Renal failure",
+        "Diabetes insipidus",
+        "SIADH",
+        "CKD"
+      ]
+    },
+    {
+      "question": "Fluid deprivation test assesses:",
+      "correct_answer": "ADH function",
+      "wrong_answers": [
+        "GFR",
+        "Sodium balance",
+        "Potassium",
+        "Proteinuria"
+      ]
+    },
+    {
+      "question": "DDAVP test helps differentiate:",
+      "correct_answer": "Central vs nephrogenic DI",
+      "wrong_answers": [
+        "Diabetes vs CKD",
+        "AKI vs CKD",
+        "Glomerular vs tubular",
+        "SIADH vs DI"
+      ]
+    },
+    {
+      "question": "Jaundice appears when bilirubin >:",
+      "correct_answer": "2 mg/dL",
+      "wrong_answers": [
+        "1 mg/dL",
+        "3 mg/dL",
+        "4 mg/dL",
+        "5 mg/dL"
+      ]
+    },
+    {
+      "question": "Dark urine + clay stool suggests:",
+      "correct_answer": "Conjugated hyperbilirubinemia",
+      "wrong_answers": [
+        "Unconjugated hyperbilirubinemia",
+        "Hemolysis",
+        "Gilbert syndrome",
+        "Neonatal jaundice"
+      ]
+    },
+    {
+      "question": "PT corrected after vitamin K indicates:",
+      "correct_answer": "Vitamin K deficiency",
+      "wrong_answers": [
+        "Liver failure",
+        "Hemophilia",
+        "DIC",
+        "vWD"
+      ]
+    },
+    {
+      "question": "ALT is:",
+      "correct_answer": "More liver-specific",
+      "wrong_answers": [
+        "Less specific",
+        "Cardiac marker",
+        "Renal marker",
+        "Muscle enzyme"
+      ]
+    },
+    {
+      "question": "De Ritis ratio >1 suggests:",
+      "correct_answer": "Alcoholic liver disease",
+      "wrong_answers": [
+        "Viral hepatitis",
+        "NAFLD",
+        "Cirrhosis only",
+        "Hemolysis"
+      ]
+    },
+    {
+      "question": "Marker of acute HBV infection:",
+      "correct_answer": "Anti-HBc IgM",
+      "wrong_answers": [
+        "Anti-HBs",
+        "Anti-HBc total",
+        "HBsAg chronic",
+        "Anti-HBe"
+      ]
+    },
+    {
+      "question": "Marker of infectivity in HBV:",
+      "correct_answer": "HBeAg",
+      "wrong_answers": [
+        "HBsAg",
+        "Anti-HBc",
+        "Anti-HBs",
+        "ALT"
+      ]
+    },
+    {
+      "question": "HBsAg >6 months indicates:",
+      "correct_answer": "Chronic infection",
+      "wrong_answers": [
+        "Acute infection",
+        "Immunity",
+        "Recovery",
+        "Vaccination"
+      ]
+    },
+    {
+      "question": "Best early test for HCV:",
+      "correct_answer": "PCR (HCV RNA)",
+      "wrong_answers": [
+        "Anti-HCV",
+        "ALT",
+        "AST",
+        "Bilirubin"
+      ]
+    },
+    {
+      "question": "Vaccine immunity marker:",
+      "correct_answer": "Anti-HBs",
+      "wrong_answers": [
+        "HBsAg",
+        "Anti-HBc",
+        "HBeAg",
+        "HBV DNA"
+      ]
+    },
+    {
+      "question": "GH deficiency best diagnosed by:",
+      "correct_answer": "Stimulation test",
+      "wrong_answers": [
+        "Basal GH",
+        "IGF-1 only",
+        "Suppression test",
+        "MRI"
+      ]
+    },
+    {
+      "question": "GH excess test:",
+      "correct_answer": "Glucose suppression test",
+      "wrong_answers": [
+        "Insulin test",
+        "ACTH test",
+        "TSH test",
+        "Cortisol test"
+      ]
+    },
+    {
+      "question": "Hyperprolactinemia causes:",
+      "correct_answer": "Infertility",
+      "wrong_answers": [
+        "Hypergonadism",
+        "Increased LH",
+        "Increased FSH",
+        "Hypoglycemia"
+      ]
+    },
+    {
+      "question": "Primary hypothyroidism shows:",
+      "correct_answer": "↓ T3, ↑ TSH",
+      "wrong_answers": [
+        "↓ T3, ↓ TSH",
+        "↑ T3, ↓ TSH",
+        "↑ T3, ↑ TSH",
+        "Normal TSH"
+      ]
+    },
+    {
+      "question": "Best follow-up test after thyroid therapy:",
+      "correct_answer": "Free T4",
+      "wrong_answers": [
+        "TSH",
+        "T3",
+        "Anti-TPO",
+        "TRAb"
+      ]
+    },
+    {
+      "question": "Cushing disease shows suppression with:",
+      "correct_answer": "High-dose dexamethasone",
+      "wrong_answers": [
+        "Low-dose dexamethasone",
+        "CRH",
+        "ACTH",
+        "Insulin"
+      ]
+    },
+    {
+      "question": "Addison disease shows:",
+      "correct_answer": "Hyperkalemia",
+      "wrong_answers": [
+        "Hypernatremia",
+        "Hypokalemia",
+        "Hyperglycemia",
+        "Alkalosis"
+      ]
+    },
+    {
+      "question": "Pheochromocytoma best screened by:",
+      "correct_answer": "Metanephrines",
+      "wrong_answers": [
+        "TSH",
+        "Cortisol",
+        "Insulin",
+        "Aldosterone"
+      ]
+    },
+    {
+      "question": "Diabetes diagnosis requires:",
+      "correct_answer": "Two abnormal tests",
+      "wrong_answers": [
+        "One abnormal test",
+        "Only HbA1c",
+        "Only fasting glucose",
+        "Only OGTT"
+      ]
+    },
+    {
+      "question": "HbA1c diagnostic cutoff for diabetes:",
+      "correct_answer": "6.5%",
+      "wrong_answers": [
+        "5.5%",
+        "6.0%",
+        "7.0%",
+        "7.5%"
+      ]
+    },
+    {
+      "question": "A patient with normal PT and APTT but prolonged bleeding time most likely has:",
+      "correct_answer": "Platelet dysfunction",
+      "wrong_answers": [
+        "Hemophilia",
+        "Vitamin K deficiency",
+        "DIC",
+        "Liver disease"
+      ]
+    },
+    {
+      "question": "Which condition causes prolonged BT + normal PT/APTT?",
+      "correct_answer": "Platelet disorder",
+      "wrong_answers": [
+        "Hemophilia",
+        "vWD",
+        "DIC",
+        "Liver disease"
+      ]
+    },
+    {
+      "question": "vWD causes prolonged APTT because of:",
+      "correct_answer": "↓ Factor VIII protection",
+      "wrong_answers": [
+        "↓ Factor IX",
+        "↓ Factor VII",
+        "↓ fibrinogen",
+        "↑ platelets"
+      ]
+    },
+    {
+      "question": "First step in hemostasis after vessel injury:",
+      "correct_answer": "Vasoconstriction",
+      "wrong_answers": [
+        "Platelet aggregation",
+        "Fibrin formation",
+        "Factor activation",
+        "Fibrinolysis"
+      ]
+    },
+    {
+      "question": "Which is NOT a component of hemostasis?",
+      "correct_answer": "RBCs",
+      "wrong_answers": [
+        "Platelets",
+        "Coagulation factors",
+        "Fibrinolytic system",
+        "Blood vessels"
+      ]
+    },
+    {
+      "question": "Bernard-Soulier syndrome affects:",
+      "correct_answer": "Adhesion",
+      "wrong_answers": [
+        "Aggregation",
+        "Coagulation",
+        "Fibrinolysis",
+        "Factor VIII"
+      ]
+    },
+    {
+      "question": "Glanzmann thrombasthenia affects:",
+      "correct_answer": "Aggregation",
+      "wrong_answers": [
+        "Adhesion",
+        "Coagulation",
+        "Factor IX",
+        "vWF"
+      ]
+    },
+    {
+      "question": "Which condition causes increased platelet consumption?",
+      "correct_answer": "ITP",
+      "wrong_answers": [
+        "Aplastic anemia",
+        "Iron deficiency",
+        "Liver cirrhosis",
+        "CKD"
+      ]
+    },
+    {
+      "question": "Platelet count 30,000 with trauma bleeding indicates severity:",
+      "correct_answer": "Moderate",
+      "wrong_answers": [
+        "Mild",
+        "Severe",
+        "Critical",
+        "Normal"
+      ]
+    },
+    {
+      "question": "Platelet adhesion test replaced:",
+      "correct_answer": "Bleeding time",
+      "wrong_answers": [
+        "PT",
+        "APTT",
+        "TT",
+        "INR"
+      ]
+    },
+    {
+      "question": "Heparin affects:",
+      "correct_answer": "APTT only",
+      "wrong_answers": [
+        "PT only",
+        "BT only",
+        "TT only",
+        "Platelets"
+      ]
+    },
+    {
+      "question": "Warfarin affects:",
+      "correct_answer": "Extrinsic pathway",
+      "wrong_answers": [
+        "Intrinsic pathway",
+        "Platelet function",
+        "Fibrinolysis",
+        "TT"
+      ]
+    },
+    {
+      "question": "DIC lab finding includes:",
+      "correct_answer": "Schistocytes",
+      "wrong_answers": [
+        "↓ D-dimer",
+        "↑ fibrinogen",
+        "Normal platelets",
+        "Normal PT"
+      ]
+    },
+    {
+      "question": "Liver disease causes:",
+      "correct_answer": "↑ PT & APTT",
+      "wrong_answers": [
+        "↑ platelets",
+        "↓ PT",
+        "↓ TT",
+        "Normal labs"
+      ]
+    },
+    {
+      "question": "Which has normal BT?",
+      "correct_answer": "Hemophilia",
+      "wrong_answers": [
+        "vWD",
+        "Platelet disorders",
+        "DIC",
+        "Uremia"
+      ]
+    },
+    {
+      "question": "Creatinine doubles when GFR decreases by:",
+      "correct_answer": "50%",
+      "wrong_answers": [
+        "10%",
+        "25%",
+        "75%",
+        "90%"
+      ]
+    },
+    {
+      "question": "BUN is derived from:",
+      "correct_answer": "Urea",
+      "wrong_answers": [
+        "Creatinine",
+        "Albumin",
+        "Hemoglobin",
+        "Glucose"
+      ]
+    },
+    {
+      "question": "Uric acid increases in all EXCEPT:",
+      "correct_answer": "Liver failure",
+      "wrong_answers": [
+        "Gout",
+        "Leukemia",
+        "Renal failure",
+        "Tumor lysis"
+      ]
+    },
+    {
+      "question": "eGFR is preferred because:",
+      "correct_answer": "No timed urine",
+      "wrong_answers": [
+        "Uses urine",
+        "Needs catheter",
+        "More expensive",
+        "Less accurate"
+      ]
+    },
+    {
+      "question": "CKD-EPI is best because:",
+      "correct_answer": "More accurate >60 GFR",
+      "wrong_answers": [
+        "Uses urine",
+        "Uses electrolytes",
+        "Cheaper",
+        "Faster"
+      ]
+    },
+    {
+      "question": "Fanconi syndrome causes:",
+      "correct_answer": "Glycosuria with normal glucose",
+      "wrong_answers": [
+        "Proteinuria only",
+        "Hematuria",
+        "Ketonuria",
+        "Bilirubinuria"
+      ]
+    },
+    {
+      "question": "Aminoaciduria example:",
+      "correct_answer": "Cystinuria",
+      "wrong_answers": [
+        "Diabetes",
+        "CKD",
+        "Cirrhosis",
+        "Sepsis"
+      ]
+    },
+    {
+      "question": "Psychogenic polydipsia shows:",
+      "correct_answer": "Response to deprivation",
+      "wrong_answers": [
+        "No response to deprivation",
+        "No response to DDAVP",
+        "Hyperkalemia",
+        "Hyponatremia"
+      ]
+    },
+    {
+      "question": "Nephrogenic DI shows:",
+      "correct_answer": "No response to DDAVP",
+      "wrong_answers": [
+        "Response to DDAVP",
+        "Increased ADH",
+        "Hypernatremia only",
+        "Hypokalemia"
+      ]
+    },
+    {
+      "question": "Central DI shows:",
+      "correct_answer": "Response to DDAVP",
+      "wrong_answers": [
+        "No response to DDAVP",
+        "Increased ADH",
+        "Normal urine",
+        "Hyperkalemia"
+      ]
+    },
+    {
+      "question": "Albumin is NOT useful in acute liver disease because of its:",
+      "correct_answer": "Long half-life",
+      "wrong_answers": [
+        "Low sensitivity",
+        "High turnover",
+        "Rapid metabolism",
+        "Low specificity"
+      ]
+    },
+    {
+      "question": "First lab abnormality in acute liver disease:",
+      "correct_answer": "PT ↑",
+      "wrong_answers": [
+        "Albumin ↓",
+        "Platelets ↓",
+        "Bilirubin ↓",
+        "GGT ↓"
+      ]
+    },
+    {
+      "question": "ALP rises most in:",
+      "correct_answer": "Obstruction",
+      "wrong_answers": [
+        "Hepatitis",
+        "Cirrhosis",
+        "Hemolysis",
+        "CKD"
+      ]
+    },
+    {
+      "question": "GGT is useful to:",
+      "correct_answer": "Confirm liver origin of ALP",
+      "wrong_answers": [
+        "Diagnose anemia",
+        "Diagnose renal failure",
+        "Diagnose MI",
+        "Diagnose diabetes"
+      ]
+    },
+    {
+      "question": "Cholestasis shows:",
+      "correct_answer": "↑ ALP & GGT",
+      "wrong_answers": [
+        "↑ ALT only",
+        "↑ AST only",
+        "↓ bilirubin",
+        "↓ PT"
+      ]
+    },
+    {
+      "question": "Anti-HBc total indicates:",
+      "correct_answer": "Lifelong exposure",
+      "wrong_answers": [
+        "Acute only",
+        "Chronic only",
+        "Vaccination",
+        "Early infection"
+      ]
+    },
+    {
+      "question": "Anti-HBs indicates:",
+      "correct_answer": "Immunity",
+      "wrong_answers": [
+        "Infection",
+        "Infectivity",
+        "Chronic disease",
+        "Carrier state"
+      ]
+    },
+    {
+      "question": "HBV DNA is the:",
+      "correct_answer": "Most sensitive marker",
+      "wrong_answers": [
+        "Least sensitive",
+        "Late marker",
+        "Vaccine marker",
+        "Chronic marker only"
+      ]
+    },
+    {
+      "question": "Anti-HAV IgG indicates:",
+      "correct_answer": "Lifelong immunity",
+      "wrong_answers": [
+        "Acute infection",
+        "Chronic infection",
+        "Carrier state",
+        "Reactivation"
+      ]
+    },
+    {
+      "question": "HCV antibody appears after:",
+      "correct_answer": "70 days",
+      "wrong_answers": [
+        "1 week",
+        "2 weeks",
+        "6 months",
+        "1 year"
+      ]
+    },
+    {
+      "question": "Circadian rhythm of cortisol:",
+      "correct_answer": "Peak at 8 AM",
+      "wrong_answers": [
+        "Peak at night",
+        "Constant",
+        "Peak at noon",
+        "Random"
+      ]
+    },
+    {
+      "question": "GH peaks:",
+      "correct_answer": "After deep sleep",
+      "wrong_answers": [
+        "Morning",
+        "Evening",
+        "After meals",
+        "During exercise"
+      ]
+    },
+    {
+      "question": "Best sample for ACTH:",
+      "correct_answer": "EDTA plasma",
+      "wrong_answers": [
+        "Serum",
+        "Urine",
+        "Saliva",
+        "CSF"
+      ]
+    },
+    {
+      "question": "Hyperfunction test uses:",
+      "correct_answer": "Suppression",
+      "wrong_answers": [
+        "Stimulation",
+        "Imaging",
+        "Biopsy",
+        "Genetics"
+      ]
+    },
+    {
+      "question": "Hypofunction test uses:",
+      "correct_answer": "Stimulation",
+      "wrong_answers": [
+        "Suppression",
+        "Imaging",
+        "Biopsy",
+        "PCR"
+      ]
+    },
+    {
+      "question": "ACTH is low in:",
+      "correct_answer": "Adrenal tumor",
+      "wrong_answers": [
+        "Cushing disease",
+        "Ectopic ACTH",
+        "Pituitary tumor",
+        "Addison"
+      ]
+    },
+    {
+      "question": "Addison disease lab finding:",
+      "correct_answer": "Hyperkalemia",
+      "wrong_answers": [
+        "Hypernatremia",
+        "Hypokalemia",
+        "Hyperglycemia",
+        "Alkalosis"
+      ]
+    },
+    {
+      "question": "Best screening for pheochromocytoma:",
+      "correct_answer": "Metanephrines",
+      "wrong_answers": [
+        "Cortisol",
+        "ACTH",
+        "TSH",
+        "Insulin"
+      ]
+    },
+    {
+      "question": "Fasting glucose diagnostic of diabetes:",
+      "correct_answer": "≥126",
+      "wrong_answers": [
+        "≥100",
+        "≥110",
+        "≥120",
+        "≥140"
+      ]
+    },
+    {
+      "question": "OGTT diagnostic value:",
+      "correct_answer": "≥200",
+      "wrong_answers": [
+        "≥140",
+        "≥160",
+        "≥180",
+        "≥220"
+      ]
+    },
+    {
+      "question": "Prediabetes HbA1c:",
+      "correct_answer": "5.7–6.4",
+      "wrong_answers": [
+        "5.0–5.5",
+        "5.5–6.0",
+        "6.5–7",
+        ">7"
+      ]
+    },
+    {
+      "question": "Random glucose diagnostic (with symptoms):",
+      "correct_answer": "≥200",
+      "wrong_answers": [
+        "≥140",
+        "≥160",
+        "≥180",
+        "≥220"
+      ]
+    },
+    {
+      "question": "Complication NOT acute in diabetes:",
+      "correct_answer": "Neuropathy",
+      "wrong_answers": [
+        "DKA",
+        "HHS",
+        "Hypoglycemia",
+        "Hyperglycemia"
+      ]
+    },
+    {
+      "question": "Chronic complication includes:",
+      "correct_answer": "Retinopathy",
+      "wrong_answers": [
+        "DKA",
+        "HHS",
+        "Lactic acidosis",
+        "Hypoglycemia"
+      ]
+    },
+    {
+      "question": "Insulin resistance is hallmark of:",
+      "correct_answer": "Type 2 DM",
+      "wrong_answers": [
+        "Type 1 DM",
+        "Gestational DM",
+        "MODY",
+        "LADA"
+      ]
+    }
+  ]
+}

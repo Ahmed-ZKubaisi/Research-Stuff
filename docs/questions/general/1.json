@@ -1,0 +1,327 @@
+{
+  "questions": [
+    {
+      "question": "A study examines how socioeconomic status, education, and geographic location affect immunization coverage among children in a region. Which category of research does this BEST represent?",
+      "correct_answer": "Population Research.",
+      "wrong_answers": [
+        "Clinical Research.",
+        "Basic Medical Research.",
+        "Health Policy Research."
+      ]
+    },
+    {
+      "question": "Which type of research would MOST likely investigate how genetic mutations contribute to the development of autoimmune diseases?",
+      "correct_answer": "Basic Medical Research.",
+      "wrong_answers": [
+        "Clinical Research.",
+        "Population Research.",
+        "Health Policy Research."
+      ]
+    },
+    {
+      "question": "Which type of research MOST directly supports decisions about allocating healthcare resources at the national level?",
+      "correct_answer": "Health Policy Research.",
+      "wrong_answers": [
+        "Clinical Research.",
+        "Basic Medical Research.",
+        "Population Research."
+      ]
+    },
+    {
+      "question": "Which of the following correctly lists the three pillars of Evidence-Based Medicine (EBM)?",
+      "correct_answer": "Best available evidence, clinical expertise, patient values and preferences.",
+      "wrong_answers": [
+        "Best research evidence, clinical practice guidelines, patient compliance.",
+        "Randomized controlled trials, physician experience, informed consent.",
+        "Systematic reviews, diagnostic skills, patient satisfaction."
+      ]
+    },
+    {
+      "question": "Which statement BEST describes patient-centered care in Evidence-Based Medicine (EBM)?",
+      "correct_answer": "Decisions are guided by the patient’s values, preferences, and quality of life considerations.",
+      "wrong_answers": [
+        "Patient preferences are considered only when evidence is inconclusive.",
+        "Patients should accept treatments supported by the strongest evidence.",
+        "Patient satisfaction is important but does not influence clinical decisions."
+      ]
+    },
+    {
+      "question": "Which of the following correctly pairs research approach with its main purpose?",
+      "correct_answer": "Mixed Method → Combines statistical analysis with exploration of lived experiences.",
+      "wrong_answers": [
+        "Qualitative → Measures variables numerically to test hypotheses.",
+        "Quantitative → Explores attitudes and perceptions in depth.",
+        "Qualitative → Provides large-scale prevalence estimates."
+      ]
+    },
+    {
+      "question": "Which type of research is BEST suited to answer the question: \"How do patients describe their experiences with telemedicine consultations during the COVID-19 pandemic?\"",
+      "correct_answer": "Qualitative research",
+      "wrong_answers": [
+        "Quantitative research",
+        "Mixed Method research",
+        "Experimental research"
+      ]
+    },
+    {
+      "question": "Which of the following research questions would be MOST appropriately addressed using quantitative research?",
+      "correct_answer": "What proportion of adults attending a clinic have uncontrolled diabetes?",
+      "wrong_answers": [
+        "How do patients describe their experiences living with chronic pain?",
+        "Why do healthcare workers feel resistant to new hospital policies?",
+        "How do cultural beliefs influence maternal health practices?"
+      ]
+    },
+    {
+      "question": "A focus group is conducted to understand reasons for low immunization uptake among teenagers. What is the PRIMARY research focus of this study?",
+      "correct_answer": "Why teenagers refuse vaccines.",
+      "wrong_answers": [
+        "What proportion of teenagers are immunized.",
+        "How many vaccination clinics are available.",
+        "To what extent parental education predicts uptake."
+      ]
+    },
+    {
+      "question": "Which description best defines Basic Medical Research?",
+      "correct_answer": "Investigates the fundamental mechanisms of diseases.",
+      "wrong_answers": [
+        "Focuses on epidemiology, demography, and socio-behavioral factors affecting health.",
+        "Examines factors influencing healthcare access, quality, and costs.",
+        "Involves direct interaction with patients and healthy subjects to test therapeutic or preventive interventions."
+      ]
+    },
+    {
+      "question": "Which description best defines Clinical Research?",
+      "correct_answer": "Involves direct interaction with patients and healthy subjects to test therapeutic or preventive interventions.",
+      "wrong_answers": [
+        "Focuses on epidemiology, demography, and socio-behavioral factors affecting health.",
+        "Examines factors influencing healthcare access, quality, and costs.",
+        "Investigates the fundamental mechanisms of diseases."
+      ]
+    },
+    {
+      "question": "Which description best defines Population Research?",
+      "correct_answer": "Focuses on epidemiology, demography, and socio-behavioral factors affecting health.",
+      "wrong_answers": [
+        "Examines factors influencing healthcare access, quality, and costs.",
+        "Investigates the fundamental mechanisms of diseases.",
+        "Involves direct interaction with patients and healthy subjects to test therapeutic or preventive interventions."
+      ]
+    },
+    {
+      "question": "Which description best defines Health Policy Research?",
+      "correct_answer": "Examines factors influencing healthcare access, quality, and costs.",
+      "wrong_answers": [
+        "Focuses on epidemiology, demography, and socio-behavioral factors affecting health.",
+        "Investigates the fundamental mechanisms of diseases.",
+        "Involves direct interaction with patients and healthy subjects to test therapeutic or preventive interventions."
+      ]
+    },
+    {
+      "question": "Which of the following represents the first step in the medical research process?",
+      "correct_answer": "Identifying the research problem based on practical observations.",
+      "wrong_answers": [
+        "Conducting a literature review to identify research gaps.",
+        "Formulating research questions, objectives, and hypotheses.",
+        "Selecting the study design and data collection methods."
+      ]
+    },
+    {
+      "question": "A reviewer comments on a research proposal: \"Your rationale is well-written but incomplete.\" The proposal clearly describes the problem’s burden. Which element is MOST likely missing?",
+      "correct_answer": "Knowledge gaps in literature and the study’s contribution.",
+      "wrong_answers": [
+        "Statistical power calculations and sample size justification.",
+        "Specific research questions and objectives.",
+        "Detailed description of the target study population."
+      ]
+    },
+    {
+      "question": "Which of the following is NOT typically addressed in the research rationale?",
+      "correct_answer": "Ethical approval process",
+      "wrong_answers": [
+        "Prevalence of the problem",
+        "Knowledge gaps",
+        "Potential impact of findings"
+      ]
+    },
+    {
+      "question": "According to the FINER criteria for evaluating research questions, what does the \"N\" represent?",
+      "correct_answer": "Novel",
+      "wrong_answers": [
+        "Necessary",
+        "Numerical",
+        "Neutral"
+      ]
+    },
+    {
+      "question": "A researcher plans a study to test a new therapy for hypertension but cannot recruit enough patients within the available timeframe. Which FINER criterion is not satisfied?",
+      "correct_answer": "Feasible",
+      "wrong_answers": [
+        "Interesting",
+        "Novel",
+        "Relevant"
+      ]
+    },
+    {
+      "question": "A study question that is appealing to funding agencies MOST directly fulfills which FINER criterion?",
+      "correct_answer": "Interesting",
+      "wrong_answers": [
+        "Feasible",
+        "Relevant",
+        "Ethical"
+      ]
+    },
+    {
+      "question": "Which criterion ensures the study addresses a real-world problem and has practical implications?",
+      "correct_answer": "Relevant",
+      "wrong_answers": [
+        "Feasible",
+        "Interesting",
+        "Ethical"
+      ]
+    },
+    {
+      "question": "Which research question type focuses on answering \"how much\" or \"how often\" a phenomenon occurs?",
+      "correct_answer": "Descriptive",
+      "wrong_answers": [
+        "Causal",
+        "Comparative",
+        "Experimental"
+      ]
+    },
+    {
+      "question": "Which of the following represents a causal research question?",
+      "correct_answer": "Does physical inactivity increase the risk of obesity?",
+      "wrong_answers": [
+        "What is the prevalence of smoking among adults?",
+        "What is the difference in blood pressure between men and women?",
+        "How many children attend routine check-ups?"
+      ]
+    },
+    {
+      "question": "What type of research question is: \"Does increased consumption of sugar increase the rates of diabetes type 2?\"",
+      "correct_answer": "Causal",
+      "wrong_answers": [
+        "Descriptive",
+        "Comparative"
+      ]
+    },
+    {
+      "question": "What type of research question is: \"How much tobacco smoking is prevalent among different segments of the population?\"",
+      "correct_answer": "Descriptive",
+      "wrong_answers": [
+        "Causal",
+        "Comparative"
+      ]
+    },
+    {
+      "question": "What type of research question is: \"Does the degree of obesity as measured by BMI increase the rate of progress of osteoarthritis of the knee joints?\"",
+      "correct_answer": "Causal",
+      "wrong_answers": [
+        "Descriptive",
+        "Comparative"
+      ]
+    },
+    {
+      "question": "What type of research question is: \"What is the difference between Egyptians and non-Egyptians in the fifth years grades regarding academic achievement?\"",
+      "correct_answer": "Comparative",
+      "wrong_answers": [
+        "Causal",
+        "Descriptive"
+      ]
+    },
+    {
+      "question": "What type of research question is: \"What do smokers know about the risks of smoking?\"",
+      "correct_answer": "Descriptive",
+      "wrong_answers": [
+        "Causal",
+        "Comparative"
+      ]
+    },
+    {
+      "question": "What type of research question is: \"What is the difference between men and women in the prevalence of smoking?\"",
+      "correct_answer": "Comparative",
+      "wrong_answers": [
+        "Causal",
+        "Descriptive"
+      ]
+    },
+    {
+      "question": "What type of research question is: \"What was smokers’ experience in trying to stop smoking?\"",
+      "correct_answer": "Descriptive",
+      "wrong_answers": [
+        "Causal",
+        "Comparative"
+      ]
+    },
+    {
+      "question": "What type of research question is: \"Does the time in years of diabetes affect the severity of depression among diabetics?\"",
+      "correct_answer": "Causal",
+      "wrong_answers": [
+        "Descriptive",
+        "Comparative"
+      ]
+    },
+    {
+      "question": "What type of research question is: \"What is the pattern of occurrence of disease X in terms of person, place and time?\"",
+      "correct_answer": "Descriptive",
+      "wrong_answers": [
+        "Causal",
+        "Comparative"
+      ]
+    },
+    {
+      "question": "What type of research question is: \"What is the difference in growth pattern of breast-fed and bottle-fed infants?\"",
+      "correct_answer": "Comparative",
+      "wrong_answers": [
+        "Causal",
+        "Descriptive"
+      ]
+    },
+    {
+      "question": "In the research process, which step follows formulation of research questions, objectives, and hypotheses?",
+      "correct_answer": "Selecting research methods",
+      "wrong_answers": [
+        "Collecting data",
+        "Writing the report",
+        "Analyzing data and interpreting results"
+      ]
+    },
+    {
+      "question": "What does the acronym SMART stand for in the context of research objectives?",
+      "correct_answer": "Specific, Measurable, Attainable, Relevant, Time-bound",
+      "wrong_answers": [
+        "Simple, Manageable, Accurate, Realistic, Timely",
+        "Specific, Meaningful, Achievable, Rational, Timely",
+        "Strategic, Measurable, Applicable, Realistic, Time-bound"
+      ]
+    },
+    {
+      "question": "Which of the following research questions is most likely to require a research hypothesis?",
+      "correct_answer": "Does a new vaccine reduce the incidence of influenza among children?",
+      "wrong_answers": [
+        "How many children in the community have stunted growth?",
+        "What are the dietary patterns of under five children?",
+        "What proportion of households use iodized salt?"
+      ]
+    },
+    {
+      "question": "[\"Motorcycle riders who wear helmets sustain fewer injuries.\"] This statement is an example of which of the following research components?",
+      "correct_answer": "Research hypothesis",
+      "wrong_answers": [
+        "Research question",
+        "Research objective",
+        "Problem statement"
+      ]
+    },
+    {
+      "question": "Which of the following statements correctly differentiates research objectives from research hypotheses?",
+      "correct_answer": "Research objectives describe intended outcomes; hypotheses predict variable relationships",
+      "wrong_answers": [
+        "Research objectives predict outcomes; hypotheses describe overall aims",
+        "Research objectives test relationships; hypotheses report expected results",
+        "Research objectives are optional; hypotheses are always required"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is used to detect amplification products in conventional PCR?",
+      "correct_answer": "Gel electrophoresis",
+      "wrong_answers": [
+        "Fluorescent probes",
+        "ELISA",
+        "Spectrophotometry"
+      ]
+    },
+    {
+      "question": "What is the main purpose of a proficiency test in laboratories?",
+      "correct_answer": "Comparing results with other laboratories",
+      "wrong_answers": [
+        "Measuring instrument accuracy",
+        "Internal quality control",
+        "Calibration of equipment"
+      ]
+    },
+    {
+      "question": "A urinary microalbumin level of 400 mg/day is classified as:",
+      "correct_answer": "Macroalbuminuria",
+      "wrong_answers": [
+        "Normal",
+        "Microalbuminuria",
+        "Nephrotic range proteinuria"
+      ]
+    },
+    {
+      "question": "Which of the following is a specific marker for obstructive jaundice?",
+      "correct_answer": "GGT",
+      "wrong_answers": [
+        "ALT",
+        "AST",
+        "ALP"
+      ]
+    },
+    {
+      "question": "Which condition is diagnosed by testing for Lupus anticoagulant, anticardiolipin antibodies, and anti-β2 glycoprotein I antibodies?",
+      "correct_answer": "Antiphospholipid syndrome",
+      "wrong_answers": [
+        "Hemophilia",
+        "Disseminated intravascular coagulation",
+        "Protein C deficiency"
+      ]
+    },
+    {
+      "question": "A patient with CBC abnormalities and M-protein >10% is most likely diagnosed with:",
+      "correct_answer": "Multiple myeloma",
+      "wrong_answers": [
+        "Leukemia",
+        "Lymphoma",
+        "Aplastic anemia"
+      ]
+    },
+    {
+      "question": "Which type of urinary cast is commonly seen in chronic kidney disease (CKD)?",
+      "correct_answer": "Waxy cast",
+      "wrong_answers": [
+        "RBC cast",
+        "WBC cast",
+        "Hyaline cast"
+      ]
+    },
+    {
+      "question": "A child presents with anemia, target cells, and delayed development. What is the most likely diagnosis?",
+      "correct_answer": "Thalassemia",
+      "wrong_answers": [
+        "Iron deficiency anemia",
+        "Sickle cell anemia",
+        "Megaloblastic anemia"
+      ]
+    },
+    {
+      "question": "Elevated PT, PTT, and D-dimer are characteristic of:",
+      "correct_answer": "Disseminated intravascular coagulation (DIC)",
+      "wrong_answers": [
+        "Hemophilia",
+        "Liver disease",
+        "Vitamin K deficiency"
+      ]
+    },
+    {
+      "question": "If a patient exercises before sample collection, which of the following is expected?",
+      "correct_answer": "Increased lactate and pyruvate",
+      "wrong_answers": [
+        "Decreased glucose",
+        "Decreased potassium",
+        "Increased calcium"
+      ]
+    },
+    {
+      "question": "Which stain is commonly used for white blood cells in peripheral blood smears?",
+      "correct_answer": "Leishman stain",
+      "wrong_answers": [
+        "Gram stain",
+        "Ziehl-Neelsen stain",
+        "PAS stain"
+      ]
+    },
+    {
+      "question": "A urine sample with pH 7.8 and crystals having a coffin-lid appearance suggests:",
+      "correct_answer": "Triple phosphate crystals",
+      "wrong_answers": [
+        "Uric acid crystals",
+        "Calcium oxalate crystals",
+        "Cystine crystals"
+      ]
+    },
+    {
+      "question": "Marked lymphocytic elevation in CSF is most suggestive of:",
+      "correct_answer": "Viral infection",
+      "wrong_answers": [
+        "Bacterial infection",
+        "Fungal infection",
+        "Tuberculosis"
+      ]
+    },
+    {
+      "question": "The normal color of peritoneal fluid is:",
+      "correct_answer": "Clear pale yellow",
+      "wrong_answers": [
+        "Milky white",
+        "Dark brown",
+        "Green"
+      ]
+    },
+    {
+      "question": "Yellow discoloration of CSF after centrifugation is called:",
+      "correct_answer": "Xanthochromia",
+      "wrong_answers": [
+        "Hematuria",
+        "Lipemia",
+        "Icterus"
+      ]
+    },
+    {
+      "question": "Which of the following is typically elevated in a hemolyzed blood sample?",
+      "correct_answer": "Potassium",
+      "wrong_answers": [
+        "Sodium",
+        "Calcium",
+        "Chloride"
+      ]
+    },
+    {
+      "question": "Which condition is commonly investigated using a 24-hour urine sample?",
+      "correct_answer": "Pheochromocytoma",
+      "wrong_answers": [
+        "Diabetes mellitus",
+        "Hypertension",
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "question": "In slide agglutination blood grouping, a patient showing no agglutination with anti-A and anti-B but agglutination with anti-D is:",
+      "correct_answer": "O+",
+      "wrong_answers": [
+        "A+",
+        "B+",
+        "AB+"
+      ]
+    }
+  ]
+}
