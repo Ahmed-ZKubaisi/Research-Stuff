@@ -255,7 +255,7 @@ function renderApp() {
         </div>
 
         <p class="small">${t('hint')}</p>
-        <div class="footer-credit">Web version of your quiz</div>
+        <div class="footer-credit">Website by Ahmed Zeyad Al-Kubaisi</div>
       </div>
     `;
 
