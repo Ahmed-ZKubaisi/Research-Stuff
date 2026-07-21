@@ -1,273 +1,354 @@
 {
   "questions": [
     {
-      "question": "A 30-year-old patient is suspected to have a chromosomal abnormality involving large structural changes. Which is the BEST initial test?",
-      "correct_answer": "Karyotyping",
+      "question": "In a study on patient demographics, Blood Group (O, A, B, AB) is collected. Which scale of measurement is most appropriate for this variable, and what statistical calculation is permissible?",
+      "correct_answer": "Nominal scale; Mode",
       "wrong_answers": [
-        "PCR",
-        "FISH",
-        "qPCR"
+        "Nominal scale; Median",
+        "Ratio scale; All arithmetic operations",
+        "Interval scale; Mean"
       ]
     },
     {
-      "question": "A leukemia patient requires detection of a specific translocation quickly. Best test?",
-      "correct_answer": "FISH",
+      "question": "A research team is studying the effectiveness of a new analgesic. They record 'pain intensity' using a Visual Analog Scale (VAS) from 0 to 10 (0 = no pain, 10 = worst pain imaginable). They also measure 'number of analgesic tablets consumed per day'. What is the most appropriate classification and scale of measurement for 'number of analgesic tablets consumed per day', and what calculations are permissible?",
+      "correct_answer": "Quantitative discrete; Ratio scale; All arithmetic operations are allowed.",
       "wrong_answers": [
-        "Karyotyping",
-        "PCR",
-        "DNA sequencing"
+        "Quantitative continuous; Ratio scale; Multiplication and division are allowed.",
+        "Quantitative discrete; Interval scale; Only addition and subtraction are allowed.",
+        "Qualitative ordinal; Ordinal scale; Only mode and median are allowed."
       ]
     },
     {
-      "question": "Which technique requires live dividing cells?",
-      "correct_answer": "Karyotyping",
+      "question": "A 72-year-old male with Alzheimer s disease is part of a research study evaluating cognitive function over time. The study records Mini-Mental State Examination (MMSE) score (range 0-30, where 30 is optimal), and body mass index (BMI) in kg/m^2. Which of the following correctly describes the properties and permissible calculations for BMI and MMSE score ?",
+      "correct_answer": "BMI: Ratio scale, all arithmetic operations; MMSE: Interval scale, can calculate mean.",
       "wrong_answers": [
-        "PCR",
-        "FISH",
-        "qPCR"
+        "BMI: Interval scale, cannot multiply; MMSE: Ordinal scale, can calculate median.",
+        "BMI: Ratio scale, can compare twice as heavy ; MMSE: Ordinal scale, only mode.",
+        "BMI: Continuous variable, only frequencies; MMSE: Discrete variable, only mode."
       ]
     },
     {
-      "question": "A clinician needs to detect a point mutation in a gene. Best test?",
-      "correct_answer": "PCR",
+      "question": "A study investigates the efficacy of a new surgical technique across a large, regional hospital system with multiple hospitals. The researchers want to include patients from various hospitals, assuming that patients within a hospital are relatively similar in terms of care received, but there might be differences between hospitals. A complete list of all patients across the system is not easily available, but a list of hospitals is. To effectively sample patients for this study, which probability sampling method would be most practical and appropriate?",
+      "correct_answer": "Cluster Sampling, by randomly selecting a subset of hospitals and studying all eligible patients within them.",
       "wrong_answers": [
-        "Karyotyping",
-        "FISH",
-        "Cytogenetics"
+        "Systematic Random Sampling, requiring a consolidated list of all patients.",
+        "Stratified Random Sampling, to ensure representation from each hospital.",
+        "Simple Random Sampling, requiring a complete list of all patients."
       ]
     },
     {
-      "question": "A viral load is being monitored in a patient with hepatitis. Best test?",
-      "correct_answer": "Real-time PCR",
+      "question": "A clinical researcher wants to investigate patient compliance with medication in a specific rare neurological disorder. Due to the rarity of the condition, finding a large number of participants is challenging, and no comprehensive registry exists. Which non-probability sampling method would be most practical for initially identifying and recruiting participants for this study?",
+      "correct_answer": "Snowball sampling, by asking existing patients to refer others with the condition.",
       "wrong_answers": [
-        "Conventional PCR",
-        "FISH",
-        "Karyotyping"
+        "Convenience sampling, by approaching patients at a general neurology clinic.",
+        "Quota sampling, by setting targets for age and gender groups.",
+        "Purposive sampling, by selecting patients known to specific neurologists."
       ]
     },
     {
-      "question": "Which of the following techniques is quantitative?",
-      "correct_answer": "Real-time PCR",
+      "question": "A physician conducting a small internal audit of patient wait times at a clinic decides to interview all patients who happen to be in the waiting room during their lunch break. Exemplifies which non-probability sampling method this dialogue represents ?",
+      "correct_answer": "Convenience Sampling",
       "wrong_answers": [
-        "Conventional PCR",
-        "Gel electrophoresis",
-        "Karyotyping"
+        "Purposive Sampling",
+        "Quota Sampling",
+        "Snowball Sampling"
       ]
     },
     {
-      "question": "PCR amplification follows which mathematical pattern?",
-      "correct_answer": "Logarithmic (2ⁿ)",
+      "question": "A research team needs to compare patient weights in kilograms before and after a dietary interventions . Which scale of measurement is this, and what conclusion is valid regarding relative magnitudes ?",
+      "correct_answer": "Ratio scale; A weight of 80 kg is twice as heavy as 40 kg.",
       "wrong_answers": [
-        "Linear",
-        "Constant",
-        "Random"
+        "Interval scale; A weight of 80 kg is 40 kg heavier than 40 kg, but not twice as heavy.",
+        "Nominal scale; Weights are merely categories without inherent order.",
+        "Ordinal scale; A weight of 80 kg indicates a higher category than 40 kg, but no precise difference."
       ]
     },
     {
-      "question": "A sample undergoes denaturation, annealing, and extension cycles. This describes:",
-      "correct_answer": "PCR",
+      "question": "A medical geneticist is conducting a study to identify associations between genetic markers and disease susceptibility. For each participant, they record presence or absence of a specific gene variant . Which type of variable is presence or absence of a specific gene variant?",
+      "correct_answer": "Qualitative dichotomous",
       "wrong_answers": [
-        "DNA sequencing",
-        "FISH",
-        "Karyotyping"
+        "Qualitative ordinal",
+        "Quantitative discrete",
+        "Quantitative continuous"
       ]
     },
     {
-      "question": "Which PCR type is used to detect RNA viruses?",
-      "correct_answer": "RT-PCR",
+      "question": "A hospital administrator wants to assess staff satisfaction with new electronic health record (EHR) software. The hospital has several departments (e.g., Surgery, Internal Medicine, Pediatrics, Emergency). The administrator wants to ensure that each department s views are proportionately represented in the sample, as opinions might vary significantly between departments. Which probability sampling method should be used to ensure proportionate representation from each department?",
+      "correct_answer": "Proportionate Stratified Random Sampling, by department.",
       "wrong_answers": [
-        "qPCR",
-        "Multiplex PCR",
-        "Digital PCR"
+        "Simple Random Sampling, from the entire staff list.",
+        "Systematic Random Sampling, from the entire staff list.",
+        "Cluster Sampling, by randomly selecting a few departments."
       ]
     },
     {
-      "question": "Which technique detects DNA during amplification (not endpoint)?",
-      "correct_answer": "qPCR",
+      "question": "A medical device company wants to quickly gather initial feedback on a prototype device. They conduct brief interviews with individuals visiting their booth at a medical conference. The researchers select participants based solely on their immediate availability and willingness to participate. What type of non-probability sampling method is this, and what is its primary limitation for generalizing results?",
+      "correct_answer": "Convenience sampling; Highly prone to selection bias as it doesn’t represent the broader population.",
       "wrong_answers": [
-        "Conventional PCR",
-        "FISH",
-        "Sanger sequencing"
+        "Purposive sampling; Limited by researcher s subjective judgment.",
+        "Snowball sampling; Limited by difficulty in reaching diverse networks.",
+        "Quota sampling; Limited by not using random selection within strata."
       ]
     },
     {
-      "question": "Which technique uses fluorescent probes binding to DNA?",
-      "correct_answer": "FISH",
+      "question": "In a study of patient satisfaction in a large hospital, a researcher decides to select every 10th patient from an alphabetical list of all admitted patients over a month, after randomly choosing the first patient. Which probability sampling method is being employed?",
+      "correct_answer": "Systematic Random Sampling",
       "wrong_answers": [
-        "PCR",
-        "Karyotyping",
-        "ELISA"
+        "Simple Random Sampling",
+        "Stratified Random Sampling",
+        "Cluster Sampling"
       ]
     },
     {
-      "question": "Which technique detects large chromosomal abnormalities (>5 Mb)?",
-      "correct_answer": "Karyotyping",
+      "question": "A public health survey aims to assess the vaccination status of school children across several large provinces. Given the wide geographical spread, the researchers first randomly select a few provinces, then specific districts within those provinces, and finally schools within the selected districts. Which complex probability sampling method is being utilized?",
+      "correct_answer": "Multistage Random Sampling",
       "wrong_answers": [
-        "PCR",
-        "FISH",
-        "qPCR"
+        "Stratified Random Sampling",
+        "Cluster Sampling",
+        "Simple Random Sampling"
       ]
     },
     {
-      "question": "Which of the following is TRUE about FISH?",
-      "correct_answer": "Uses fluorescent probes",
+      "question": "A medical researcher is conducting a study on chronic pain management and needs to recruit 200 participants. They decide to recruit patients directly from a pain clinic until the target number of patients is met. However, they aim to ensure that the sample has an equal number of males and females, and an equal number of patients above and below 60 years of age. Which non-probability sampling method is being used in this scenario to control for specific characteristics ?",
+      "correct_answer": "Quota sampling",
       "wrong_answers": [
-        "Needs live cells",
-        "Detects only RNA",
-        "Low specificity"
+        "Stratified sampling",
+        "Purposive sampling",
+        "Cluster sampling"
       ]
     },
     {
-      "question": "Genetic test identifies trisomy 21. This is an example of:",
-      "correct_answer": "Numerical abnormality",
+      "question": "A clinical pathologist collects data on patient age at diagnosis (in years) and type of malignancy (e.g., carcinoma, sarcoma, lymphoma, leukemia). How are these two variables, patient age at diagnosis and type of malignancy , respectively classified?",
+      "correct_answer": "Quantitative continuous; Qualitative nominal.",
       "wrong_answers": [
-        "Structural abnormality",
-        "Mutation",
-        "Inversion"
+        "Quantitative discrete; Qualitative ordinal.",
+        "Qualitative nominal; Quantitative continuous.",
+        "Qualitative ordinal; Quantitative discrete."
       ]
     },
     {
-      "question": "Turner syndrome is:",
-      "correct_answer": "XO",
+      "question": "A research study aims to determine if a new chemotherapy regimen is more effective than the standard one. Which section of biostatistics would be primarily involved in drawing conclusions about the treatment efficacy for the broader patient population?",
+      "correct_answer": "Inferential statistics, by finding associations and causal relationships.",
       "wrong_answers": [
-        "XXY",
-        "Trisomy",
-        "Translocation"
+        "Descriptive statistics, by summarizing patient response rates.",
+        "Exploratory statistics, by visualizing initial data trends.",
+        "Biostatistical epidemiology, by tracking disease incidence."
       ]
     },
     {
-      "question": "Klinefelter syndrome is:",
-      "correct_answer": "XXY",
+      "question": "A pharmaceutical company is testing a new drug for a chronic disease. To ensure the sample accurately represents the diverse patient population with varying disease severities (mild, moderate, severe), researchers divide the population into these severity groups and then randomly select participants from each group. Which sampling method is described?",
+      "correct_answer": "Stratified Random Sampling",
       "wrong_answers": [
-        "XO",
-        "Trisomy 21",
-        "Deletion"
+        "Systematic Random Sampling",
+        "Simple Random Sampling",
+        "Convenience Sampling"
       ]
     },
     {
-      "question": "Which sequencing method is MOST accurate for small genes?",
-      "correct_answer": "Sanger sequencing",
+      "question": "Which of the following sampling methods would give a more “accurate” representation of the population from which the sample has been taken?",
+      "correct_answer": "A large sample based on simple random sampling method",
       "wrong_answers": [
-        "NGS",
-        "3rd generation",
-        "PCR"
+        "A small sample based on purposive sampling method.",
+        "A small sample based on stratified random sampling method.",
+        "A large sample based on the convenience sampling method."
       ]
     },
     {
-      "question": "Which sequencing method provides massive parallel sequencing?",
-      "correct_answer": "NGS",
+      "question": "What sampling method would you use to assess the nutritional status of primary school children in Alexandria?",
+      "correct_answer": "Cluster sampling",
       "wrong_answers": [
-        "Sanger",
-        "PCR",
-        "FISH"
+        "Quota sampling",
+        "Simple random sampling",
+        "Snow ball sampling"
       ]
     },
     {
-      "question": "Which sequencing method produces long reads?",
-      "correct_answer": "Third-generation sequencing",
+      "question": "Which type of sampling is most appropriate for studying the prevalence of a rare genetic disorder?",
+      "correct_answer": "Snow ball sampling",
       "wrong_answers": [
-        "Sanger",
-        "NGS",
-        "PCR"
+        "Quota sampling",
+        "Simple random sampling",
+        "Cluster sampling"
       ]
     },
     {
-      "question": "Which PCR component provides building blocks?",
-      "correct_answer": "dNTPs",
+      "question": "When defining a population of interest for a study, which critical list or directory provides the actual individuals from which a sample will be drawn?",
+      "correct_answer": "Sampling frame",
       "wrong_answers": [
-        "Primers",
-        "DNA polymerase",
-        "Template DNA"
+        "Target population register",
+        "Study cohort index",
+        "Eligibility criteria list"
       ]
     },
     {
-      "question": "Which PCR component determines specificity?",
-      "correct_answer": "Primers",
+      "question": "A public health researcher is studying the impact of air pollution on respiratory diseases in an urban area. The population is highly diverse, with significant variation in socioeconomic status, age, and ethnicity. Which sampling method(s) should the researcher use to ensure that the study accurately reflects the diversity of the population?",
+      "correct_answer": "Cluster sampling",
       "wrong_answers": [
-        "dNTPs",
-        "Polymerase",
-        "Buffer"
+        "Quota sampling",
+        "Simple random sampling",
+        "Snowball sampling"
       ]
     },
     {
-      "question": "Which mutation is associated with polycythemia vera?",
-      "correct_answer": "JAK2 V617F",
+      "question": "In a study, school children are separated into two groups according to gender, and then some are selected randomly from each of these groups. What type of sampling is being done?",
+      "correct_answer": "Stratified random sampling",
       "wrong_answers": [
-        "BCR-ABL",
-        "p53",
-        "KRAS"
+        "Simple random sampling",
+        "Systematic random sampling",
+        "Cluster random sampling"
       ]
     },
     {
-      "question": "JAK2 mutation is present in what % of PV cases?",
-      "correct_answer": "90–95%",
+      "question": "For an epidemiological study, every 10th person is selected from a population. This type of sampling is known as:",
+      "correct_answer": "Systematic random sampling",
       "wrong_answers": [
-        "30–40%",
-        "50%",
-        "70%"
+        "Simple random sampling",
+        "Stratified random sampling",
+        "Cluster random sampling"
       ]
     },
     {
-      "question": "Which technique is best for minimal residual disease (MRD)?",
-      "correct_answer": "Digital PCR",
+      "question": "In a study first schools are sampled, then grades, and finally students. This type of sampling is known as:",
+      "correct_answer": "Multistage sampling",
       "wrong_answers": [
-        "Karyotyping",
-        "PCR",
-        "FISH"
+        "Stratified sampling",
+        "Simple random sampling",
+        "Cluster sampling"
       ]
     },
     {
-      "question": "Which technique compares results between laboratories?",
-      "correct_answer": "External QC",
+      "question": "Regarding probability sampling; which of the following statements is true:",
+      "correct_answer": "Inferences drawn could be generalized to the population",
       "wrong_answers": [
-        "Internal QC",
-        "PCR",
-        "FISH"
+        "Sample is not representative of the population from which it was drawn",
+        "It is an easy and cheap technique",
+        "Chance of bias is increased"
       ]
     },
     {
-      "question": "Which of the following detects gene expression?",
-      "correct_answer": "RT-PCR",
+      "question": "Which of the following sampling techniques is most representative of population ?",
+      "correct_answer": "Stratified sampling",
       "wrong_answers": [
-        "Karyotyping",
-        "PCR",
-        "FISH"
+        "Convenience sampling",
+        "Purposive sampling",
+        "Cluster sampling"
       ]
     },
     {
-      "question": "A test detects DNA sequence order (A, T, C, G). This is:",
-      "correct_answer": "Sequencing",
+      "question": "Which of the following is the most commonly used technique of sampling in clinical research ?",
+      "correct_answer": "Opportunity sampling",
       "wrong_answers": [
-        "PCR",
-        "FISH",
-        "Cytogenetics"
+        "Simple random sampling",
+        "Stratified random sampling",
+        "Purposive sampling"
       ]
     },
     {
-      "question": "Which bond links nucleotides in DNA backbone?",
-      "correct_answer": "Phosphodiester bond",
+      "question": "Which of the following is a qualitative nominal variable?",
+      "correct_answer": "High-density lipoprotein level (Normal/high).",
       "wrong_answers": [
-        "Hydrogen bond",
-        "Peptide bond",
-        "Ionic bond"
+        "Number of chest x-ray films for patients with pulmonary tuberculosis.",
+        "Hepatocellular carcinoma rates in the Middle East (cases per 100,000 people).",
+        "Vaccination rate of infants in three Governorates (Cairo, Alexandria, &Tanta)."
       ]
     },
     {
-      "question": "Which bases are purines?",
-      "correct_answer": "A & G",
+      "question": "A systematic sample is being drawn from a list of 1,200 students. The sampling interval is calculated as 30. What was the intended sample size (n) for this study?",
+      "correct_answer": "40",
       "wrong_answers": [
-        "C & T",
-        "A & T",
-        "G & C"
+        "30",
+        "60",
+        "120"
       ]
     },
     {
-      "question": "RNA differs from DNA by:",
-      "correct_answer": "Ribose sugar",
+      "question": "In a population of 500 medical students, 150 are Male and 350 are Female. A researcher wants to perform a Stratified Random Sample of 50 students using Proportionate Allocation . How many Male students should be included in the sample?",
+      "correct_answer": "15",
       "wrong_answers": [
-        "Double strand",
-        "Thymine",
-        "Stability"
+        "25",
+        "35",
+        "50"
+      ]
+    },
+    {
+      "question": "If a researcher labels subjects as 1=Egyptian, 2=Syrian, and 3=German, which mathematical operation is valid on these specific numbers?",
+      "correct_answer": "Calculating the frequency of people in each category",
+      "wrong_answers": [
+        "Adding the values to find a sum",
+        "Calculating the Mean of the values",
+        "Subtracting the values to find the difference"
+      ]
+    },
+    {
+      "question": "When a population is divided into groups like districts and every single individual within a randomly selected district is studied, the method is known as:",
+      "correct_answer": "Cluster Sampling",
+      "wrong_answers": [
+        "Stratified Random Sampling",
+        "Systematic Sampling",
+        "Multistage Random Sampling"
+      ]
+    },
+    {
+      "question": "An investigator selects 10 specific patients from a hospice ward to interview about end-of-life ethics, specifically choosing those he believes are most capable of articulating complex moral views based on his previous clinical interactions. What is this sampling method called?",
+      "correct_answer": "Purposive Sampling",
+      "wrong_answers": [
+        "Convenience Sampling",
+        "Snowball Sampling",
+        "Simple Random Sampling"
+      ]
+    },
+    {
+      "question": "In a neonatal intensive care unit, the weights of 5 male neonates are recorded to monitor growth: 3.2 kg, 2.8 kg, 3.5 kg, 3.0 kg, and 3.1 kg. Which mathematical property allows the researcher to say that the 3.0 kg neonate is exactly 1.07 times heavier than the 2.8 kg neonate?",
+      "correct_answer": "Presence of a true zero point",
+      "wrong_answers": [
+        "Presence of an arbitrary zero",
+        "Existence of equal intervals",
+        "Categorical mutually exclusive labels"
+      ]
+    },
+    {
+      "question": "Why is Non-Probability Sampling generally not recommended for scientific research intended to support statistical inferences?",
+      "correct_answer": "Inferences cannot be generalized to the population",
+      "wrong_answers": [
+        "It requires a complete sampling frame",
+        "Every unit has an equal chance of selection",
+        "It is more expensive than probability sampling"
+      ]
+    },
+    {
+      "question": "During a sudden outbreak of bacterial meningitis, a 19-year-old male presents to the Emergency Room with high fever and neck stiffness. A researcher decides to study the first 20 patients who arrive that morning to get a rapid assessment of symptoms. Which sampling method is this researcher using?",
+      "correct_answer": "Convenience Sampling",
+      "wrong_answers": [
+        "Systematic Random Sampling",
+        "Purposive Sampling",
+        "Cluster Sampling"
+      ]
+    },
+    {
+      "question": "A researcher has a sampling frame (N) of 2,000 patients and needs a sample size (n) of 50 using systematic random sampling. What is the sampling interval the researcher should use to select patients after the first random start?",
+      "correct_answer": "40",
+      "wrong_answers": [
+        "20",
+        "50",
+        "100"
+      ]
+    },
+    {
+      "question": "which category does number of eyes typically fall under when comparing a healthy human population?",
+      "correct_answer": "Constant data",
+      "wrong_answers": [
+        "Qualitative ordinal",
+        "Quantitative discrete",
+        "Dichotomous variable"
+      ]
+    },
+    {
+      "question": "In a Quota Sampling study, a researcher needs to represent four age groups (20-30, 31-40, 41-50, 51-60) equally in a total sample of 200. How many participants must the researcher find for the 41-50 age group quota?",
+      "correct_answer": "50",
+      "wrong_answers": [
+        "40",
+        "25",
+        "100"
       ]
     }
   ]

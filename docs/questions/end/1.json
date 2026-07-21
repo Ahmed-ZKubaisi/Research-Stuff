@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "question": "A researcher is critically appraising a published article that strongly promotes a specific drug. It is later discovered that the study was funded by the pharmaceutical company producing that drug. Which of the following values is most important to consider when evaluating this article?",
+      "correct_answer": "B. Objectivity",
+      "wrong_answers": [
+        "A. Accuracy",
+        "C. Currency",
+        "D. Authority"
+      ]
+    },
+    {
+      "question": "A public health researcher asks: \"What are the barriers to the use of contraceptive methods among women?\" This question is best classified as:",
+      "correct_answer": "C. Descriptive",
+      "wrong_answers": [
+        "A. Casual",
+        "B. Comparative",
+        "D. Interventional"
+      ]
+    },
+    {
+      "question": "In RCT, which bias is mainly minimized when the study is double-blinded?",
+      "correct_answer": "B. Information bias",
+      "wrong_answers": [
+        "A. Selection bias",
+        "C. Attrition bias",
+        "D. Confounding"
+      ]
+    },
+    {
+      "question": "An investigator wanted to study the relation between rare hematologic disorders in young infants & mothers smoking during pregnancy. Which is the best study design?",
+      "correct_answer": "A. Case-control study",
+      "wrong_answers": [
+        "B. Prospective cohort",
+        "C. Ecological study",
+        "D. Cross-sectional study"
+      ]
+    },
+    {
+      "question": "A researcher includes the question: \"Do you agree on the vaccine efficiency and safety?\" in a survey. Why is this question considered inappropriate?",
+      "correct_answer": "B. It is double-barrelled",
+      "wrong_answers": [
+        "A. It is a negative question",
+        "C. It is open-ended",
+        "D. It is leading"
+      ]
+    },
+    {
+      "question": "Which of the following situations makes graphs more preferable than tables?",
+      "correct_answer": "B. When you want to show trends or changes over time",
+      "wrong_answers": [
+        "A. When the data is simple and can be described in text",
+        "C. When you need to present exact numerical values",
+        "D. When specific inter-relationships are required"
+      ]
+    },
+    {
+      "question": "A researcher is conducting a study and he increases the sample size from 100 to 400 regarding that other parameters (mean, deviation) is constant. What is the expected effect of this change on the confidence interval (CI)?",
+      "correct_answer": "B. The confidence interval becomes narrower",
+      "wrong_answers": [
+        "A. The confidence interval becomes wider",
+        "C. The confidence interval remains unchanged",
+        "D. The confidence interval becomes invalid"
+      ]
+    },
+    {
+      "question": "A researcher is conducting a statistical test with a significance level (α) set at 0.05 and a Type II error (β) of 10%. What is the statistical power of this study?",
+      "correct_answer": "A. 90%",
+      "wrong_answers": [
+        "B. 10%",
+        "C. 95%",
+        "D. 5%"
+      ]
+    },
+    {
+      "question": "A pediatric researcher enrolls newborn infants at birth in a hospital. A total of 200 babies are included and immediately classified into two groups based on head circumference measured at birth: 100 newborns with normal head circumference and 100 newborns with high head circumference. The researcher then follows both groups for 10 years without any intervention and measures their IQ at age 10 to compare cognitive outcomes between the two groups. What type of study design is this?",
+      "correct_answer": "C. Prospective cohort study",
+      "wrong_answers": [
+        "A. Cross-sectional study",
+        "B. Case-control study",
+        "D. Randomized controlled trial"
+      ]
+    },
+    {
+      "question": "A study is conducted to investigate the association between patients' level of education (high school vs. master) and their starting salary in their occupation. The researcher aims to assess the correlation of the relationship between these two variables. Which of the following is the most appropriate statistical test for this correlation?",
+      "correct_answer": "B. Spearman correlation",
+      "wrong_answers": [
+        "A. Pearson correlation",
+        "C. Chi-square test",
+        "D. Linear regression"
+      ]
+    },
+    {
+      "question": "Which of the following should be included in the appendices of a research proposal?",
+      "correct_answer": "A. Data collection tools",
+      "wrong_answers": [
+        "B. List of references",
+        "C. Results section",
+        "D. Discussion"
+      ]
+    },
+    {
+      "question": "Which of the following non-parametric tests is used to compare observations between two independent groups?",
+      "correct_answer": "B. Mann–Whitney U test",
+      "wrong_answers": [
+        "A. Paired t-test",
+        "C. One-way ANOVA",
+        "D. Student t-test"
+      ]
+    },
+    {
+      "question": "A researcher compares mean blood pressure in three independent treatment groups that are normally distributed. Which test is appropriate?",
+      "correct_answer": "C. One-way ANOVA",
+      "wrong_answers": [
+        "A. Kruskal–Wallis test",
+        "B. Mann–Whitney U test",
+        "D. Wilcoxon signed-rank test"
+      ]
+    },
+    {
+      "question": "A researcher is comparing the efficacy of a new vaccine versus no vaccine in elderly patients to see which group has better protection against infection. What is the type of this study?",
+      "correct_answer": "D. Randomized controlled trial",
+      "wrong_answers": [
+        "A. Cross-sectional study",
+        "B. Case-control study",
+        "C. Cohort study"
+      ]
+    },
+    {
+      "question": "Which of the following is used to compare the variability of different datasets that have different units?",
+      "correct_answer": "C. Coefficient of variation",
+      "wrong_answers": [
+        "A. Interquartile range",
+        "B. Variance",
+        "D. Range"
+      ]
+    },
+    {
+      "question": "Which of the following variables is a quantitative discrete variable?",
+      "correct_answer": "B. Heart rate (beats per minute)",
+      "wrong_answers": [
+        "A. Height of students (cm)",
+        "C. Blood pressure (mmHg)",
+        "D. Body temperature (°C)"
+      ]
+    },
+    {
+      "question": "Which of the following quantitative data collection methods typically uses a structured checklist for collection?",
+      "correct_answer": "C. Observation of performance",
+      "wrong_answers": [
+        "A. In-depth interviews",
+        "B. Focus group discussions",
+        "D. Self-report methods"
+      ]
+    },
+    {
+      "question": "A researcher is studying a rare disease among intravenous drug users using referrals from participants to recruit more subjects. What type of sampling method is being used?",
+      "correct_answer": "B. Non-probability sampling with higher risk of selection bias",
+      "wrong_answers": [
+        "A. Probability sampling",
+        "C. Stratified sampling",
+        "D. Simple random sampling"
+      ]
+    },
+    {
+      "question": "Which of the following is an advantage of a correlation study?",
+      "correct_answer": "C. It helps in generating hypotheses for further research",
+      "wrong_answers": [
+        "A. It establishes cause and effect relationships",
+        "B. It eliminates all confounding variables",
+        "D. It can be applied at the individual level only"
+      ]
+    },
+    {
+      "question": "Which of the following is a feature of a retrospective cohort?",
+      "correct_answer": "D. Both exposure and outcome already occurred",
+      "wrong_answers": [
+        "A. Starts with outcome",
+        "B. Starts with exposure and follows forward",
+        "C. Manipulates exposure"
+      ]
+    },
+    {
+      "question": "What is the main aim of randomisation in a case-control study?",
+      "correct_answer": "B. Ensure appropriate distribution of exposure",
+      "wrong_answers": [
+        "A. Minimizing variables in observation due to confounding factors",
+        "C. Eliminate attrition bias",
+        "D. Increase sample size"
+      ]
+    },
+    {
+      "question": "Calculate the interquartile range (IQR): Given that Q3 = 61 and Q1 = 12. What is the IQR?",
+      "correct_answer": "B. 49",
+      "wrong_answers": [
+        "A. 45",
+        "C. 52",
+        "D. 56"
+      ]
+    },
+    {
+      "question": "In preparation for a biostatistics examination, 200 medical students completed 100 questions in a practice test. Each student answered between 35 and 59 questions correctly. The number of correct answers per student was distributed normally. The arithmetic mean of the number of correct answers was 47, with a standard deviation of 4. Approximately, what is the percentage of students who answered more than 55 questions correctly?",
+      "correct_answer": "A. 2.5%",
+      "wrong_answers": [
+        "B. 5%",
+        "C. 8%",
+        "D. 14%"
+      ]
+    },
+    {
+      "question": "A researcher collected data from 2000 participants simultaneously to assess the prevalence of hypertension. What type of study is this?",
+      "correct_answer": "C. Cross-sectional",
+      "wrong_answers": [
+        "A. Case-control",
+        "B. Cohort",
+        "D. RCT"
+      ]
+    },
+    {
+      "question": "Introduction of research proposal includes?",
+      "correct_answer": "B. Expected outcomes",
+      "wrong_answers": [
+        "A. Data analysis",
+        "C. inclusion &exclusion criteria",
+        "D. Budget"
+      ]
+    }
+  ]
+}

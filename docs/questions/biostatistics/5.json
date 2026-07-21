@@ -1,1003 +1,471 @@
 {
   "questions": [
     {
-      "question": "A patient presents with mucosal bleeding and petechiae. Which phase of hemostasis is most likely affected?",
-      "correct_answer": "Platelet phase",
+      "question": "Selecting the significance level α will determine:",
+      "correct_answer": "The probability of type I error",
       "wrong_answers": [
-        "Vasoconstriction",
-        "Coagulation phase",
-        "Fibrinolysis",
-        "Complement activation"
+        "The probability of type II error",
+        "The power",
+        "The correlation"
       ]
     },
     {
-      "question": "Bleeding time primarily assesses:",
-      "correct_answer": "Platelet function",
+      "question": "Bottles of water have a label stating that the volume is 12 oz. A consumer group suspects the bottles are under-filled and plans to conduct a test. A Type I error in this situation would mean:",
+      "correct_answer": "The consumer group concludes that the bottles have less than 12 oz. when the mean actually is 12 oz.",
       "wrong_answers": [
-        "Coagulation factors",
-        "Fibrinolysis",
-        "PT pathway",
-        "Liver function"
+        "The consumer group doesn’t conclude that the bottles have less than 12 oz. when the mean actually is less than 12 oz.",
+        "The consumer group has evidence that the label is incorrect.",
+        "The consumer group concludes that the bottles have 12 oz. when the mean actually is less than 12 oz."
       ]
     },
     {
-      "question": "Prolonged BT with normal platelet count suggests:",
-      "correct_answer": "Functional platelet defect",
+      "question": "Bottles of water have a label stating that the volume is 12 oz. A consumer group suspects the bottles are under-filled and plans to conduct a test. A Type II error in this situation would mean:",
+      "correct_answer": "The consumer group doesn’t conclude that the bottles have less than 12 oz. when the mean actually is less than 12 oz.",
       "wrong_answers": [
-        "Quantitative platelet disorder",
-        "Coagulation factor deficiency",
-        "DIC",
-        "Hemophilia"
+        "The consumer group concludes that the bottles have less than 12 oz. when the mean actually is 12 oz.",
+        "The consumer group has evidence that the label is incorrect.",
+        "The consumer group concludes that the bottles have 12 oz. when the mean actually is less than 12 oz."
       ]
     },
     {
-      "question": "PT evaluates which pathway?",
-      "correct_answer": "Extrinsic + common",
+      "question": "A hypothesis test was done (at level of significance of 5%), in which the alternative hypothesis states that more than 10% of a population is left handed. The p-value for the test is calculated to be 0.025. What could be concluded?",
+      "correct_answer": "We can conclude that more than 10% of the population is left-handed.",
       "wrong_answers": [
-        "Intrinsic",
-        "Intrinsic + extrinsic",
-        "Fibrinolytic",
-        "Platelet phase"
+        "We can conclude that more than 25% of the population is left-handed.",
+        "We can conclude that exactly 25% of the population is left-handed.",
+        "We cannot conclude that more than 10% of the population is left-handed."
       ]
     },
     {
-      "question": "A patient on warfarin is monitored using:",
-      "correct_answer": "INR",
+      "question": "The confidence interval is constructed around the --.",
+      "correct_answer": "Sample mean",
       "wrong_answers": [
-        "APTT",
-        "TT",
-        "BT",
-        "Platelet count"
+        "Population parameter",
+        "Population mean",
+        "Degree of confidence"
       ]
     },
     {
-      "question": "APTT measures deficiency of:",
-      "correct_answer": "Factor VIII",
+      "question": "Suppose a 95% confidence interval is (1000- 2100). Give a definition of what it means to be “95% confident”.",
+      "correct_answer": "In repeated sampling, 95% of time the confidence interval will include the population parameter",
       "wrong_answers": [
-        "Factor VII",
-        "Factor V",
-        "Factor II",
-        "Factor XIII"
+        "95% of the observations in the entire population fall in the given interval.",
+        "In repeated sampling, 95% of the intervals constructed would contain the sample mean.",
+        "95% of the observations in the sample fall in the given interval."
       ]
     },
     {
-      "question": "Thrombin time is prolonged in all EXCEPT:",
-      "correct_answer": "Warfarin therapy",
+      "question": "If the significance level, α, is increased, then the chance of a Type I error will:",
+      "correct_answer": "Increase",
       "wrong_answers": [
-        "DIC",
-        "Liver disease",
-        "Hypofibrinogenemia",
-        "Thrombolysis"
+        "Remains the same",
+        "Decrease",
+        "Fluctuate"
       ]
     },
     {
-      "question": "Isolated prolonged PT is seen in:",
-      "correct_answer": "Factor VII deficiency",
+      "question": "If the significance level, α, is increased then the chance of a Type II error will:",
+      "correct_answer": "Decrease",
       "wrong_answers": [
-        "Hemophilia",
-        "vWD",
-        "Heparin use",
-        "DIC"
+        "Remains the same",
+        "Increase",
+        "Fluctuate"
       ]
     },
     {
-      "question": "Prolonged APTT only is seen in:",
-      "correct_answer": "Hemophilia",
+      "question": "Type 1 and 2 errors can be decreased by",
+      "correct_answer": "Using a larger sample size",
       "wrong_answers": [
-        "Warfarin therapy",
-        "Vitamin K deficiency",
-        "Liver disease",
-        "DIC"
+        "Choosing a larger value for α",
+        "Choosing a larger value for β",
+        "Using a smaller sample size"
       ]
     },
     {
-      "question": "Both PT & APTT prolonged in:",
-      "correct_answer": "Severe vitamin K deficiency",
+      "question": "What would a coefficient of correlation value of “r = - 0.8” indicate?",
+      "correct_answer": "Strong inverse relationship between two variables",
       "wrong_answers": [
-        "Hemophilia",
-        "vWD",
-        "Factor VII deficiency",
-        "Isolated platelet disorder"
+        "Strong direct relationship between two variables",
+        "Insignificant association between two variables",
+        "One variable is the cause of the other variable"
       ]
     },
     {
-      "question": "Normal platelet count is:",
-      "correct_answer": "150–450 ×10⁹/L",
+      "question": "A 45-year-old male presents with fatigue and weight loss over three months. A diagnostic test for a specific protein marker is conducted; the null hypothesis is that the marker is not elevated. The test shows elevated protein levels , and subsequent clinical follow-up confirms the protein level is normal. Which category does this outcome fall into?",
+      "correct_answer": "Type I Error",
       "wrong_answers": [
-        "50–100 ×10⁹/L",
-        "100–200 ×10⁹/L",
-        "300–600 ×10⁹/L",
-        "400–700 ×10⁹/L"
+        "True Negative",
+        "Type II Error",
+        "True Positive"
       ]
     },
     {
-      "question": "Spontaneous bleeding occurs when platelets are:",
-      "correct_answer": "<20k",
+      "question": "A study on the relationship between level of education (Categorized as: High School, Bachelor, Master, PhD) and health literacy score found a strong association. which correlation method was most likely utilized?",
+      "correct_answer": "Spearman rank correlation",
       "wrong_answers": [
-        "<100k",
-        "<50k",
-        "<10k",
-        "<5k"
+        "Pearson correlation",
+        "Multiple regression analysis",
+        "Simple linear regression"
       ]
     },
     {
-      "question": "Which is a qualitative platelet disorder?",
-      "correct_answer": "Glanzmann thrombasthenia",
+      "question": "The range of the correlation coefficient r is defined as:",
+      "correct_answer": "-1 to +1",
       "wrong_answers": [
-        "ITP",
-        "TTP",
-        "DIC",
-        "Splenic sequestration"
+        "0 to +1",
+        "-1 to 0",
+        "0 to 100"
       ]
     },
     {
-      "question": "Gold standard for platelet aggregation testing:",
-      "correct_answer": "Light transmission aggregometry",
+      "question": "A 28-year-old male is screened for COVID-19 after a close contact. The PCR test returns a negative result, and he is told he is healthy. Three days later, he is hospitalized with severe viral pneumonia and a positive repeat PCR. Which statistical outcome does this represent?",
+      "correct_answer": "Type II Error",
       "wrong_answers": [
-        "BT",
-        "PFA-100",
-        "PT",
-        "TT"
+        "False Positive",
+        "Type I Error",
+        "True Negative"
       ]
     },
     {
-      "question": "Hess test evaluates:",
-      "correct_answer": "Capillary fragility",
+      "question": "A study evaluates 100 male cardiac patients (ages 40-65) with stable angina over six months. The researcher finds a correlation coefficient of r = -0.75 between daily exercise hours and resting heart rate. What is the best interpretation of this correlation?",
+      "correct_answer": "Strong negative correlation",
       "wrong_answers": [
-        "Platelet aggregation",
-        "Coagulation factors",
-        "Fibrinolysis",
-        "Protein C"
+        "Weak negative correlation",
+        "Strong positive correlation",
+        "Moderate positive correlation"
       ]
     },
     {
-      "question": "Hemophilia A deficiency is of:",
-      "correct_answer": "Factor VIII",
+      "question": "In a simple linear regression equation y = a + bx, what does the b coefficient represent?",
+      "correct_answer": "The slope of the regression line",
       "wrong_answers": [
-        "Factor IX",
-        "Factor VII",
-        "Factor X",
-        "Factor V"
+        "The y-intercept of the line",
+        "The predicted value of the dependent variable",
+        "The correlation coefficient"
       ]
     },
     {
-      "question": "Lab pattern in hemophilia:",
-      "correct_answer": "↑ APTT",
+      "question": "A 45-year-old female presents with a painless breast mass of two months duration. An experimental biopsy stain suggests malignancy, but subsequent surgical resection and full histological review show only benign fibrocystic changes. Which statistical error does the stain represent?",
+      "correct_answer": "Type I Error",
       "wrong_answers": [
-        "↑ BT",
-        "↑ PT",
-        "↓ Platelets",
-        "↑ TT"
+        "Beta Error",
+        "False Negative",
+        "True Positive"
       ]
     },
     {
-      "question": "vWF function includes:",
-      "correct_answer": "Platelet adhesion",
+      "question": "Which correlation test is specifically designated as a parametric test for normally distributed quantitative variables?",
+      "correct_answer": "Pearson correlation",
       "wrong_answers": [
-        "Activates factor X",
-        "Fibrin breakdown",
-        "Anticoagulation",
-        "Platelet destruction"
+        "Spearman rank correlation",
+        "Regression analysis",
+        "Chi-squared test"
       ]
     },
     {
-      "question": "Vitamin K deficiency affects:",
-      "correct_answer": "II, VII, IX, X",
+      "question": "A pharmaceutical company is testing a new analgesic. They set alpha at 0.01 to be very rigorous. Their study fails to show a significant difference compared to placebo (p=0.03), even though the drug actually works. By choosing a lower alpha (0.01 instead of 0.05), what effect did this have on their error rates?",
+      "correct_answer": "It increased the chance of a Type II error.",
       "wrong_answers": [
-        "I, II, III",
-        "V, VIII",
-        "XI, XII",
-        "XIII"
+        "It increased the chance of a Type I error.",
+        "It decreased the chance of a Type II error.",
+        "It had no effect on the probability of a false negative."
       ]
     },
     {
-      "question": "DIC is characterized by:",
-      "correct_answer": "Consumption of clotting factors",
+      "question": "Regarding the relationship between Type I and Type II errors, which of the following statements is pathologically and statistically accurate?",
+      "correct_answer": "Decreasing the Type I error rate automatically increases the probability of failing to detect a true effect.",
       "wrong_answers": [
-        "Increased fibrinogen",
-        "Decreased D-dimer",
-        "Increased platelets",
-        "Normal PT"
+        "Increasing the alpha level decreases the rejection region, thereby increasing the Type II error rate.",
+        "A smaller alpha results in a more powerful test because it reduces false positives.",
+        "The two types of errors are directly proportional to one another."
       ]
     },
     {
-      "question": "Most reliable simple test of renal function:",
-      "correct_answer": "Creatinine",
+      "question": "Which statistical tool is most appropriate for predicting the specific amount of change in a patient's serum creatinine based on a change in drug dosage?",
+      "correct_answer": "Regression analysis",
       "wrong_answers": [
-        "Urea",
-        "Uric acid",
-        "Sodium",
-        "Potassium"
+        "Pearson correlation",
+        "Spearman rank correlation",
+        "Scatter plot diagram"
       ]
     },
     {
-      "question": "Creatinine is affected by:",
-      "correct_answer": "Muscle mass",
+      "question": "What is the primary visual function of a scatter plot diagram?",
+      "correct_answer": "To determine if a relationship exists between paired data.",
       "wrong_answers": [
-        "Liver function",
-        "Diet only",
-        "Platelets",
-        "Hormones"
+        "To calculate the regression coefficient directly.",
+        "To prove causation between two variables.",
+        "To show the distribution of a single quantitative variable."
       ]
     },
     {
-      "question": "Ideal GFR marker should be:",
-      "correct_answer": "Constant plasma level",
+      "question": "In a scatter plot of medication side effects vs. dosage, the points are scattered randomly with no discernible pattern. What is the most appropriate methodological conclusion?",
+      "correct_answer": "The correlation coefficient r is likely close to 0.",
       "wrong_answers": [
-        "Secreted",
-        "Reabsorbed",
-        "Protein bound",
-        "Lipid soluble"
+        "A strong negative correlation exists.",
+        "The regression line has a steep slope.",
+        "The null hypothesis must be rejected."
       ]
     },
     {
-      "question": "Best GFR estimation equation:",
-      "correct_answer": "CKD-EPI",
+      "question": "In a neonatal ICU study lasting three months, 17 male infants were evaluated. The correlation between gestational age (X) and birth weight (Y) was r = +0.82. A clinician now wishes to estimate the specific birth weight of a new admission based on their known gestational age. If a clinician wants to estimate the birth weight of a newborn given their gestational age, which tool provides this quantification?",
+      "correct_answer": "Regression equation",
       "wrong_answers": [
-        "Cockcroft-Gault",
-        "MDRD",
-        "Schwartz",
-        "None"
+        "Pearson correlation coefficient",
+        "Scatter plot diagram",
+        "P-value significance"
       ]
     },
     {
-      "question": "Cystatin C is:",
-      "correct_answer": "Early marker",
+      "question": "A clinical trial for a new chemotherapy agent results in a p-value of 0.04. The researchers decide to reject the null hypothesis that the new agent is equal to the standard of care. What is the most accurate interpretation of this p-value?",
+      "correct_answer": "There is a 4 in 100 probability that the observed difference was caused by chance.",
       "wrong_answers": [
-        "Late marker",
-        "Affected by muscle",
-        "Affected by diet",
-        "Only in urine"
+        "There is a 4% probability that the result is significant.",
+        "There is a 96% probability that the result occurred by chance.",
+        "The result is not significant because p is greater than 0.01."
       ]
     },
     {
-      "question": "Glycosuria with normal glucose suggests:",
-      "correct_answer": "Tubular defect",
+      "question": "A study reports a correlation of r = +1.0 between two biomarkers. How should this result be interpreted methodologically?",
+      "correct_answer": "It is a perfect positive degree of association.",
       "wrong_answers": [
-        "Diabetes",
-        "Liver disease",
-        "DKA",
-        "Hyperthyroidism"
+        "It is a weak positive degree of association.",
+        "It is a moderate positive degree of association.",
+        "It is a strong negative degree of association."
       ]
     },
     {
-      "question": "β2-microglobulin indicates:",
-      "correct_answer": "Tubular function",
+      "question": "A 55-year-old male with a 10-year history of Stage II hypertension has his weight (kg) and systolic blood pressure (mmHg) recorded monthly. Analysis shows a correlation coefficient of r = +0.55. What does the coefficient of determination (R2) reveal about this relationship?",
+      "correct_answer": "Approximately 30% of the variation in blood pressure is related to the variation in weight.",
       "wrong_answers": [
-        "Glomerular damage",
-        "Liver function",
-        "Cardiac injury",
-        "Platelet function"
+        "55% of the change in blood pressure is due to weight.",
+        "There is a 55% chance of making a Type I error.",
+        "The power of the study is 55%."
       ]
     },
     {
-      "question": "Urine osmolality >800 mOsm/kg indicates:",
-      "correct_answer": "Normal kidney function",
+      "question": "In a regression model Y = 200 + 5X, the independent variable X represents the dosage of a drug in mg, and Y represents the heart rate. By how much would the heart rate be expected to change if the dosage is increased by 10 mg?",
+      "correct_answer": "50 bpm",
       "wrong_answers": [
-        "Renal failure",
-        "Diabetes insipidus",
-        "SIADH",
-        "CKD"
+        "5 bpm",
+        "200 bpm",
+        "250 bpm"
       ]
     },
     {
-      "question": "Fluid deprivation test assesses:",
-      "correct_answer": "ADH function",
+      "question": "When a researcher sets the alpha level at 0.05, what is the resulting confidence level?",
+      "correct_answer": "95%",
       "wrong_answers": [
-        "GFR",
-        "Sodium balance",
-        "Potassium",
-        "Proteinuria"
+        "5%",
+        "80%",
+        "99%"
       ]
     },
     {
-      "question": "DDAVP test helps differentiate:",
-      "correct_answer": "Central vs nephrogenic DI",
+      "question": "A researcher calculates the correlation coefficient between Vitamin D levels and bone density to be r = 0.60. What is the coefficient of determination (R2) for this study?",
+      "correct_answer": "0.36",
       "wrong_answers": [
-        "Diabetes vs CKD",
-        "AKI vs CKD",
-        "Glomerular vs tubular",
-        "SIADH vs DI"
+        "0.30",
+        "0.60",
+        "0.77"
       ]
     },
     {
-      "question": "Jaundice appears when bilirubin >:",
-      "correct_answer": "2 mg/dL",
+      "question": "A regression equation for predicting lung capacity (Y) based on age (X) is Y = 6.0 - 0.04X. What is the predicted lung capacity for a 50-year-old individual?",
+      "correct_answer": "4.0",
       "wrong_answers": [
-        "1 mg/dL",
-        "3 mg/dL",
-        "4 mg/dL",
-        "5 mg/dL"
+        "8.0",
+        "5.96",
+        "2.0"
       ]
     },
     {
-      "question": "Dark urine + clay stool suggests:",
-      "correct_answer": "Conjugated hyperbilirubinemia",
+      "question": "A clinical trial comparing two antibiotics finds no significant difference in cure rates (p = 0.12). However, in reality, Drug A is 20% more effective than Drug B. The failure of the test to detect this real difference is known as:",
+      "correct_answer": "Type II Error",
       "wrong_answers": [
-        "Unconjugated hyperbilirubinemia",
-        "Hemolysis",
-        "Gilbert syndrome",
-        "Neonatal jaundice"
+        "Type I Error",
+        "True negative",
+        "True Poistive"
       ]
     },
     {
-      "question": "PT corrected after vitamin K indicates:",
-      "correct_answer": "Vitamin K deficiency",
+      "question": "In a clinical trial, the p-value for the primary endpoint was 0.008. Which of the following statements represents the most accurate critical appraisal of this finding?",
+      "correct_answer": "The result is more convincing than a result with a p-value of 0.05.",
       "wrong_answers": [
-        "Liver failure",
-        "Hemophilia",
-        "DIC",
-        "vWD"
+        "There is a 0.8% chance that the null hypothesis is true.",
+        "The power of the test was at least 99%.",
+        "The effect size is guaranteed to be clinically significant because p < 0.01."
       ]
     },
     {
-      "question": "ALT is:",
-      "correct_answer": "More liver-specific",
+      "question": "If a statistical test is set with a beta (β) of 0.15, what is the power of this test?",
+      "correct_answer": "85%",
       "wrong_answers": [
-        "Less specific",
-        "Cardiac marker",
-        "Renal marker",
-        "Muscle enzyme"
+        "5%",
+        "15%",
+        "95%"
       ]
     },
     {
-      "question": "De Ritis ratio >1 suggests:",
-      "correct_answer": "Alcoholic liver disease",
+      "question": "A study on blood pressure and weight in elderly patients found a p-value of 0.08 , considering level of significance is 0.05. What should the researcher conclude regarding the null hypothesis (H0)?",
+      "correct_answer": "Accept H0; the result is not significant.",
       "wrong_answers": [
-        "Viral hepatitis",
-        "NAFLD",
-        "Cirrhosis only",
-        "Hemolysis"
+        "Accept H0; the result is significant.",
+        "Reject H0; the result is significant.",
+        "Reject H0; the result is not significant."
       ]
     },
     {
-      "question": "Marker of acute HBV infection:",
-      "correct_answer": "Anti-HBc IgM",
+      "question": "A study aims to predict the change in serum LDL levels based on the daily dose of a new statin. Why is regression analysis preferred over correlation in this specific scenario?",
+      "correct_answer": "Regression allows the researcher to quantify and predict the amount of change in the dependent variable.",
       "wrong_answers": [
-        "Anti-HBs",
-        "Anti-HBc total",
-        "HBsAg chronic",
-        "Anti-HBe"
+        "Correlation is symmetrical, making it impossible to distinguish between dose and effect.",
+        "Regression measures the strength of the relationship while correlation does not.",
+        "Correlation cannot be used for quantitative variables."
       ]
     },
     {
-      "question": "Marker of infectivity in HBV:",
-      "correct_answer": "HBeAg",
+      "question": "A study is conducted where the confidence level is set at 99%. What is the alpha (α) level for this study?",
+      "correct_answer": "0.01",
       "wrong_answers": [
-        "HBsAg",
-        "Anti-HBc",
-        "Anti-HBs",
-        "ALT"
+        "0.05",
+        "0.001",
+        "0.10"
       ]
     },
     {
-      "question": "HBsAg >6 months indicates:",
-      "correct_answer": "Chronic infection",
+      "question": "A scatter plot analysis shows a correlation of r = +0.82 between two variables. What percentage of the variation in the dependent variable remains unexplained by the independent variable?",
+      "correct_answer": "33%",
       "wrong_answers": [
-        "Acute infection",
-        "Immunity",
-        "Recovery",
-        "Vaccination"
+        "82%",
+        "67%",
+        "18%"
       ]
     },
     {
-      "question": "Best early test for HCV:",
-      "correct_answer": "PCR (HCV RNA)",
+      "question": "Which coefficient is used to determine the percentage of variation in a dependent variable that is explained by an independent variable?",
+      "correct_answer": "Coefficient of determination",
       "wrong_answers": [
-        "Anti-HCV",
-        "ALT",
-        "AST",
-        "Bilirubin"
+        "Correlation coefficient",
+        "Regression coefficient",
+        "Alpha level"
       ]
     },
     {
-      "question": "Vaccine immunity marker:",
-      "correct_answer": "Anti-HBs",
+      "question": "What happens to the rejection region of a hypothesis test when the alpha level is increased from 0.01 to 0.05?",
+      "correct_answer": "The rejection region becomes larger.",
       "wrong_answers": [
-        "HBsAg",
-        "Anti-HBc",
-        "HBeAg",
-        "HBV DNA"
+        "The null hypothesis becomes more likely to be true.",
+        "The rejection region becomes smaller.",
+        "The rejection region remains unchanged."
       ]
     },
     {
-      "question": "GH deficiency best diagnosed by:",
-      "correct_answer": "Stimulation test",
+      "question": "Which of the following best describes the symmetrical nature of correlation?",
+      "correct_answer": "The correlation between Variable A and B is the same as the correlation between Variable B and A.",
       "wrong_answers": [
-        "Basal GH",
-        "IGF-1 only",
-        "Suppression test",
-        "MRI"
+        "The regression of X on Y is identical to the regression of Y on X.",
+        "The line of best fit must pass through the origin (0,0).",
+        "The correlation coefficient r is mathematically identical to the slope b."
       ]
     },
     {
-      "question": "GH excess test:",
-      "correct_answer": "Glucose suppression test",
+      "question": "A researcher is studying the relationship between glomerular filtration rate (GFR in ml/min) and serum urea levels (mg/dL) in 50 male patients (aged 45-70) presenting with chronic fatigue and decreased urine output over six months. Both variables are found to be normally distributed. Which statistical test should be used to measure the strength and direction of this relationship?",
+      "correct_answer": "Pearson correlation",
       "wrong_answers": [
-        "Insulin test",
-        "ACTH test",
-        "TSH test",
-        "Cortisol test"
+        "Spearman rank correlation",
+        "Regression analysis",
+        "Coefficient of determination"
       ]
     },
     {
-      "question": "Hyperprolactinemia causes:",
-      "correct_answer": "Infertility",
+      "question": "A medical student is analyzing a scatter plot where the data points move from the bottom-left to the top-right. The dots are very tightly clustered around a straight line. Which of the following correlation coefficients most likely represents this graph?",
+      "correct_answer": "r = +0.92",
       "wrong_answers": [
-        "Hypergonadism",
-        "Increased LH",
-        "Increased FSH",
-        "Hypoglycemia"
+        "r = +0.15",
+        "r = -0.95",
+        "r = 0.00"
       ]
     },
     {
-      "question": "Primary hypothyroidism shows:",
-      "correct_answer": "↓ T3, ↑ TSH",
+      "question": "What does 1 - α represent regarding that alpha is type 1 error ?",
+      "correct_answer": "Confidence level",
       "wrong_answers": [
-        "↓ T3, ↓ TSH",
-        "↑ T3, ↓ TSH",
-        "↑ T3, ↑ TSH",
-        "Normal TSH"
+        "Probability of Type II error",
+        "Power of the test",
+        "Significance level"
       ]
     },
     {
-      "question": "Best follow-up test after thyroid therapy:",
-      "correct_answer": "Free T4",
+      "question": "A researcher is concerned that their study might have a high Type II error rate (beta > 20%). Which of the following methodological adjustments would most likely reduce the chance of a Type II error?",
+      "correct_answer": "Increase the alpha level from 0.05 to 0.10.",
       "wrong_answers": [
-        "TSH",
-        "T3",
-        "Anti-TPO",
-        "TRAb"
+        "Decrease the alpha level from 0.05 to 0.01.",
+        "Accept the null hypothesis more readily.",
+        "Decrease the sample size to reduce variability."
       ]
     },
     {
-      "question": "Cushing disease shows suppression with:",
-      "correct_answer": "High-dose dexamethasone",
+      "question": "Which value is considered the standard maximum acceptable probability for committing a Type II error in medical research?",
+      "correct_answer": "20%",
       "wrong_answers": [
-        "Low-dose dexamethasone",
-        "CRH",
-        "ACTH",
-        "Insulin"
+        "95%",
+        "5%",
+        "80%"
       ]
     },
     {
-      "question": "Addison disease shows:",
-      "correct_answer": "Hyperkalemia",
+      "question": "Type I error can occur when the null hypothesis is:",
+      "correct_answer": "Correct",
       "wrong_answers": [
-        "Hypernatremia",
-        "Hypokalemia",
-        "Hyperglycemia",
-        "Alkalosis"
+        "Incorrect",
+        "Either correct or incorrect",
+        "Vary according to alternative hypothesis"
       ]
     },
     {
-      "question": "Pheochromocytoma best screened by:",
-      "correct_answer": "Metanephrines",
+      "question": "If a t-test results in a p-value of 0.03, what can be concluded at the 5% significance level ?",
+      "correct_answer": "Reject the null hypothesis; there is a significant difference between the means.",
       "wrong_answers": [
-        "TSH",
-        "Cortisol",
-        "Insulin",
-        "Aldosterone"
+        "Fail to reject the null hypothesis; there is no significant difference.",
+        "Accept the null hypothesis; the means are equal.",
+        "Cannot conclude anything as the p-value is too high"
       ]
     },
     {
-      "question": "Diabetes diagnosis requires:",
-      "correct_answer": "Two abnormal tests",
+      "question": "A research group conducted a placebo-controlled clinical trial to assess whether a new drug to treat acute migraine with or without aura in adults is more effective than standard therapy. A total of 3,500 patients with acute migraine were enrolled in the study and randomly assigned to either the new drug or standard treatment. During the data analysis phase, the researchers decide to set alpha at 0.01 rather than 0.05. Which of the following is the most likely result of this change?",
+      "correct_answer": "Any significant findings will be reported with greater confidence (64%)",
       "wrong_answers": [
-        "One abnormal test",
-        "Only HbA1c",
-        "Only fasting glucose",
-        "Only OGTT"
+        "There will be a higher probability of a type I error (10%)",
+        "There will be a higher probability of finding statistically significant results (10%)",
+        "There will be a lower probability of a type II error (5%)"
       ]
     },
     {
-      "question": "HbA1c diagnostic cutoff for diabetes:",
-      "correct_answer": "6.5%",
+      "question": "A study determines that the mean blood cholesterol level is 195 mg/dL in 200 non-diabetic hospitalized patients and 210 mg/dL in 180 diabetic hospitalized patients. The probability that the observed difference is due to chance alone is reported to be 5%. There is also a 20% probability of concluding that there is no difference in blood cholesterol level when there is one in reality. What is the power of the study?",
+      "correct_answer": "0.80",
       "wrong_answers": [
-        "5.5%",
-        "6.0%",
-        "7.0%",
-        "7.5%"
+        "0.05",
+        "0.20",
+        "0.50"
       ]
     },
     {
-      "question": "A patient with normal PT and APTT but prolonged bleeding time most likely has:",
-      "correct_answer": "Platelet dysfunction",
+      "question": "A prospective cohort study was conducted to assess the role of daily alcohol consumption in the occurrence of breast carcinoma. The investigators reported a 5-year relative risk of 1.4 for people who consume alcohol daily compared to those who do not. The 95% confidence interval was 1.02-1.85. Which of the following p-values is most consistent with the results described above?",
+      "correct_answer": "0.03",
       "wrong_answers": [
-        "Hemophilia",
-        "Vitamin K deficiency",
-        "DIC",
-        "Liver disease"
+        "0.06",
+        "0.09",
+        "0.11"
       ]
     },
     {
-      "question": "Which condition causes prolonged BT + normal PT/APTT?",
-      "correct_answer": "Platelet disorder",
+      "question": "A research group conducted a placebo-controlled clinical trial to assess whether a new drug to treat acute migraine with or without aura in adults is more effective than standard therapy. Null hypothesis : the new drug is not more effective than standard treatment. Alternative hypothesis : the new drug is more effective than standard treatment. If, in reality, the new drug is more effective than standard drug but was never published to global market, what factor could have contributed to the occurrence of this type of error?",
+      "correct_answer": "Low statistical power",
       "wrong_answers": [
-        "Hemophilia",
-        "vWD",
-        "DIC",
-        "Liver disease"
-      ]
-    },
-    {
-      "question": "vWD causes prolonged APTT because of:",
-      "correct_answer": "↓ Factor VIII protection",
-      "wrong_answers": [
-        "↓ Factor IX",
-        "↓ Factor VII",
-        "↓ fibrinogen",
-        "↑ platelets"
-      ]
-    },
-    {
-      "question": "First step in hemostasis after vessel injury:",
-      "correct_answer": "Vasoconstriction",
-      "wrong_answers": [
-        "Platelet aggregation",
-        "Fibrin formation",
-        "Factor activation",
-        "Fibrinolysis"
-      ]
-    },
-    {
-      "question": "Which is NOT a component of hemostasis?",
-      "correct_answer": "RBCs",
-      "wrong_answers": [
-        "Platelets",
-        "Coagulation factors",
-        "Fibrinolytic system",
-        "Blood vessels"
-      ]
-    },
-    {
-      "question": "Bernard-Soulier syndrome affects:",
-      "correct_answer": "Adhesion",
-      "wrong_answers": [
-        "Aggregation",
-        "Coagulation",
-        "Fibrinolysis",
-        "Factor VIII"
-      ]
-    },
-    {
-      "question": "Glanzmann thrombasthenia affects:",
-      "correct_answer": "Aggregation",
-      "wrong_answers": [
-        "Adhesion",
-        "Coagulation",
-        "Factor IX",
-        "vWF"
-      ]
-    },
-    {
-      "question": "Which condition causes increased platelet consumption?",
-      "correct_answer": "ITP",
-      "wrong_answers": [
-        "Aplastic anemia",
-        "Iron deficiency",
-        "Liver cirrhosis",
-        "CKD"
-      ]
-    },
-    {
-      "question": "Platelet count 30,000 with trauma bleeding indicates severity:",
-      "correct_answer": "Moderate",
-      "wrong_answers": [
-        "Mild",
-        "Severe",
-        "Critical",
-        "Normal"
-      ]
-    },
-    {
-      "question": "Platelet adhesion test replaced:",
-      "correct_answer": "Bleeding time",
-      "wrong_answers": [
-        "PT",
-        "APTT",
-        "TT",
-        "INR"
-      ]
-    },
-    {
-      "question": "Heparin affects:",
-      "correct_answer": "APTT only",
-      "wrong_answers": [
-        "PT only",
-        "BT only",
-        "TT only",
-        "Platelets"
-      ]
-    },
-    {
-      "question": "Warfarin affects:",
-      "correct_answer": "Extrinsic pathway",
-      "wrong_answers": [
-        "Intrinsic pathway",
-        "Platelet function",
-        "Fibrinolysis",
-        "TT"
-      ]
-    },
-    {
-      "question": "DIC lab finding includes:",
-      "correct_answer": "Schistocytes",
-      "wrong_answers": [
-        "↓ D-dimer",
-        "↑ fibrinogen",
-        "Normal platelets",
-        "Normal PT"
-      ]
-    },
-    {
-      "question": "Liver disease causes:",
-      "correct_answer": "↑ PT & APTT",
-      "wrong_answers": [
-        "↑ platelets",
-        "↓ PT",
-        "↓ TT",
-        "Normal labs"
-      ]
-    },
-    {
-      "question": "Which has normal BT?",
-      "correct_answer": "Hemophilia",
-      "wrong_answers": [
-        "vWD",
-        "Platelet disorders",
-        "DIC",
-        "Uremia"
-      ]
-    },
-    {
-      "question": "Creatinine doubles when GFR decreases by:",
-      "correct_answer": "50%",
-      "wrong_answers": [
-        "10%",
-        "25%",
-        "75%",
-        "90%"
-      ]
-    },
-    {
-      "question": "BUN is derived from:",
-      "correct_answer": "Urea",
-      "wrong_answers": [
-        "Creatinine",
-        "Albumin",
-        "Hemoglobin",
-        "Glucose"
-      ]
-    },
-    {
-      "question": "Uric acid increases in all EXCEPT:",
-      "correct_answer": "Liver failure",
-      "wrong_answers": [
-        "Gout",
-        "Leukemia",
-        "Renal failure",
-        "Tumor lysis"
-      ]
-    },
-    {
-      "question": "eGFR is preferred because:",
-      "correct_answer": "No timed urine",
-      "wrong_answers": [
-        "Uses urine",
-        "Needs catheter",
-        "More expensive",
-        "Less accurate"
-      ]
-    },
-    {
-      "question": "CKD-EPI is best because:",
-      "correct_answer": "More accurate >60 GFR",
-      "wrong_answers": [
-        "Uses urine",
-        "Uses electrolytes",
-        "Cheaper",
-        "Faster"
-      ]
-    },
-    {
-      "question": "Fanconi syndrome causes:",
-      "correct_answer": "Glycosuria with normal glucose",
-      "wrong_answers": [
-        "Proteinuria only",
-        "Hematuria",
-        "Ketonuria",
-        "Bilirubinuria"
-      ]
-    },
-    {
-      "question": "Aminoaciduria example:",
-      "correct_answer": "Cystinuria",
-      "wrong_answers": [
-        "Diabetes",
-        "CKD",
-        "Cirrhosis",
-        "Sepsis"
-      ]
-    },
-    {
-      "question": "Psychogenic polydipsia shows:",
-      "correct_answer": "Response to deprivation",
-      "wrong_answers": [
-        "No response to deprivation",
-        "No response to DDAVP",
-        "Hyperkalemia",
-        "Hyponatremia"
-      ]
-    },
-    {
-      "question": "Nephrogenic DI shows:",
-      "correct_answer": "No response to DDAVP",
-      "wrong_answers": [
-        "Response to DDAVP",
-        "Increased ADH",
-        "Hypernatremia only",
-        "Hypokalemia"
-      ]
-    },
-    {
-      "question": "Central DI shows:",
-      "correct_answer": "Response to DDAVP",
-      "wrong_answers": [
-        "No response to DDAVP",
-        "Increased ADH",
-        "Normal urine",
-        "Hyperkalemia"
-      ]
-    },
-    {
-      "question": "Albumin is NOT useful in acute liver disease because of its:",
-      "correct_answer": "Long half-life",
-      "wrong_answers": [
-        "Low sensitivity",
-        "High turnover",
-        "Rapid metabolism",
-        "Low specificity"
-      ]
-    },
-    {
-      "question": "First lab abnormality in acute liver disease:",
-      "correct_answer": "PT ↑",
-      "wrong_answers": [
-        "Albumin ↓",
-        "Platelets ↓",
-        "Bilirubin ↓",
-        "GGT ↓"
-      ]
-    },
-    {
-      "question": "ALP rises most in:",
-      "correct_answer": "Obstruction",
-      "wrong_answers": [
-        "Hepatitis",
-        "Cirrhosis",
-        "Hemolysis",
-        "CKD"
-      ]
-    },
-    {
-      "question": "GGT is useful to:",
-      "correct_answer": "Confirm liver origin of ALP",
-      "wrong_answers": [
-        "Diagnose anemia",
-        "Diagnose renal failure",
-        "Diagnose MI",
-        "Diagnose diabetes"
-      ]
-    },
-    {
-      "question": "Cholestasis shows:",
-      "correct_answer": "↑ ALP & GGT",
-      "wrong_answers": [
-        "↑ ALT only",
-        "↑ AST only",
-        "↓ bilirubin",
-        "↓ PT"
-      ]
-    },
-    {
-      "question": "Anti-HBc total indicates:",
-      "correct_answer": "Lifelong exposure",
-      "wrong_answers": [
-        "Acute only",
-        "Chronic only",
-        "Vaccination",
-        "Early infection"
-      ]
-    },
-    {
-      "question": "Anti-HBs indicates:",
-      "correct_answer": "Immunity",
-      "wrong_answers": [
-        "Infection",
-        "Infectivity",
-        "Chronic disease",
-        "Carrier state"
-      ]
-    },
-    {
-      "question": "HBV DNA is the:",
-      "correct_answer": "Most sensitive marker",
-      "wrong_answers": [
-        "Least sensitive",
-        "Late marker",
-        "Vaccine marker",
-        "Chronic marker only"
-      ]
-    },
-    {
-      "question": "Anti-HAV IgG indicates:",
-      "correct_answer": "Lifelong immunity",
-      "wrong_answers": [
-        "Acute infection",
-        "Chronic infection",
-        "Carrier state",
-        "Reactivation"
-      ]
-    },
-    {
-      "question": "HCV antibody appears after:",
-      "correct_answer": "70 days",
-      "wrong_answers": [
-        "1 week",
-        "2 weeks",
-        "6 months",
-        "1 year"
-      ]
-    },
-    {
-      "question": "Circadian rhythm of cortisol:",
-      "correct_answer": "Peak at 8 AM",
-      "wrong_answers": [
-        "Peak at night",
-        "Constant",
-        "Peak at noon",
-        "Random"
-      ]
-    },
-    {
-      "question": "GH peaks:",
-      "correct_answer": "After deep sleep",
-      "wrong_answers": [
-        "Morning",
-        "Evening",
-        "After meals",
-        "During exercise"
-      ]
-    },
-    {
-      "question": "Best sample for ACTH:",
-      "correct_answer": "EDTA plasma",
-      "wrong_answers": [
-        "Serum",
-        "Urine",
-        "Saliva",
-        "CSF"
-      ]
-    },
-    {
-      "question": "Hyperfunction test uses:",
-      "correct_answer": "Suppression",
-      "wrong_answers": [
-        "Stimulation",
-        "Imaging",
-        "Biopsy",
-        "Genetics"
-      ]
-    },
-    {
-      "question": "Hypofunction test uses:",
-      "correct_answer": "Stimulation",
-      "wrong_answers": [
-        "Suppression",
-        "Imaging",
-        "Biopsy",
-        "PCR"
-      ]
-    },
-    {
-      "question": "ACTH is low in:",
-      "correct_answer": "Adrenal tumor",
-      "wrong_answers": [
-        "Cushing disease",
-        "Ectopic ACTH",
-        "Pituitary tumor",
-        "Addison"
-      ]
-    },
-    {
-      "question": "Addison disease lab finding:",
-      "correct_answer": "Hyperkalemia",
-      "wrong_answers": [
-        "Hypernatremia",
-        "Hypokalemia",
-        "Hyperglycemia",
-        "Alkalosis"
-      ]
-    },
-    {
-      "question": "Best screening for pheochromocytoma:",
-      "correct_answer": "Metanephrines",
-      "wrong_answers": [
-        "Cortisol",
-        "ACTH",
-        "TSH",
-        "Insulin"
-      ]
-    },
-    {
-      "question": "Fasting glucose diagnostic of diabetes:",
-      "correct_answer": "≥126",
-      "wrong_answers": [
-        "≥100",
-        "≥110",
-        "≥120",
-        "≥140"
-      ]
-    },
-    {
-      "question": "OGTT diagnostic value:",
-      "correct_answer": "≥200",
-      "wrong_answers": [
-        "≥140",
-        "≥160",
-        "≥180",
-        "≥220"
-      ]
-    },
-    {
-      "question": "Prediabetes HbA1c:",
-      "correct_answer": "5.7–6.4",
-      "wrong_answers": [
-        "5.0–5.5",
-        "5.5–6.0",
-        "6.5–7",
-        ">7"
-      ]
-    },
-    {
-      "question": "Random glucose diagnostic (with symptoms):",
-      "correct_answer": "≥200",
-      "wrong_answers": [
-        "≥140",
-        "≥160",
-        "≥180",
-        "≥220"
-      ]
-    },
-    {
-      "question": "Complication NOT acute in diabetes:",
-      "correct_answer": "Neuropathy",
-      "wrong_answers": [
-        "DKA",
-        "HHS",
-        "Hypoglycemia",
-        "Hyperglycemia"
-      ]
-    },
-    {
-      "question": "Chronic complication includes:",
-      "correct_answer": "Retinopathy",
-      "wrong_answers": [
-        "DKA",
-        "HHS",
-        "Lactic acidosis",
-        "Hypoglycemia"
-      ]
-    },
-    {
-      "question": "Insulin resistance is hallmark of:",
-      "correct_answer": "Type 2 DM",
-      "wrong_answers": [
-        "Type 1 DM",
-        "Gestational DM",
-        "MODY",
-        "LADA"
+        "Large sample size",
+        "High significance level",
+        "Low variability in data"
       ]
     }
   ]

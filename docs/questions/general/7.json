@@ -2,398 +2,398 @@
   "questions": [
     {
       "question": "“A detailed written working plan of a proposed study designed to investigate a given problem”. Which of the following best describes the above statement?",
-      "correct_answer": "A. Research proposal",
+      "correct_answer": "Research proposal",
       "wrong_answers": [
-        "B. Budget plan",
-        "C. Guide to authors",
-        "D. Data collection tools"
+        "Budget plan",
+        "Guide to authors",
+        "Data collection tools"
       ]
     },
     {
       "question": "Which of the followings is included in “statement of the problem” in the research proposal?",
-      "correct_answer": "D. Magnitude of the problem",
+      "correct_answer": "Magnitude of the problem",
       "wrong_answers": [
-        "A. Study variables",
-        "B. Research hypothesis",
-        "C. Study design"
+        "Study variables",
+        "Research hypothesis",
+        "Study design"
       ]
     },
     {
       "question": "Hospital records show an increase in asthma admissions over the past 3 years. In which section in the research proposal should this sentence be written?",
-      "correct_answer": "B. Statement of the problem",
+      "correct_answer": "Statement of the problem",
       "wrong_answers": [
-        "A. Study variables",
-        "C. Ethical considerations",
-        "D. Plan for data analysis"
+        "Study variables",
+        "Ethical considerations",
+        "Plan for data analysis"
       ]
     },
     {
       "question": "In a study assessing the effect of screen time on sleep quality among adolescents, sleep quality represents the which of the following?",
-      "correct_answer": "C. Dependent variable",
+      "correct_answer": "Dependent variable",
       "wrong_answers": [
-        "A. Independent variable",
-        "B. Confounding variable",
-        "D. Sampling variable"
+        "Independent variable",
+        "Confounding variable",
+        "Sampling variable"
       ]
     },
     {
       "question": "Which statement best explains the purpose of a pilot study?",
-      "correct_answer": "B. To test feasibility and data collection tools",
+      "correct_answer": "To test feasibility and data collection tools",
       "wrong_answers": [
-        "A. To increase sample size",
-        "C. To publish preliminary results",
-        "D. To get a conclusion for the research"
+        "To increase sample size",
+        "To publish preliminary results",
+        "To get a conclusion for the research"
       ]
     },
     {
       "question": "Operationalization of study variables should be provided in the research proposal. What is meant by operationalization?",
-      "correct_answer": "B. Make them measurable",
+      "correct_answer": "Make them measurable",
       "wrong_answers": [
-        "A. Being a dependent variable",
-        "C. Present it as categories",
-        "D. Self-explanatory"
+        "Being a dependent variable",
+        "Present it as categories",
+        "Self-explanatory"
       ]
     },
     {
       "question": "Which of the following refers to the entire group of people (or objects) you wish to generalize the study findings to?",
-      "correct_answer": "B. Target population",
+      "correct_answer": "Target population",
       "wrong_answers": [
-        "A. Study population",
-        "C. Study sample",
-        "D. Control group"
+        "Study population",
+        "Study sample",
+        "Control group"
       ]
     },
     {
       "question": "Which feature is essential for valid informed consent?",
-      "correct_answer": "C. Clear explanation in simple language",
+      "correct_answer": "Clear explanation in simple language",
       "wrong_answers": [
-        "A. Use of scientific terminology",
-        "B. Verbal consent only",
-        "D. Signing the form after data collection"
+        "Use of scientific terminology",
+        "Verbal consent only",
+        "Signing the form after data collection"
       ]
     },
     {
       "question": "A participant withdraws from a study after completing the questionnaire. What is the most ethical action?",
-      "correct_answer": "C. Respect withdrawal and remove data if requested",
+      "correct_answer": "Respect withdrawal and remove data if requested",
       "wrong_answers": [
-        "A. Keep data without restriction",
-        "B. Penalize the participant",
-        "D. Replace the participant immediately"
+        "Keep data without restriction",
+        "Penalize the participant",
+        "Replace the participant immediately"
       ]
     },
     {
       "question": "A researcher copies large sections of a previous thesis written by themselves into a new article without citation. This is an example of:",
-      "correct_answer": "C. Self-plagiarism",
+      "correct_answer": "Self-plagiarism",
       "wrong_answers": [
-        "A. Fabrication",
-        "B. Falsification",
-        "D. Acceptable practice"
+        "Fabrication",
+        "Falsification",
+        "Acceptable practice"
       ]
     },
     {
       "question": "While writing a proposal, a student summarizes previous studies in their own words and cites the sources correctly. This practice was done to avoid which of the following misconducts?",
       "correct_answer": "B Plagiarism",
       "wrong_answers": [
-        "A. Fabrication",
-        "C. Falsification",
-        "D. lack of autonomy"
+        "Fabrication",
+        "Falsification",
+        "lack of autonomy"
       ]
     },
     {
       "question": "Which of the following should be included in the methods section of the research proposal?",
-      "correct_answer": "D. Ethical considerations",
+      "correct_answer": "Ethical considerations",
       "wrong_answers": [
-        "A. Study objectives",
-        "B. List of references",
-        "C. A copy of data collection tool"
+        "Study objectives",
+        "List of references",
+        "A copy of data collection tool"
       ]
     },
     {
       "question": "Which of the following best describes the principle of non maleficence?",
-      "correct_answer": "C. Avoiding actions that may cause harm",
+      "correct_answer": "Avoiding actions that may cause harm",
       "wrong_answers": [
-        "A. Providing financial compensation to all participants",
-        "B. Ensuring the researcher receives recognition",
-        "D. Ensuring equal access to benefits of research"
+        "Providing financial compensation to all participants",
+        "Ensuring the researcher receives recognition",
+        "Ensuring equal access to benefits of research"
       ]
     },
     {
       "question": "The ethical principle of beneficence requires that researchers:",
-      "correct_answer": "C. Maximize possible benefits of the research",
+      "correct_answer": "Maximize possible benefits of the research",
       "wrong_answers": [
-        "A. Protect only those who request it",
-        "B. Avoid disclosing the research purpose",
-        "D. Recruit only healthy participants"
+        "Protect only those who request it",
+        "Avoid disclosing the research purpose",
+        "Recruit only healthy participants"
       ]
     },
     {
       "question": "Which scenario reflects a failure of non-maleficence?",
-      "correct_answer": "C. Administering a painful procedure without clear medical benefit",
+      "correct_answer": "Administering a painful procedure without clear medical benefit",
       "wrong_answers": [
-        "A. Not informing the participant of their rights",
-        "B. Failing to publish the research",
-        "D. Offering too much money to influence participation"
+        "Not informing the participant of their rights",
+        "Failing to publish the research",
+        "Offering too much money to influence participation"
       ]
     },
     {
       "question": "Which scenario best demonstrates respect for autonomy?",
-      "correct_answer": "B. Allowing participants to withdraw from a study at any time",
+      "correct_answer": "Allowing participants to withdraw from a study at any time",
       "wrong_answers": [
-        "A. Including participants without informing them of the risks",
-        "C. Encouraging participants to stay in the study for better results",
-        "D. Selecting participants based on convenience"
+        "Including participants without informing them of the risks",
+        "Encouraging participants to stay in the study for better results",
+        "Selecting participants based on convenience"
       ]
     },
     {
       "question": "The ethical principle of justice in research primarily focuses on:",
-      "correct_answer": "B. Fair distribution of research benefits and burdens",
+      "correct_answer": "Fair distribution of research benefits and burdens",
       "wrong_answers": [
-        "A. Avoiding physical harm",
-        "C. Maintaining confidentiality",
-        "D. Preventing financial loss"
+        "Avoiding physical harm",
+        "Maintaining confidentiality",
+        "Preventing financial loss"
       ]
     },
     {
       "question": "When must informed consent be obtained in a research study?",
-      "correct_answer": "B. Before conducting any study-related activities",
+      "correct_answer": "Before conducting any study-related activities",
       "wrong_answers": [
-        "A. After data collection begins",
-        "C. Only if the participant requests it",
-        "D. After publication of results"
+        "After data collection begins",
+        "Only if the participant requests it",
+        "After publication of results"
       ]
     },
     {
       "question": "Informed consent ensures that a participant:",
-      "correct_answer": "B. Understands and voluntarily agrees to participate",
+      "correct_answer": "Understands and voluntarily agrees to participate",
       "wrong_answers": [
-        "A. Must complete the study once started",
-        "C. Gives permission without knowing the study's details",
-        "D. Signs a form to protect the researchers legally"
+        "Must complete the study once started",
+        "Gives permission without knowing the study's details",
+        "Signs a form to protect the researchers legally"
       ]
     },
     {
       "question": "A researcher is computing the infant mortality rate during the year 2025 and wants to obtain the total number of live births that represents the denominator. What would be the source of the data?",
-      "correct_answer": "B. Vital statistics",
+      "correct_answer": "Vital statistics",
       "wrong_answers": [
-        "A. Population census",
-        "C. Health and morbidity surveys",
-        "D. Health facility records"
+        "Population census",
+        "Health and morbidity surveys",
+        "Health facility records"
       ]
     },
     {
       "question": "“An outbreak of acute watery diarrhea occurred”. Which health information platform provides a legal framework for physicians for the timely reporting of cases to the public health authorities?",
-      "correct_answer": "C. System for notifiable infectious diseases",
+      "correct_answer": "System for notifiable infectious diseases",
       "wrong_answers": [
-        "A. Population-based disease registries",
-        "B. Hospital records used for patients' care",
-        "D. Sentinel surveillance system of diseases"
+        "Population-based disease registries",
+        "Hospital records used for patients' care",
+        "Sentinel surveillance system of diseases"
       ]
     },
     {
       "question": "“An oncologist is studying the five-year survival rate of breast cancer patients in Egypt”. What is the specific source of data to track this information?",
-      "correct_answer": "B. Population-based disease registries",
+      "correct_answer": "Population-based disease registries",
       "wrong_answers": [
-        "A. National hospital discharge summaries",
-        "C. Demographic and Health Surveys (DHS)",
-        "D. National system of death registration"
+        "National hospital discharge summaries",
+        "Demographic and Health Surveys (DHS)",
+        "National system of death registration"
       ]
     },
     {
       "question": "“A public health researcher observed that smoking habit is missing for most of the patient attending the Main University Hospital”. Which approach is the most appropriate to obtain data on smoking habits of the population served by this hospital?",
-      "correct_answer": "B. Conduct health and morbidity survey",
+      "correct_answer": "Conduct health and morbidity survey",
       "wrong_answers": [
-        "A. Review the recent population census",
-        "C. Obtain the per-capita cigarette sales",
-        "D. Contact patients to complete the data"
+        "Review the recent population census",
+        "Obtain the per-capita cigarette sales",
+        "Contact patients to complete the data"
       ]
     },
     {
       "question": "“A Ministry of Health official is evaluating the efficiency of family health centers by analyzing the number of daily admissions and patient outcomes”. Under which category does this information fall?",
-      "correct_answer": "B. Health service records",
+      "correct_answer": "Health service records",
       "wrong_answers": [
-        "A. Vital statistics",
-        "C. Surveillance system data",
-        "D. Disease registries"
+        "Vital statistics",
+        "Surveillance system data",
+        "Disease registries"
       ]
     },
     {
       "question": "Which term refers to the “approach of information gathering”?",
-      "correct_answer": "B. Method of data collection",
+      "correct_answer": "Method of data collection",
       "wrong_answers": [
-        "A. Data collection tool",
-        "C. Data unit",
-        "D. Data source"
+        "Data collection tool",
+        "Data unit",
+        "Data source"
       ]
     },
     {
       "question": "“A researcher decided to use the Demographic and Health Survey (DHS) database to study trends in maternal health\". What is the primary limitation expected from the data?",
-      "correct_answer": "B. Tailoring the research aims to the available variables.",
+      "correct_answer": "Tailoring the research aims to the available variables.",
       "wrong_answers": [
-        "A. Retrieving the relevant variables is time consuming",
-        "C. Acquiring specific skills for the extraction of the data",
-        "D. Representation of mothers attending health facilities"
+        "Retrieving the relevant variables is time consuming",
+        "Acquiring specific skills for the extraction of the data",
+        "Representation of mothers attending health facilities"
       ]
     },
     {
       "question": "Which source of data represents a secondary source of nutrition assessment of children below 5 years?",
-      "correct_answer": "B. Weight and height recorded in nurseries annually",
+      "correct_answer": "Weight and height recorded in nurseries annually",
       "wrong_answers": [
-        "A. Trend of malnutrition published in scientific articles",
-        "C. Daily dietary intake completed by the mother",
-        "D. Deaths of children below the age of 5-years"
+        "Trend of malnutrition published in scientific articles",
+        "Daily dietary intake completed by the mother",
+        "Deaths of children below the age of 5-years"
       ]
     },
     {
       "question": "“A scientist justifies the use of secondary data from population census rather than primary data”. What is the most likely Justification for the use of secondary data?",
-      "correct_answer": "B. It is less costly and more resource saving",
+      "correct_answer": "It is less costly and more resource saving",
       "wrong_answers": [
-        "A. It is complete and relevant to die aims",
-        "C. It is free from recall and interviewers’ bias",
-        "D. It is easier in the application of statistical tests"
+        "It is complete and relevant to die aims",
+        "It is free from recall and interviewers’ bias",
+        "It is easier in the application of statistical tests"
       ]
     },
     {
       "question": "Which research aim is consistent with conducting a “health and morbidity surveys”?",
-      "correct_answer": "A. To obtain a representative estimate of a health problem",
+      "correct_answer": "To obtain a representative estimate of a health problem",
       "wrong_answers": [
-        "B. To ensure the mandatory reporting of infectious diseases",
-        "C. To monitor the outcomes of an epidemic or an outbreak",
-        "D. To evaluate the post-marketing efficiency of a treatment"
+        "To ensure the mandatory reporting of infectious diseases",
+        "To monitor the outcomes of an epidemic or an outbreak",
+        "To evaluate the post-marketing efficiency of a treatment"
       ]
     },
     {
       "question": "“A researcher is collecting data on the behavior pattern of children by interviewing their parents”. What is the expected limitation?",
-      "correct_answer": "B.  Socially desired responses",
+      "correct_answer": " Socially desired responses",
       "wrong_answers": [
-        "A. Incompleteness of data",
-        "C. High cost of data collection",
-        "D. Difficulty in getting consent"
+        "Incompleteness of data",
+        "High cost of data collection",
+        "Difficulty in getting consent"
       ]
     },
     {
       "question": "“Research aims at identifying shared views and community attitudes related to the traditional healing practices in a rural community”. What is the most suitable method for the collection of relevant data?",
-      "correct_answer": "B. Focus group discussion",
+      "correct_answer": "Focus group discussion",
       "wrong_answers": [
-        "A. In-depth interview",
-        "C. Systematic observation",
-        "D. Self-administered test"
+        "In-depth interview",
+        "Systematic observation",
+        "Self-administered test"
       ]
     },
     {
       "question": "What is the purpose of using “probes” in an in-depth interview?",
-      "correct_answer": "B. To further explore participants’ response",
+      "correct_answer": "To further explore participants’ response",
       "wrong_answers": [
-        "A. To guide participants to a specific answer",
-        "C. To standardize response across participants",
-        "D. To shorten the duration of the interview"
+        "To guide participants to a specific answer",
+        "To standardize response across participants",
+        "To shorten the duration of the interview"
       ]
     },
     {
       "question": "What is the purpose of “audio recording” and taking “field notes” during a focus group discussion on child feeding practices?",
-      "correct_answer": "B. To capture contextual details that might be otherwise overlooked",
+      "correct_answer": "To capture contextual details that might be otherwise overlooked",
       "wrong_answers": [
-        "A. To quantify participants responses for analysis and reporting",
-        "C. To replace the need for a facilitator during and after the discussion",
-        "D. To engage participants and maintain their interest in the discussion"
+        "To quantify participants responses for analysis and reporting",
+        "To replace the need for a facilitator during and after the discussion",
+        "To engage participants and maintain their interest in the discussion"
       ]
     },
     {
       "question": "An observer noticed that nurses are more adherent to hand-hygiene protocols when they are aware that they are watched. Which term refers to this phenomenon?",
-      "correct_answer": "C. Hawthorne effect",
+      "correct_answer": "Hawthorne effect",
       "wrong_answers": [
-        "A. Observer bias",
-        "B. Socially desirable effect",
-        "D. Response bias"
+        "Observer bias",
+        "Socially desirable effect",
+        "Response bias"
       ]
     },
     {
       "question": "Which measure is taken to minimize \"observer's bias\" while recording surgical performance using a checklist?",
-      "correct_answer": "C. Training the observer on the intended task",
+      "correct_answer": "Training the observer on the intended task",
       "wrong_answers": [
-        "A. Shortening the period of observation",
-        "B. Increasing the number of procedures to be observed",
-        "D. Recording the observation at the end of the procedure"
+        "Shortening the period of observation",
+        "Increasing the number of procedures to be observed",
+        "Recording the observation at the end of the procedure"
       ]
     },
     {
       "question": "A researcher intends to collect data on the prevalence of smoking in a factory of 2000 workers. What would be the most suitable method of data collection?",
-      "correct_answer": "C. Interview questionnaire",
+      "correct_answer": "Interview questionnaire",
       "wrong_answers": [
-        "A. In-depth interviews",
-        "B. Focus group discussions",
-        "D. Observation for the habit"
+        "In-depth interviews",
+        "Focus group discussions",
+        "Observation for the habit"
       ]
     },
     {
       "question": "A question reading “Do you agree that childhood vaccines are safe and effective? ” has been rejected for not meeting the required standard. What is the likely reason?",
-      "correct_answer": "B. It is double-barreled",
+      "correct_answer": "It is double-barreled",
       "wrong_answers": [
-        "A. It contains medical terms",
-        "C. It includes vague term",
-        "D. It suggests a favorable answer"
+        "It contains medical terms",
+        "It includes vague term",
+        "It suggests a favorable answer"
       ]
     },
     {
       "question": "Which question inquiring into the intake of sugar meets the recommended wording and structure?",
-      "correct_answer": "C. Do you use more than 2 spoons of sugar daily? \"",
+      "correct_answer": "Do you use more than 2 spoons of sugar daily? \"",
       "wrong_answers": [
-        "A. \"Do you frequently consume sugary snacks? \"",
-        "B. \"Do you take a lot of sugar in your daily diet? \"",
-        "D. \"Do you have a regular habit of taking sugar? \""
+        "\"Do you frequently consume sugary snacks? \"",
+        "\"Do you take a lot of sugar in your daily diet? \"",
+        "\"Do you have a regular habit of taking sugar? \""
       ]
     },
     {
       "question": "A researcher determined the information that should be collected from participants using a questionnaire. What is the next step in developing the questionnaire?",
-      "correct_answer": "B. Decide on the necessity of each question",
+      "correct_answer": "Decide on the necessity of each question",
       "wrong_answers": [
-        "A. Pre-test the questionnaire on a purposive sample",
-        "C. Organize the questions in a meaningful order",
-        "D. Specify the type and form of the question"
+        "Pre-test the questionnaire on a purposive sample",
+        "Organize the questions in a meaningful order",
+        "Specify the type and form of the question"
       ]
     },
     {
       "question": "“Research on domestic violence includes 5 questions inquiring into sensitive issues”. Where should the researcher place these questions while organizing the final version of the questionnaire?",
-      "correct_answer": "C. Near the end of the core questions after the establishing of rapport",
+      "correct_answer": "Near the end of the core questions after the establishing of rapport",
       "wrong_answers": [
-        "A. At the beginning to alert participants to the focus of the study",
-        "B. After the demographic section in case participants decided to withdraw",
-        "D. Scattered throughout the questionnaire to distract participants"
+        "At the beginning to alert participants to the focus of the study",
+        "After the demographic section in case participants decided to withdraw",
+        "Scattered throughout the questionnaire to distract participants"
       ]
     },
     {
       "question": "What is the primary objective of ’’pre-testing” the final draft a questionnaire on a small sample of respondents?",
-      "correct_answer": "B. To identify ambiguous questions or terms that are difficult for respondent",
+      "correct_answer": "To identify ambiguous questions or terms that are difficult for respondent",
       "wrong_answers": [
-        "A. TO gather the preliminary data needed to finalize the research proposal",
-        "C. To decide on demographic groups that should be excluded from the study",
-        "D. To train data collectors on asking questions and recording the responses"
+        "TO gather the preliminary data needed to finalize the research proposal",
+        "To decide on demographic groups that should be excluded from the study",
+        "To train data collectors on asking questions and recording the responses"
       ]
     },
     {
       "question": "In which situation is an anonymous self-administered questionnaire preferred over face-to-face interview?",
-      "correct_answer": "C. Collecting data on the use of illicit drugs among high school students",
+      "correct_answer": "Collecting data on the use of illicit drugs among high school students",
       "wrong_answers": [
-        "A. Collecting clinical data from patients admitted to private hospitals",
-        "B. Collecting data on psychological status of children with hearing defects",
-        "D. Collecting data on lifestyle among old people living in elderly homes"
+        "Collecting clinical data from patients admitted to private hospitals",
+        "Collecting data on psychological status of children with hearing defects",
+        "Collecting data on lifestyle among old people living in elderly homes"
       ]
     },
     {
       "question": "What is specific to a “test e.g, psychometric tests” compared to a “questionnaire” to assess personality disorder?",
-      "correct_answer": "A. It is a standardised tool",
+      "correct_answer": "It is a standardised tool",
       "wrong_answers": [
-        "B. It is based on self-report",
-        "C. It can be self-administered",
-        "D. It eliminates response bias"
+        "It is based on self-report",
+        "It can be self-administered",
+        "It eliminates response bias"
       ]
     },
     {
       "question": "What is the best place of the set of questions inquiring into the demographic characteristics of participants in a questionnaire?",
-      "correct_answer": "C. At the end of the questionnaire",
+      "correct_answer": "At the end of the questionnaire",
       "wrong_answers": [
-        "A. At the beginning of the questionnaire",
-        "B. in the middle with the core questions",
-        "D. Randomly throughout the questionnaire"
+        "At the beginning of the questionnaire",
+        "in the middle with the core questions",
+        "Randomly throughout the questionnaire"
       ]
     }
   ]

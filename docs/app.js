@@ -2,39 +2,14 @@ const DATA_ROOT = 'questions';
 const TOPICS = {
   general: 'General Research',
   biostatistics: 'Biostatistics',
-  general_extra: 'Extra general research'
+  general_extra: 'Extra general research',
+  end: 'End of Round'
 };
 const TOPIC_FOLDERS = {
   general: 'general',
   biostatistics: 'biostatistics',
-  general_extra: 'general_extra'
-};
-
-const FALLBACK_QUESTIONS = {
-  general: [
-    {
-      question: 'Which cell type is primarily responsible for phagocytosis in acute inflammation?',
-      correct_answer: 'Neutrophils',
-      wrong_answers: ['Lymphocytes', 'Eosinophils', 'Basophils']
-    },
-    {
-      question: 'What is the hallmark feature of coagulative necrosis?',
-      correct_answer: 'Preserved tissue architecture with loss of nuclei',
-      wrong_answers: ['Liquefied tissue with pus formation', 'Fat saponification', 'Caseous cheese-like debris']
-    }
-  ],
-  biostatistics: [
-    {
-      question: 'Which receptor is the primary target of beta-blockers?',
-      correct_answer: 'Beta-1 adrenergic receptor',
-      wrong_answers: ['Alpha-1 adrenergic receptor', 'Muscarinic receptor', 'Dopamine receptor']
-    },
-    {
-      question: 'What is the mechanism of action of ACE inhibitors?',
-      correct_answer: 'Block conversion of angiotensin I to angiotensin II',
-      wrong_answers: ['Block aldosterone receptors', 'Stimulate renin release', 'Inhibit beta-adrenergic receptors']
-    }
-  ]
+  general_extra: 'general_extra',
+  end: 'end'
 };
 
 const STORAGE_KEY = 'medquiz_excluded';
@@ -63,7 +38,6 @@ const translations = {
     review: 'Review wrong answers now?',
     noBanks: 'Please select at least one topic to start a session.',
     noQuestions: 'No questions were available for the selected topics.',
-    noSelection: 'If external bank files are missing, built-in fallback questions are used.',
     next: 'Next question',
     keyboardHint: 'Tip: press 1-9 to answer, Enter to continue'
   }
@@ -139,16 +113,7 @@ function applyLanguage() {
   document.title = state.language === 'ar' ? 'اختبار طب' : 'MedQuiz';
 }
 
-/**
- * Discover every .json file inside a folder.
- * Tries, in order:
- *   1. A `manifest.json` file inside the folder listing filenames (works on any static host).
- *   2. Parsing a server-generated directory listing page (works with servers that have
- *      autoindex enabled, e.g. `python -m http.server`, Apache/nginx with Indexes on).
- * Returns an array of full file paths.
- */
 async function discoverJsonFiles(folder) {
-  // 1) Manifest-based discovery (most reliable, works everywhere)
   try {
     const res = await fetch(`${folder}/manifest.json`);
     if (res.ok) {
@@ -160,10 +125,9 @@ async function discoverJsonFiles(folder) {
       }
     }
   } catch {
-    // ignore and fall through to next strategy
+    // no manifest, try directory listing
   }
 
-  // 2) Directory-listing based discovery (only works if the server exposes one)
   try {
     const res = await fetch(`${folder}/`);
     if (res.ok) {
@@ -182,7 +146,7 @@ async function discoverJsonFiles(folder) {
       }
     }
   } catch {
-    // ignore, no listing available
+    // no listing available
   }
 
   return [];
@@ -193,7 +157,7 @@ async function loadQuestions(topic) {
   const files = await discoverJsonFiles(folder);
 
   if (!files.length) {
-    return FALLBACK_QUESTIONS[topic] || [];
+    return [];
   }
 
   const questionSets = await Promise.all(files.map(async (file) => {
@@ -208,8 +172,7 @@ async function loadQuestions(topic) {
     }
   }));
 
-  const loaded = questionSets.flat();
-  return loaded.length ? loaded : FALLBACK_QUESTIONS[topic] || [];
+  return questionSets.flat();
 }
 
 function renderApp() {
@@ -238,7 +201,6 @@ function renderApp() {
                 <button type="button" class="chip ${state.selectedTopics.includes(key) ? 'active' : ''}" data-topic="${key}">${label}</button>
               `).join('')}
             </div>
-            <p class="small">${t('noSelection')}</p>
           </div>
 
           <div class="info-card">
@@ -356,13 +318,10 @@ function answerMCQ(btn, chosen) {
   if (chosen === correct) {
     state.correctCount += 1;
     updateLiveScore();
-    // Correct answers keep the pace up and auto-advance shortly.
     window.setTimeout(nextQuestion, 700);
   } else {
     state.wrong.push(state.current);
     updateLiveScore();
-    // Wrong answers wait for a deliberate second input before moving on,
-    // so there's time to actually register the correct answer.
     const nextControls = document.getElementById('nextControls');
     if (nextControls) {
       nextControls.innerHTML = `<button class="btn-primary" id="nextBtn">${t('next')} →</button>`;

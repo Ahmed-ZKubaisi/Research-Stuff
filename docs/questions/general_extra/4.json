@@ -19,7 +19,7 @@
       ]
     },
     {
-      "question": "A prospective cohort study is being conducted to investigate the long-term effects of air pollution exposure on cardiovascular disease. Researchers have identified cohorts based on residential proximity to industrial areas. They need to collect data on the development of cardiovascular disease over a 20-year follow-up period. Which of the following would be the most appropriate source for obtaining data on the *exposure* in this study?",
+      "question": "A prospective cohort study is being conducted to investigate the long-term effects of air pollution exposure on cardiovascular disease. Researchers have identified cohorts based on residential proximity to industrial areas. They need to collect data on the development of cardiovascular disease over a 20-year follow-up period. Which of the following would be the most appropriate source for obtaining data on the exposure in this study?",
       "correct_answer": "Environmental surveys of air quality.",
       "wrong_answers": [
         "Baseline interviews about residential history.",
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "question": "400 women aged 20-35 coming for routine check-up are asked about their smoking status. 40% of the women smokers. Over the next ten years. 25 smokers and 24 non-smokers developed breast cancer. Which of the following best describes the study design?",
+      "question": "400 women aged 20-35 coming for routine check-up are asked about their smoking status. 40% of the women are smokers. Over the next ten years, 25 smokers and 24 non-smokers developed breast cancer. Which of the following best describes the study design?",
       "correct_answer": "Prospective cohort study",
       "wrong_answers": [
         "Retrospective cohort study",
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "question": "A researcher is interested in studying whether association between neural tube defects and use of acetaminophen during the first 3 months of pregnancy. He randomly chooses a group of women who have just delivered babies with neural tube defects, a second group of women who delivered apparently healthy babies. These 2 groups were then asked about their use of acetaminophen during the first 3 months of pregnancy. Which of the following choices represents this type of study?",
+      "question": "A researcher is interested in studying whether there is an association between neural tube defects and use of acetaminophen during the first 3 months of pregnancy. He randomly chooses a group of women who have just delivered babies with neural tube defects, and a second group of women who delivered apparently healthy babies. These 2 groups were then asked about their use of acetaminophen during the first 3 months of pregnancy. Which of the following choices represents this type of study?",
       "correct_answer": "Case-control study",
       "wrong_answers": [
         "Prospective cohort study",
@@ -258,11 +258,11 @@
       "wrong_answers": [
         "The average death rate in each cohort",
         "The incidence rate of liver HCV-positive participants",
-        "The rate of eventual infect HCV-negative participants"
+        "The rate of eventual infection in HCV-negative participants"
       ]
     },
     {
-      "question": "The aim of a prospective cohort study conducted in a group of adults with diagnosed type 2 diabetes mellitus (T2DM) is to investigate the association between the presence of morbid obesity (BMI >40 kg/m²) and the risk of developing diabetic nephropathy. One of the groups in the study consists of adults with T2DM, a BMI >40 kg/m², and no diabetic nephropathy. Which of the following is the most appropriate comparison group for this prospective cohort study?",
+      "question": "The aim of a prospective cohort study conducted in a group of adults with diagnosed type 2 diabetes mellitus (T2DM) is to investigate the association between the presence of morbid obesity (BMI >40 kg/m2) and the risk of developing diabetic nephropathy. One of the groups in the study consists of adults with T2DM, a BMI >40 kg/m2, and no diabetic nephropathy. Which of the following is the most appropriate comparison group for this prospective cohort study?",
       "correct_answer": "Adults with T2DM who have normal weight and no diabetic nephropathy",
       "wrong_answers": [
         "Adults with T2DM who have morbid obesity and diabetic nephropathy",
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "question": "A geneticist is interested in the potential causes of a congenital abnormality. She hypothesizes that acetaminophen use during the first trimester of pregnancy might be associated with the abnormality. In her study, a sample of mothers of children with and without abnormality is identified from birth records. Interviews are then conducted with the mothers to determine fetal exposure to acetaminophen. Results show that mothers of children who do not have the abnormality did not take acetaminophen as frequently during the first trimester. This type of study is most susceptible to which of the following types of bias?",
+      "question": "A geneticist is interested in the potential causes of a congenital abnormality. She hypothesizes that acetaminophen use during the first trimester of pregnancy might be associated with the abnormality. In her study, a sample of mothers of children with and without the abnormality are identified from birth records. Interviews are then conducted with the mothers to determine fetal exposure to acetaminophen. Results show that mothers of children who do not have the abnormality did not take acetaminophen as frequently during the first trimester. This type of study is most susceptible to which of the following types of bias?",
       "correct_answer": "Recall bias",
       "wrong_answers": [
         "Detection bias",
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "question": "A study assessed the association between a new vaccine and traveler's diarrhea (TD). Researchers selected a random sample of people who intended to travel to regions where they were at increased risk for TD and who had received the new vaccine and another independent random sample of people who intended to travel to the same regions and who had not received the new vaccine. These 2 samples of travelers were assessed for the occurrence of TD during the trip and for 7 days after returning home. Which of the following measures of association are the investigators most likely to report?",
+      "question": "A study assessed the association between a new vaccine and traveler's diarrhea (TD). Researchers selected a random sample of people who intended to travel to regions where they were at increased risk for TD and who had received the new vaccine, and another independent random sample of people who intended to travel to the same regions and who had not received the new vaccine. These 2 samples of travelers were assessed for the occurrence of TD during the trip and for 7 days after returning home. Which of the following measures of association are the investigators most likely to report?",
       "correct_answer": "Relative risk",
       "wrong_answers": [
         "Control risk",
@@ -299,7 +299,7 @@
     },
     {
       "question": "The physical examination records of the entire incoming freshman class of 1935 at the University of Minnesota were examined in 1977 to see if their recorded height and weight at the time of admission to the university was related to the development of coronary heart disease (CHD) by 1986. This is an example of:",
-      "correct_answer": "A retrospective cohort",
+      "correct_answer": "A retrospective cohort study",
       "wrong_answers": [
         "A cross-sectional study",
         "A case-control study",
@@ -343,7 +343,7 @@
       ]
     },
     {
-      "question": "An investigator wanted to study the relation between rare Hematologic Disorders in young infants & mothers smoking during pregnancy. Which is the best study design?",
+      "question": "An investigator wanted to study the relation between rare Hematologic Disorders in young infants and mothers smoking during pregnancy. Which is the best study design?",
       "correct_answer": "Case control study",
       "wrong_answers": [
         "Prospective cohort",

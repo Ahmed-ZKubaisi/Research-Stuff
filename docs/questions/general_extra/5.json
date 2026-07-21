@@ -1,0 +1,580 @@
+{
+  "questions": [
+    {
+      "question": "Which study design is the \"gold standard\" in determining the benefits and harms of a therapeutic regimen?",
+      "correct_answer": "Randomized controlled clinical trial",
+      "wrong_answers": [
+        "Case-control study",
+        "Prospective cohort study",
+        "Case report"
+      ]
+    },
+    {
+      "question": "Which feature best distinguishes an intervention study from a cohort study?",
+      "correct_answer": "Active measurement of exposure by investigator",
+      "wrong_answers": [
+        "Presence of follow-up over time",
+        "Measurement of incidence",
+        "Use of a comparison group"
+      ]
+    },
+    {
+      "question": "A study was conducted included children enrolled in a health insurance organization. At 2 months, each child was randomly given one of two types of a new vaccine against rotavirus infection. Parents were called by a nurse two weeks later and asked whether the children had experienced any of a list of side-effects. What is the study design?",
+      "correct_answer": "Randomized controlled trial",
+      "wrong_answers": [
+        "Case-control study",
+        "Cohort study",
+        "Case report"
+      ]
+    },
+    {
+      "question": "A researcher assigns participants to receive a new vaccine or no vaccine and then follows them for disease incidence over 2 years. What is the type of study?",
+      "correct_answer": "Intervention (experimental) study",
+      "wrong_answers": [
+        "Prospective cohort study",
+        "Case-control study",
+        "Cross-sectional study"
+      ]
+    },
+    {
+      "question": "A new angiotensin-converting enzyme inhibitor (ACEI), has been approved for use and is now being prescribed to patients with hypertension. Researchers now want to monitor the drug for long-term and rare adverse effects in the general population. Which phase of clinical trials does this post-marketing monitoring represent?",
+      "correct_answer": "Phase IV trial",
+      "wrong_answers": [
+        "Phase I trial",
+        "Phase II trial",
+        "Phase III trial"
+      ]
+    },
+    {
+      "question": "A new antiviral drug is given to 20 healthy volunteers for the first time to assess safety, dose tolerance, and side effects. Which phase of clinical trials does this study represent?",
+      "correct_answer": "Phase I trial",
+      "wrong_answers": [
+        "Phase II trial",
+        "Phase III trial",
+        "Phase IV trial"
+      ]
+    },
+    {
+      "question": "A cancer drug is tested in 120 patients with leukemia to evaluate its effectiveness and determine the safe dose. Which phase of clinical trials does this study represent?",
+      "correct_answer": "Phase II trial",
+      "wrong_answers": [
+        "Phase I trial",
+        "Phase III trial",
+        "Phase IV trial"
+      ]
+    },
+    {
+      "question": "A new vaccine is compared with an existing standard vaccine in 3,000 participants to determine comparative effectiveness and monitor its adverse effects. Which phase of clinical trials does this study represent?",
+      "correct_answer": "Phase III trial",
+      "wrong_answers": [
+        "Phase I trial",
+        "Phase II trial",
+        "Phase IV trial"
+      ]
+    },
+    {
+      "question": "A 34-year-old female with newly diagnosed Crohn's disease is enrolled in a study. The study aims to assess the efficacy of a novel biologic agent compared to standard anti-TNF therapy in reducing disease activity over 12 weeks. Participants are randomized, and both patients and their treating physicians are unaware of the assigned treatment. Based on the description, which phase of clinical trial is this patient most likely participating in?",
+      "correct_answer": "Phase I.",
+      "wrong_answers": [
+        "Phase II.",
+        "Phase III.",
+        "Phase IV."
+      ]
+    },
+    {
+      "question": "A 28-year-old healthy female volunteer participates in a study where she receives a single dose of a new vaccine candidate. Researchers are primarily monitoring for immediate adverse reactions, changes in vital signs, and the vaccine's metabolic profile over 72 hours. This study is most consistent with which phase of clinical trials?",
+      "correct_answer": "Phase I",
+      "wrong_answers": [
+        "Phase II",
+        "Phase III",
+        "Phase IV"
+      ]
+    },
+    {
+      "question": "A 65-year-old male with newly diagnosed heart failure is being considered for a large-scale clinical trial. The trial involves screening eligible participants, obtaining informed consent, randomizing them to either a new drug or standard care, and then following them for a primary outcome of hospitalization for heart failure. This described sequence of steps is characteristic of the flowchart for which specific phase of clinical trials?",
+      "correct_answer": "Phase III",
+      "wrong_answers": [
+        "Phase I",
+        "Phase IV",
+        "Phase II"
+      ]
+    },
+    {
+      "question": "Which phase of clinical trials is characterized by testing a new biomedical intervention on large numbers of eligible participants (hundreds to thousands) and is often referred to as Randomized Controlled Trials (RCTs)?",
+      "correct_answer": "Phase III",
+      "wrong_answers": [
+        "Phase IV",
+        "Phase I",
+        "Phase II"
+      ]
+    },
+    {
+      "question": "A 58-year-old male patient with newly diagnosed metastatic prostate cancer is enrolled in a study. The study aims to determine if a new targeted therapy can improve progression-free survival compared to standard chemotherapy. The trial involves 50 patients, and researchers are also monitoring for common side effects and the optimal dosage. This study is most consistent with which phase of clinical trials?",
+      "correct_answer": "Phase II",
+      "wrong_answers": [
+        "Phase I",
+        "Phase III",
+        "Phase IV"
+      ]
+    },
+    {
+      "question": "A pharmaceutical company is conducting a study to monitor the long-term effectiveness and identify rare adverse effects of a newly marketed drug in the general population. Which phase of clinical trials does this activity represent?",
+      "correct_answer": "Phase II",
+      "wrong_answers": [
+        "Phase I",
+        "Phase III",
+        "Phase IV"
+      ]
+    },
+    {
+      "question": "What is the main value of using a placebo in randomized controlled trial?",
+      "correct_answer": "Avoid Psychological (placebo) effect on outcomes",
+      "wrong_answers": [
+        "Minimize selection bias",
+        "Minimize recall bias",
+        "Control confounding factors"
+      ]
+    },
+    {
+      "question": "A Phase III randomized controlled trial is designed to evaluate a novel antihypertensive agent against the current traditional antihypertensive treatment. Participants were unaware about the type of treatment they receive. Outcome assessments were conducted by a separate panel of clinicians who had no contact with the participants. What is the level of blinding in the study?",
+      "correct_answer": "Double blinded trial",
+      "wrong_answers": [
+        "Open-lable trial",
+        "Single blinded trial",
+        "Triple blinded trial"
+      ]
+    },
+    {
+      "question": "What is the main aim of randomization in a randomized controlled trial?",
+      "correct_answer": "Control for confounding factors",
+      "wrong_answers": [
+        "Reduce the cost",
+        "Minimize loss to follow-up",
+        "Increase participant compliance"
+      ]
+    },
+    {
+      "question": "What is the type of bias that could be minimized by blinding?",
+      "correct_answer": "Information bias",
+      "wrong_answers": [
+        "Selection bias",
+        "Attrition bias",
+        "Recall bias"
+      ]
+    },
+    {
+      "question": "In a study evaluating the effectiveness of a new surgical procedure versus medical treatment, the outcome assessors know which intervention was performed. What is the type of assignment of participants?",
+      "correct_answer": "Open-label",
+      "wrong_answers": [
+        "Single-blinded",
+        "Double-blinded",
+        "Triple-blinded"
+      ]
+    },
+    {
+      "question": "A clinical trial was conducted in which participants, investigators, and the statisticians analyzing the data were all unaware of group allocation until the study is complete. What is the type of blinding?",
+      "correct_answer": "Triple-blind",
+      "wrong_answers": [
+        "Single-blind",
+        "Double-blind",
+        "Open-label"
+      ]
+    },
+    {
+      "question": "What is the main objective of phase I clinical trial?",
+      "correct_answer": "Make sure that the new medicine presents no major safety issues",
+      "wrong_answers": [
+        "Decide the effective dose",
+        "Compares results of drug effectiveness and safety against that achieved by existing treatment",
+        "Assess the adverse effects over longer period of time"
+      ]
+    },
+    {
+      "question": "A randomized trial is designed to test a new drug for a life-threatening condition for which a traditional treatment already exists. The investigators propose using a placebo for the control group. What is the most appropriate ethical judgment?",
+      "correct_answer": "Placebo use is unethical as a standard treatment exists",
+      "wrong_answers": [
+        "Placebo use is acceptable because it improves blinding",
+        "Placebo use is required for internal validity",
+        "Placebo use is acceptable if participants give consent"
+      ]
+    },
+    {
+      "question": "A randomized controlled trial reports that erythropoietin administration to patients with end stage kidney disease reduces mortality within 3 months compared to nothing. The study reported a number needed to treat (NNT) equals 5. What is the interpretation of the findings of this study?",
+      "correct_answer": "Treating 5 patients with erythropoietin will prevent one additional death within 3 months compared with no treatment.",
+      "wrong_answers": [
+        "Erythropoietin reduces mortality by 5% within 3 months.",
+        "Five patients must receive erythropoietin to achieve a relative risk reduction of 5.",
+        "Erythropoietin is effective in only 20% of patients with end-stage kidney disease."
+      ]
+    },
+    {
+      "question": "A randomized controlled trial found that a new antiplatelet drug reduced the risk of myocardial infarction in high-risk patients over 1 year. The number needed to treat (NNT) was 25. What is the BEST interpretation of this finding?",
+      "correct_answer": "It is required to give the new drug to 25 patients to prevent one additional myocardial infarction over 1 year",
+      "wrong_answers": [
+        "The drug reduces the risk of myocardial infarction by 25%.",
+        "One in 25 patients will be cured of heart disease.",
+        "The relative risk reduction is 25."
+      ]
+    },
+    {
+      "question": "A randomized clinical trial in patients with multiple sclerosis showed that a new drug reduced the 6-month relapse rate to 20%. Patients who received the standard treatment had a relapse rate of 25% during the same period. How many patients need to be treated with the new drug to prevent one additional relapse during the first 6 months of therapy?",
+      "correct_answer": "20",
+      "wrong_answers": [
+        "5",
+        "10",
+        "80"
+      ]
+    },
+    {
+      "question": "In a clinical trial comparing the effectiveness of two different intervention to prevent myocardial infarction, the absolute risk reduction (ARR) for myocardial infarction (MI) is 0.05. Which interpretation is MOST appropriate?",
+      "correct_answer": "There is a 5% absolute reduction in the risk of MI due to intervention",
+      "wrong_answers": [
+        "The experimental group is five times more at risk for MI",
+        "Five patients must be treated to prevent one additional MI",
+        "There is no difference between the two intervention groups regarding incidence of MI"
+      ]
+    },
+    {
+      "question": "A 45-year-old male with type 2 diabetes is enrolled in a study comparing a new oral hypoglycemic agent to metformin. The researchers carefully control for diet and exercise, and participants are randomly assigned to groups. The study aims to measure changes in HbA1c and the incidence of hypoglycemia. The rigorous design of this study, particularly the randomization and control for other factors, highlights which key strength of intervention studies?",
+      "correct_answer": "Their effectiveness in controlling for selection bias and confounding factors.",
+      "wrong_answers": [
+        "Their ability to be conducted quickly and at low cost.",
+        "Their suitability for studying rare diseases and outcomes.",
+        "Their capacity to investigate multiple interventions simultaneously."
+      ]
+    },
+    {
+      "question": "The hierarchy of evidence pyramid illustrates an inverse relationship between quantity and quality of evidence. What does this imply regarding the top levels of the pyramid?",
+      "correct_answer": "They contain fewer studies but are more reliable and clinically relevant.",
+      "wrong_answers": [
+        "They contain more studies but are less reliable and clinically relevant.",
+        "They contain fewer studies but offer more information for evaluation.",
+        "They contain more information, but the evidence is less strong."
+      ]
+    },
+    {
+      "question": "What is the primary purpose of using a placebo in a randomized controlled trial, particularly in single-blinded studies?",
+      "correct_answer": "To prevent bias resulting from the psychological effect of knowing the intervention.",
+      "wrong_answers": [
+        "To assess the maximum tolerated dose of the intervention.",
+        "To provide an active treatment to the control group.",
+        "To ensure that all participants experience some form of intervention."
+      ]
+    },
+    {
+      "question": "While intervention studies are robust, their strength in evaluating effects is specifically highlighted for what aspect?",
+      "correct_answer": "Evaluating the effects of a single intervention on a single or multiple outcomes.",
+      "wrong_answers": [
+        "Investigating multiple interventions simultaneously across diverse populations.",
+        "Establishing associations between exposures and outcomes in observational settings.",
+        "Providing rapid and inexpensive insights into rare adverse events."
+      ]
+    },
+    {
+      "question": "An intervention study found an Absolute Risk Reduction (ARR) of 0.20 for a new preventive therapy. What is the correct interpretation of the Number Needed to Treat (NNT) for this intervention?",
+      "correct_answer": "Five patients need to be treated to prevent one additional adverse outcome.",
+      "wrong_answers": [
+        "One patient needs to be treated to observe 20 adverse outcomes.",
+        "Twenty patients need to be treated to prevent one adverse outcome.",
+        "For every 100 patients treated, 20 will experience the adverse outcome."
+      ]
+    },
+    {
+      "question": "A 60-year-old female with rheumatoid arthritis is participating in a trial comparing a new biologic drug to a placebo. The investigators, who are aware of the treatment allocation, are responsible for assessing the patient's pain levels and joint swelling, which are subjective outcomes. If only the participants are blinded (single blinding) in this trial, which type of bias is most likely to affect the outcome assessment by the investigators?",
+      "correct_answer": "Information bias, specifically investigator bias in subjective outcome assessment.",
+      "wrong_answers": [
+        "Selection bias, due to non-random allocation of participants.",
+        "Confounding bias, from unequal distribution of baseline characteristics.",
+        "Recall bias, from participants inaccurately remembering their symptoms."
+      ]
+    },
+    {
+      "question": "A key strength of randomized controlled trials (RCTs) is their ability to effectively control for various biases. Which of the following biases is primarily controlled by the process of randomization?",
+      "correct_answer": "Selection bias, by ensuring equal probability of group assignment.",
+      "wrong_answers": [
+        "Information bias, through masking knowledge of allocation.",
+        "Observer bias, by standardizing outcome assessment protocols.",
+        "Recall bias, by prospectively collecting outcome data."
+      ]
+    },
+    {
+      "question": "In a study evaluating a new pain medication, participants in the control group receive an inert sugar pill that looks identical to the active drug. Neither the participants nor the researchers know who is receiving the active drug or the sugar pill. The inert sugar pill given to the control group in this scenario is an example of what?",
+      "correct_answer": "A placebo.",
+      "wrong_answers": [
+        "The active intervention.",
+        "A confounding variable.",
+        "A blinding agent."
+      ]
+    },
+    {
+      "question": "A 50-year-old female with hypertension is part of a clinical trial for a new antihypertensive medication. The study finds that the risk of stroke in the intervention group (EER) is 0.02, while in the control group (CER) it is 0.04. What is the Relative Risk (RR) of stroke for patients taking the new medication compared to the control group, and how should it be interpreted?",
+      "correct_answer": "RR = 0.5; the new medication halves the risk of stroke.",
+      "wrong_answers": [
+        "RR = 2.0; the new medication doubles the risk of stroke.",
+        "RR = 0.02; the new medication reduces the absolute risk by 2%.",
+        "RR = 0.02; the new medication has no significant effect on stroke risk."
+      ]
+    },
+    {
+      "question": "A research team is proposing a study to evaluate the impact of a new exercise regimen on blood pressure in hypertensive adults. They have theoretical evidence suggesting the regimen might be beneficial, but its effects are not yet definitively established. This proposed study, where the investigator actively assigns the exercise regimen to study its effect, aligns with the definition of which type of research?",
+      "correct_answer": "Intervention (experimental) study.",
+      "wrong_answers": [
+        "Case-control study.",
+        "Observational cohort study.",
+        "Cross-sectional study."
+      ]
+    },
+    {
+      "question": "An intervention study for preventing recurrent deep vein thrombosis (DVT) found that the Absolute Risk Reduction (ARR) for a new anticoagulant was 0.05. How many patients would need to be treated with this new anticoagulant to prevent one additional case of recurrent DVT?",
+      "correct_answer": "20",
+      "wrong_answers": [
+        "50",
+        "5",
+        "10"
+      ]
+    },
+    {
+      "question": "Which group of participants is typically involved in Phase II clinical trials?",
+      "correct_answer": "Group of volunteered patients.",
+      "wrong_answers": [
+        "Small group of healthy volunteers.",
+        "Large numbers of eligible participants (hundreds to thousands).",
+        "The general population post-marketing."
+      ]
+    },
+    {
+      "question": "A physician is looking for the best evidence to guide treatment for a patient with a rare, aggressive form of cancer. A systematic review on this specific cancer type is not available. According to the hierarchy of evidence, if top-level evidence is not available, what is the most appropriate next step for the physician to search for?",
+      "correct_answer": "Randomized controlled trials or cohort studies.",
+      "wrong_answers": [
+        "Case series, as they provide detailed individual patient data.",
+        "Cross-sectional studies, for prevalence data.",
+        "Expert opinion, as it is the most practical in rare diseases."
+      ]
+    },
+    {
+      "question": "An intervention study is best defined as a type of research applied to test the effects of a new intervention with what characteristic?",
+      "correct_answer": "Doubtful effects, whether preventive or curative.",
+      "wrong_answers": [
+        "Proven superiority over existing interventions.",
+        "Known adverse effects requiring long-term monitoring.",
+        "Established equivalence to current standard treatments."
+      ]
+    },
+    {
+      "question": "A 55-year-old male with severe, chronic back pain is participating in a randomized controlled trial comparing a new surgical procedure to standard physical therapy. The study aims to assess pain reduction and functional improvement over 6 months. Due to the nature of the interventions, neither the patient nor the physical therapist can be unaware of the assigned treatment. Given the described scenario, which characteristic of randomized controlled trials is most likely to be absent or modified, and why?",
+      "correct_answer": "Blinding, because it is not feasible for surgical interventions.",
+      "wrong_answers": [
+        "Randomization, because it is difficult to randomize patients to surgery.",
+        "Control group, because withholding surgery would be unethical.",
+        "Long follow-up, because surgical outcomes are immediate."
+      ]
+    },
+    {
+      "question": "A public health researcher is investigating whether a new educational program in schools can reduce the incidence of childhood obesity compared to no intervention. The study involves tracking thousands of children over several years. Based on the hierarchy of evidence for prevention questions, which study design would be considered the best to answer this research question?",
+      "correct_answer": "Randomized controlled trial.",
+      "wrong_answers": [
+        "Case-control study.",
+        "Case series.",
+        "Prospective cohort study."
+      ]
+    },
+    {
+      "question": "In the hierarchy of evidence for evidence-based medicine, which type of study is generally considered to provide the highest level of evidence?",
+      "correct_answer": "Systematic reviews and meta-analyses.",
+      "wrong_answers": [
+        "Randomized controlled trials.",
+        "Cohort studies.",
+        "Case series."
+      ]
+    },
+    {
+      "question": "In a clinical trial, the Experimental Event Rate (EER) is 0.15 and the Control Event Rate (CER) is 0.30. What is the Relative Risk (RR)?",
+      "correct_answer": "0.50",
+      "wrong_answers": [
+        "0.45",
+        "0.15",
+        "2.00"
+      ]
+    },
+    {
+      "question": "A 40-year-old female is enrolled in a study investigating a new dietary intervention for weight loss. Researchers are concerned that baseline differences in physical activity levels between the intervention and control groups could influence the study's outcome. Which characteristic of randomized controlled trials is specifically designed to address this concern about baseline differences in factors like physical activity?",
+      "correct_answer": "Randomization of participants to study groups.",
+      "wrong_answers": [
+        "Presence of a placebo control group.",
+        "Blinding of participants and investigators.",
+        "Establishing clear stopping rules for the trial."
+      ]
+    },
+    {
+      "question": "A clinical trial aims to minimize information bias by ensuring that both the participants and the investigators assessing the outcome are unaware of the treatment allocation. Which type of blinding best describes this approach?",
+      "correct_answer": "Double blinding, which masks allocation from participants and investigators.",
+      "wrong_answers": [
+        "Single blinding, which only masks allocation from the study participants.",
+        "Triple blinding, which includes masking from statisticians as well.",
+        "Open label trial, where all parties are aware of the allocation."
+      ]
+    },
+    {
+      "question": "In a randomized controlled trial, when is it considered unethical to use a placebo or withhold treatment from the control group?",
+      "correct_answer": "When a standard treatment for the condition already exists.",
+      "wrong_answers": [
+        "When the intervention group receives a new, unproven therapy.",
+        "When the study aims to evaluate the safety of the new intervention.",
+        "When blinding of participants is not feasible due to the intervention type."
+      ]
+    },
+    {
+      "question": "A researcher wants to investigate whether long-term exposure to a specific industrial chemical increases the risk of a particular type of lung cancer in workers. They plan to follow a group of exposed workers and a group of unexposed workers over several decades. Which study design would be considered the best to answer this research question about harm/risk factors?",
+      "correct_answer": "Prospective cohort study.",
+      "wrong_answers": [
+        "Case-control study.",
+        "Case series.",
+        "Randomized controlled trial."
+      ]
+    },
+    {
+      "question": "In which scenario is an 'open label' trial most likely to be conducted, despite the absence of blinding?",
+      "correct_answer": "When comparing a surgical intervention to a therapeutic agent.",
+      "wrong_answers": [
+        "When evaluating the safety of a new drug in healthy volunteers.",
+        "When comparing two similar oral medications for a chronic condition.",
+        "When the outcome assessment is highly subjective and prone to bias."
+      ]
+    },
+    {
+      "question": "A 68-year-old male with a history of myocardial infarction is enrolled in a study evaluating a new antiplatelet drug. After one year, the risk of recurrent MI in the group receiving the new drug (EER) is 0.08, while in the placebo group (CER) it is 0.12. What is the Number Needed to Treat (NNT) for this new antiplatelet drug to prevent one additional recurrent MI?",
+      "correct_answer": "25",
+      "wrong_answers": [
+        "8",
+        "4",
+        "12"
+      ]
+    },
+    {
+      "question": "Beyond preventing selection bias, how does randomization primarily contribute to the internal validity of a randomized controlled trial?",
+      "correct_answer": "By ensuring random distribution of confounding variables between groups.",
+      "wrong_answers": [
+        "By allowing for the calculation of relative risk and absolute risk reduction.",
+        "By masking participants and investigators to treatment allocation.",
+        "By reducing the cost and duration of the study."
+      ]
+    },
+    {
+      "question": "A 72-year-old male with advanced pancreatic cancer is being considered for enrollment in a clinical trial. The trial aims to evaluate a novel chemotherapy regimen. However, there is an established standard chemotherapy regimen that has shown modest but consistent survival benefits for this condition. The researchers propose a control arm receiving a placebo. What is the most significant ethical concern regarding the proposed control arm in this trial?",
+      "correct_answer": "Withholding an existing standard treatment from patients with a serious condition.",
+      "wrong_answers": [
+        "The difficulty in blinding participants to the nature of their treatment.",
+        "The potential for selection bias due to non-random allocation of participants.",
+        "The high cost associated with providing the novel chemotherapy regimen."
+      ]
+    },
+    {
+      "question": "What is the primary aim of a Phase I clinical trial for a new biomedical intervention?",
+      "correct_answer": "To evaluate its safety, dose tolerance, and drug metabolism in healthy volunteers.",
+      "wrong_answers": [
+        "To compare the new intervention to existing standard treatments.",
+        "To monitor adverse effects associated with widespread use post-marketing.",
+        "To determine the effectiveness of the therapeutic agent in patients."
+      ]
+    },
+    {
+      "question": "A 30-year-old female with a rare genetic disorder is participating in a clinical trial for a novel gene therapy. The therapy requires weekly intravenous infusions for 6 months, followed by monthly follow-up visits for 5 years. After 2 years, the research team notes that a significant percentage of participants have stopped attending their follow-up appointments. This scenario primarily illustrates which common limitation of intervention studies?",
+      "correct_answer": "Loss to follow-up, often termed attrition, due to long duration.",
+      "wrong_answers": [
+        "Ethical problems related to informed consent.",
+        "High cost of the intervention and study procedures.",
+        "Difficulty in blinding participants to the intervention."
+      ]
+    },
+    {
+      "question": "Which characteristic is considered the most important in clinical trials for allocating participants to intervention and control groups independently of researcher preference?",
+      "correct_answer": "Randomization.",
+      "wrong_answers": [
+        "Presence of a control group.",
+        "Blinding.",
+        "Ethical approval."
+      ]
+    },
+    {
+      "question": "An intervention study reports a Control Event Rate (CER) of 0.25 and an Experimental Event Rate (EER) of 0.10. What is the Absolute Risk Reduction (ARR)?",
+      "correct_answer": "0.15",
+      "wrong_answers": [
+        "0.35",
+        "0.025",
+        "2.5"
+      ]
+    },
+    {
+      "question": "Which of the following is a significant limitation commonly associated with intervention studies, particularly those with long follow-up periods?",
+      "correct_answer": "Loss to follow-up, also known as attrition.",
+      "wrong_answers": [
+        "Inability to control for confounding variables effectively.",
+        "High compliance rates among participants.",
+        "Low cost and short duration of the study."
+      ]
+    },
+    {
+      "question": "A 60-year-old male with hyperlipidemia is participating in a study comparing a new statin to a placebo. After 3 years, the risk of a major cardiovascular event in the statin group (EER) is 0.05, and in the placebo group (CER) is 0.10. What is the Absolute Risk Reduction (ARR) of a major cardiovascular event with the new statin?",
+      "correct_answer": "0.05",
+      "wrong_answers": [
+        "0.15",
+        "0.50",
+        "2.00"
+      ]
+    },
+    {
+      "question": "A group of researchers conduct a study to evaluate the pharmacologic properties of oxfendazole, an anthelminthic agent. As part of the study, increasing oral doses of oxfendazole (0.5 to 60 mg/kg) are administered to healthy volunteers. Data is collected to form a pharmacokinetic profile of the drug and its metabolites, the incidence of adverse effects is recorded for the various dosages. A total of 20 healthy male and female (no childbearing potential) volunteers participate in the study. Oxfendazole is found to be well tolerated throughout the dose range without any serious adverse effects or deaths. Which of the following best describes this type of study?",
+      "correct_answer": "Phase I clinical trial",
+      "wrong_answers": [
+        "Phase II clinical trial",
+        "Phase III clinical trial",
+        "Phase IV clinical trial"
+      ]
+    },
+    {
+      "question": "A randomized trial is designed to test a new drug for a life-threatening condition for which a traditional treatment already exists. The investigators propose using a placebo for the control group. What is the most appropriate ethical judgment?",
+      "correct_answer": "Placebo use is unethical as a standard treatment exists",
+      "wrong_answers": [
+        "Placebo use is acceptable because it improves blinding",
+        "Placebo use is required for internal validity",
+        "Placebo use is acceptable if participants give consent"
+      ]
+    },
+    {
+      "question": "In a study evaluating the effectiveness of a new surgical procedure versus medical treatment, the outcome assessors know which intervention was performed. What is the type of assignment of participants?",
+      "correct_answer": "Open-label",
+      "wrong_answers": [
+        "Single-blinded",
+        "Double-blinded",
+        "Triple-blinded"
+      ]
+    },
+    {
+      "question": "A new study is conducted to investigate the efficacy of intravenous immunoglobulin alleviation in patients with idiopathic small fiber neuropathy. A total of 100 eligible patients who fulfilled the Inclusion/exclusion criteria are assigned to one of two groups based on random selection by a computer. The method of assigning patients to treatment groups in this study is most likely intended to produce which of the following?",
+      "correct_answer": "Two groups in which participants are similar in underlying characteristics",
+      "wrong_answers": [
+        "One group in which participants are blinded to the intervention they receive and another in which participants are not",
+        "Two groups of participants that will only be analyzed based on their initial treatment allocation",
+        "Two groups that have equal numbers of participants"
+      ]
+    },
+    {
+      "question": "A study aims to investigate the effectiveness of the topical application of tetracycline ointment in the prevention of surgical-site infection associated with resection of advanced oral cavity cancer. Fifty patients who underwent loco regional resection were assigned by chance to receive standard care alone or tetracycline-ointment in addition to standard care. The patients' site infections were recorded for each group, then followed for 1 month. Which of the following best describes the study design?",
+      "correct_answer": "Randomized control trial",
+      "wrong_answers": [
+        "Case-control study",
+        "Prospective cohort study",
+        "Retrospective cohort study"
+      ]
+    },
+    {
+      "question": "A clinical trial compares two drugs for a fatal viral infection in children. Drug A has an absolute risk reduction (ARR) of 0.05. Drug B has an absolute risk reduction (ARR) of 0.20.",
+      "correct_answer": "Drug A requires treating more children to prevent 1 additional death compared to Drug B, so Drug A is less effective than Drug B",
+      "wrong_answers": [
+        "Drug A requires treating fewer children to prevent 1 additional death compared to Drug B, so Drug A is less effective than Drug B",
+        "Drug A requires treating fewer children to prevent 1 additional death compared to Drug B, so Drug A is more effective than Drug B",
+        "Drug A requires treating more children to prevent 1 additional death compared to Drug B, so Drug A is more effective than Drug B"
+      ]
+    }
+  ]
+}

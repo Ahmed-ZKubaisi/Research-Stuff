@@ -1,0 +1,148 @@
+{
+  "questions": [
+    {
+      "question": "A researcher states the following question for his research: What is the prevalence of anemia among pregnant females attending the antenatal care? Which of the following explains why formulating a research hypothesis is not mandatory?",
+      "correct_answer": "B. It is a descriptive question",
+      "wrong_answers": [
+        "A. anemia is already calculated",
+        "C. The sample size is insufficient to support a null hypothesis",
+        "D. The prevalence can not be estimated statistically"
+      ]
+    },
+    {
+      "question": "A researcher wants to perform a single search that captures all of the following terms: child, children, childhood and childcare. Which of searching tools should he use?",
+      "correct_answer": "D. Truncation using asterisk",
+      "wrong_answers": [
+        "A. Boolean command AND",
+        "B. Boolean command Not",
+        "C. Boolean command OR"
+      ]
+    },
+    {
+      "question": "Which of the following graphical tools is used to present the correlation between two quantitative continuous variables?",
+      "correct_answer": "D. Scatter diagram",
+      "wrong_answers": [
+        "A. Line graph",
+        "B. Bar chart",
+        "C. Histogram"
+      ]
+    },
+    {
+      "question": "A study was performed on several countries to measure the association between the per capita sugar consumption and the development of cardiac diseases, which of the following is a major limitation in this study?",
+      "correct_answer": "A. Ecological fallacy",
+      "wrong_answers": [
+        "B. Selection bias",
+        "C. Recall bias",
+        "D. Response bias"
+      ]
+    },
+    {
+      "question": "A researcher was conducting a study on a particular day in a retirement home to determine the association of taking OTC pain killers and chronic gastritis. He found out that 200 of the 1000 elderly men were using OTC pain killers and the remaining 800 were not using pain killers. Out of the 200 using pain killers 40 were diagnosed with chronic gastritis and out of the 800 not using painkillers also 40 were diagnosed with chronic gastritis. Which of the following is the correct interpretation?",
+      "correct_answer": "B. The prevalence of chronic gastritis is higher among the group using painkillers (20%) than the group not using pain killers (5%)",
+      "wrong_answers": [
+        "A. The incidence of chronic gastritis among the group using pain killers is 4%",
+        "C. The relative risk of developing chronic gastritis is 2.0 for those taking OTC pain killers",
+        "D. OTC pain killers definately causes chronic gastritis"
+      ]
+    },
+    {
+      "question": "A new antiviral drug is given to 20 healthy volunteers to asses safety, dose tolerance and side effects. Which phase of clinical trials does this study represent?",
+      "correct_answer": "A. Phase I",
+      "wrong_answers": [
+        "B. Phase II",
+        "C. Phase III",
+        "D. Phase IV"
+      ]
+    },
+    {
+      "question": "What is the main aim of randomization in a randomized controlled clinical trial?",
+      "correct_answer": "C. Prevent selection bias where every individual has equal chance of being a part of either arm of the trial",
+      "wrong_answers": [
+        "A. Prevent information bias",
+        "B. To ensure that the sample size is large enough to achieve statistical significance",
+        "D. To eliminate the need for a control group or placebo"
+      ]
+    },
+    {
+      "question": "Which statement best explains the purpose of a pilot study?",
+      "correct_answer": "B. To test feasibility and data collection tools",
+      "wrong_answers": [
+        "A. To increase sample size",
+        "C. To publish preliminary results",
+        "D. To get a conclusion for the research"
+      ]
+    },
+    {
+      "question": "When must informed consent be obtained in a research study?",
+      "correct_answer": "B. Before conducting any study related activities",
+      "wrong_answers": [
+        "A. After data collection begins",
+        "C. Only if the participants request it",
+        "D. After publictaion of results"
+      ]
+    },
+    {
+      "question": "A researcher asks every participant: What are your personal reasons for rejecting the vaccine? What is the type of this question?",
+      "correct_answer": "A. Open ended question",
+      "wrong_answers": [
+        "B. Close ended question",
+        "C. Visual analogue scale",
+        "D. Rating scale"
+      ]
+    },
+    {
+      "question": "Which of the scales of measurement orders the data but the intervals between the categories is not equal?",
+      "correct_answer": "B. Ordinal scale",
+      "wrong_answers": [
+        "A. Nominal scale",
+        "C. Interval scale",
+        "D. Ratio scale"
+      ]
+    },
+    {
+      "question": "In a normal distribution curve, 68% of the values will lie within how many standard deviations of the mean?",
+      "correct_answer": "A. ±1 standard deviation",
+      "wrong_answers": [
+        "B. ±2 standard deviations",
+        "C. ±3 standard deviations",
+        "D. ±4 standard deviations"
+      ]
+    },
+    {
+      "question": "In a regression equation of y=32+6.7(x), what does 32 correspond to?",
+      "correct_answer": "A. Intercept",
+      "wrong_answers": [
+        "B. Coefficient",
+        "C. Slope",
+        "D. Independent variable"
+      ]
+    },
+    {
+      "question": "If we want to study a rare outcome using cohort study which of the following would be the limitation?",
+      "correct_answer": "C. Even in large sample size, we will have to follow up for many years and still might not find the rare disease",
+      "wrong_answers": [
+        "A. It would lead to an increased risk of recall bias among participants",
+        "B. It would be impossible to establish the temporal relationship between exposure and outcome",
+        "D. It would result in an overestimation of the prevalence of the disease"
+      ]
+    },
+    {
+      "question": "Which test of significance is used to compare the means in three independent groups?",
+      "correct_answer": "C. One-way ANOVA",
+      "wrong_answers": [
+        "A. Paired t-test",
+        "B. Independent samples t-test",
+        "D. Chi-square test"
+      ]
+    },
+    {
+      "question": "What does a correlation coefficient of +0.7 indicate?",
+      "correct_answer": "C. A strong positive correlation",
+      "wrong_answers": [
+        "A. weak positive correlation",
+        "B. A strong negative correlation",
+        "D. That 70% of the changes in one variable are caused by the other"
+      ]
+    }
+  ]
+}

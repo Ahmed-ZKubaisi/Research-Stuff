@@ -2,166 +2,166 @@
   "questions": [
     {
       "question": "A researcher selects infertile women and fertile controls matched with cases for age to compare obesity history between both groups. What is the study design?",
-      "correct_answer": "B. Case—control study",
+      "correct_answer": "Case—control study",
       "wrong_answers": [
-        "A. Cohort study",
-        "C. Cross-sectional study",
-        "D. Ecological study"
+        "Cohort study",
+        "Cross-sectional study",
+        "Ecological study"
       ]
     },
     {
       "question": "A hospital compares post-operative infection rates between diabetic and non-diabetic patients admitted last year using records. What is the design?",
-      "correct_answer": "B. Retrospective cohort",
+      "correct_answer": "Retrospective cohort",
       "wrong_answers": [
-        "A. Prospective cohort",
-        "C. Case-control",
-        "D. Cross-sectional"
+        "Prospective cohort",
+        "Case-control",
+        "Cross-sectional"
       ]
     },
     {
       "question": "You want to measure current prevalence of anaemia among pregnant women attending antenatal care clinics. Which study design best fulfill your objective?",
-      "correct_answer": "C. Cross-sectional study",
+      "correct_answer": "Cross-sectional study",
       "wrong_answers": [
-        "A. Cohort study",
-        "B. Case-control study",
-        "D. Intervention study"
+        "Cohort study",
+        "Case-control study",
+        "Intervention study"
       ]
     },
     {
       "question": "A surgeon reports outcomes on 10 patients who underwent a new procedure without a comparison group. What is this study design?",
-      "correct_answer": "A. Case series",
+      "correct_answer": "Case series",
       "wrong_answers": [
-        "B. Case-control",
-        "C. Prospective Cohort",
-        "D. Cross-sectional"
+        "Case-control",
+        "Prospective Cohort",
+        "Cross-sectional"
       ]
     },
     {
       "question": "A study selects individuals diagnosed with hepatitis A and enrolls age- and sex-matched individuals without hepatitis A from the same community. Then the two groups are asked about their food history. What is this study design?",
-      "correct_answer": "C. Case-control",
+      "correct_answer": "Case-control",
       "wrong_answers": [
-        "A. Cross-sectional",
-        "B. Cohort",
-        "D. Randomized study"
+        "Cross-sectional",
+        "Cohort",
+        "Randomized study"
       ]
     },
     {
       "question": "A researcher studies per-capita cigarettes sales and heart disease rates across different countries. What is this design?",
-      "correct_answer": "D. Ecological study",
+      "correct_answer": "Ecological study",
       "wrong_answers": [
-        "A. Case-control study",
-        "B. Cohort study",
-        "C. Cross-sectional study"
+        "Case-control study",
+        "Cohort study",
+        "Cross-sectional study"
       ]
     },
     {
       "question": "A researcher wants to study multiple outcomes (stroke, heart disease, kidney failure) related to hypertension. Which study design is most appropriate?",
-      "correct_answer": "B. Cohort study",
+      "correct_answer": "Cohort study",
       "wrong_answers": [
-        "A. Case-control study",
-        "C. Cross-sectional study",
-        "D. Case series"
+        "Case-control study",
+        "Cross-sectional study",
+        "Case series"
       ]
     },
     {
       "question": "What is the effectiveness of a hand-washing educational program in reducing hospital-acquired infections? Which research design is most suitable?",
-      "correct_answer": "D. Intervention study",
+      "correct_answer": "Intervention study",
       "wrong_answers": [
-        "A. Case-control study",
-        "B. Cross-sectional study",
-        "C. Ecological study"
+        "Case-control study",
+        "Cross-sectional study",
+        "Ecological study"
       ]
     },
     {
       "question": "A trial compares two antihypertensive drugs but participants and investigators both know treatment assignments. What is this study design?",
-      "correct_answer": "C. Open-label RCT",
+      "correct_answer": "Open-label RCT",
       "wrong_answers": [
-        "A. Double-blind RCT",
-        "B. Single-blind RCT",
-        "D. Quasi-experimental"
+        "Double-blind RCT",
+        "Single-blind RCT",
+        "Quasi-experimental"
       ]
     },
     {
       "question": "A research team follows 2000 HBs Ag positive patients and a similar group of HBs Ag negative at outpatient clinics over 15 years to determine the rate of occurrence of hepatocellular carcinoma. What type of study designs was this?",
-      "correct_answer": "C. Prospective cohort",
+      "correct_answer": "Prospective cohort",
       "wrong_answers": [
-        "A. Cross sectional",
-        "B. Correlation (Ecological)",
-        "D. Case control"
+        "Cross sectional",
+        "Correlation (Ecological)",
+        "Case control"
       ]
     },
     {
       "question": "In a double blind randomized controlled clinical trial comparing the effects of a new (experimental) drug and standard treatment, which of the following is TRUE?",
-      "correct_answer": "B. Neither the patient nor the investigator is aware about the group allocation and treatment received",
+      "correct_answer": "Neither the patient nor the investigator is aware about the group allocation and treatment received",
       "wrong_answers": [
-        "A. Patients are not aware about the group allocation and treatment received",
-        "C. The patient, investigator and the analyzer of the data are unaware about the group allocation and treatment received",
-        "D. Each patient receives both treatments"
+        "Patients are not aware about the group allocation and treatment received",
+        "The patient, investigator and the analyzer of the data are unaware about the group allocation and treatment received",
+        "Each patient receives both treatments"
       ]
     },
     {
       "question": "Which research aim is best achieved using a cohort study?",
-      "correct_answer": "C. To determine the incidence of stroke among hypertensive patients over 10 years",
+      "correct_answer": "To determine the incidence of stroke among hypertensive patients over 10 years",
       "wrong_answers": [
-        "A. To compare dietary habits between diabetic and non-diabetic patients",
-        "B. To estimate the prevalence of hypertension in adults in 2025",
-        "D. To describe clinical features of newly diagnosed tuberculosis cases"
+        "To compare dietary habits between diabetic and non-diabetic patients",
+        "To estimate the prevalence of hypertension in adults in 2025",
+        "To describe clinical features of newly diagnosed tuberculosis cases"
       ]
     },
     {
       "question": "An investigator screened 1000 women above 50 years of age using mammography to sort out those with cancer breast from those without. He also asked about current use of oral contraceptive pills intake. What type of study designs was this?",
-      "correct_answer": "C. Cross sectional.",
+      "correct_answer": "Cross sectional.",
       "wrong_answers": [
-        "A. Correlation.",
-        "B. Case control.",
-        "D. Retrospective cohort"
+        "Correlation.",
+        "Case control.",
+        "Retrospective cohort"
       ]
     },
     {
       "question": "A research hypothesis states: “cognitive behavior therapy is superior to nicotine replacement therapy in achieving smoking cessation among young adults”. Which research design is the most suitable for testing this research hypothesis?",
-      "correct_answer": "D. Intervention study",
+      "correct_answer": "Intervention study",
       "wrong_answers": [
-        "A. Correlation study",
-        "B. Cross section study",
-        "C. Case control study",
-        "E. Cohort study"
+        "Correlation study",
+        "Cross section study",
+        "Case control study",
+        "Cohort study"
       ]
     },
     {
       "question": "A researcher wants to evaluate whether a new drug improves survival in patients with metastatic breast cancer compared with the standard therapy. What type of clinical question does this represent?",
-      "correct_answer": "B. Therapy (Treatment)",
+      "correct_answer": "Therapy (Treatment)",
       "wrong_answers": [
-        "A. Prognosis / Prediction",
-        "C. Diagnosis",
-        "D. Etiology",
-        "E. Prevention"
+        "Prognosis / Prediction",
+        "Diagnosis",
+        "Etiology",
+        "Prevention"
       ]
     },
     {
       "question": "A sample of 200 school children aged 12-18 were tested for their blood group; 80 children were blood group A, 50 children were blood group B, 20 were blood group O and 50 children were blood group AB. What is the type of the variable \"Blood group\"",
-      "correct_answer": "A. Qualitative nominal",
+      "correct_answer": "Qualitative nominal",
       "wrong_answers": [
-        "B. Qualitative ordinal",
-        "C. Quantitative continuous",
-        "D. Quantitative discontinuous"
+        "Qualitative ordinal",
+        "Quantitative continuous",
+        "Quantitative discontinuous"
       ]
     },
     {
       "question": "An investigator wants to study the association between maternal intake of iron supplements (Yes/ No) and birth weights of newborn babies (low birth weight/normal birth weight/high birth weight). What is the type of the variable “birth weight”?",
-      "correct_answer": "B. Qualitative ordinal.",
+      "correct_answer": "Qualitative ordinal.",
       "wrong_answers": [
-        "A. Qualitative nominal.",
-        "C. Quantitative continuous.",
-        "D. Quantitative discontinuous."
+        "Qualitative nominal.",
+        "Quantitative continuous.",
+        "Quantitative discontinuous."
       ]
     },
     {
       "question": "Which of the following is a qualitative nominal variable?",
-      "correct_answer": "C. High-density lipoprotein level (Normal/high).",
+      "correct_answer": "High-density lipoprotein level (Normal/high).",
       "wrong_answers": [
-        "A. Number of chest x-ray films for patients with pulmonary tuberculosis.",
-        "B. Hepatocellular carcinoma rates in the Middle East (cases per 100, 000 people).",
-        "D. Vaccination rate of infants in three Governorates (Cairo, Alexandria, &Tanta)."
+        "Number of chest x-ray films for patients with pulmonary tuberculosis.",
+        "Hepatocellular carcinoma rates in the Middle East (cases per 100, 000 people).",
+        "Vaccination rate of infants in three Governorates (Cairo, Alexandria, &Tanta)."
       ]
     },
     {
@@ -211,29 +211,29 @@
     },
     {
       "question": "At the beginning of the academic year in a school (X), the school physician collected data, with the help of the school nurse, by interviewing and examining all school children. What is the method of data collection?",
-      "correct_answer": "D. Comprehensive survey.",
+      "correct_answer": "Comprehensive survey.",
       "wrong_answers": [
-        "A. Sample survey",
-        "B. Record survey",
-        "C. Experimental survey."
+        "Sample survey",
+        "Record survey",
+        "Experimental survey."
       ]
     },
     {
       "question": "What is the type of variable “pallor” (Yes, No)?",
-      "correct_answer": "A. Qualitative nominal.",
+      "correct_answer": "Qualitative nominal.",
       "wrong_answers": [
-        "B. Qualitative ordinal.",
-        "C. Quantitative continuous.",
-        "D. Quantitative discontinuous."
+        "Qualitative ordinal.",
+        "Quantitative continuous.",
+        "Quantitative discontinuous."
       ]
     },
     {
       "question": "How many quantitative variables are in the collected data (pallor, hemoglobin concentration, severity, age, gender, food consumption, number of children, mothers' age, mothers' education, work)?",
-      "correct_answer": "B. Four variables.",
+      "correct_answer": "Four variables.",
       "wrong_answers": [
-        "A. Two variables.",
-        "C. Five variables.",
-        "D. Eight variables."
+        "Two variables.",
+        "Five variables.",
+        "Eight variables."
       ]
     },
     {
@@ -283,66 +283,66 @@
     },
     {
       "question": "At Alexandria Faculty of Medicine, 300 medical students in the first year were selected. The first sample student was randomly selected from the first five registered students, then, every fifth student was selected. What is the sampling method?",
-      "correct_answer": "B. Systematic random sampling method.",
+      "correct_answer": "Systematic random sampling method.",
       "wrong_answers": [
-        "A. Simple random sampling method.",
-        "C. Stratified random sampling method.",
-        "D. Cluster sampling method"
+        "Simple random sampling method.",
+        "Stratified random sampling method.",
+        "Cluster sampling method"
       ]
     },
     {
       "question": "What is the type of variable “studying hours per day”?",
-      "correct_answer": "C. Quantitative continuous.",
+      "correct_answer": "Quantitative continuous.",
       "wrong_answers": [
-        "A. Qualitative nominal.",
-        "B. Qualitative ordinal.",
-        "D. Quantitative discontinuous."
+        "Qualitative nominal.",
+        "Qualitative ordinal.",
+        "Quantitative discontinuous."
       ]
     },
     {
       "question": "How many qualitative ordinal variables are in the data (gender, percent score, grade, subject, studying hours, satisfaction)?",
-      "correct_answer": "A. Two variables.",
+      "correct_answer": "Two variables.",
       "wrong_answers": [
-        "B. Four variables.",
-        "C. Six variables.",
-        "D. Eight variables."
+        "Four variables.",
+        "Six variables.",
+        "Eight variables."
       ]
     },
     {
       "question": "Diabetic patients were divided by sex. Then, random samples of the males and females were selected to study sociodemographic characteristics. Which variable is the “stratification variable”?",
-      "correct_answer": "B. Sex",
+      "correct_answer": "Sex",
       "wrong_answers": [
-        "A. Age",
-        "C. Education",
-        "D. Blood sugar level"
+        "Age",
+        "Education",
+        "Blood sugar level"
       ]
     },
     {
       "question": "From breast cancer patients, a systematic random sample of 300 patients was obtained by selecting every tenth patient. What is the total number of breast cancer patients in the sampling frame?",
-      "correct_answer": "B. 3,000",
+      "correct_answer": "3,000",
       "wrong_answers": [
-        "A. 1,500",
-        "C. 6,000",
-        "D. 30,000"
+        "1,500",
+        "6,000",
+        "30,000"
       ]
     },
     {
       "question": "In which of the following sampling techniques, every individual in the population has an equal chance of being selected?",
-      "correct_answer": "E. Simple random sampling technique",
+      "correct_answer": "Simple random sampling technique",
       "wrong_answers": [
-        "A. Purposive sampling method",
-        "B. Cluster sampling method",
-        "C. Convenience sampling method",
-        "D. Stratified random sampling method"
+        "Purposive sampling method",
+        "Cluster sampling method",
+        "Convenience sampling method",
+        "Stratified random sampling method"
       ]
     },
     {
       "question": "Which of the following defines “list of all study population units from which the sample is selected”?",
-      "correct_answer": "C. Sampling frame",
+      "correct_answer": "Sampling frame",
       "wrong_answers": [
-        "A. Sampling procedure",
-        "B. Sampling technique",
-        "D. Sampling ratio"
+        "Sampling procedure",
+        "Sampling technique",
+        "Sampling ratio"
       ]
     }
   ]

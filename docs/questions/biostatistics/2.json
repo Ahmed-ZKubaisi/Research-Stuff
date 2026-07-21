@@ -1,273 +1,300 @@
 {
   "questions": [
     {
-      "question": "A 60-year-old patient with congestive heart failure develops pericardial effusion. What is the MOST likely type?",
-      "correct_answer": "Transudate",
+      "question": "biomarker in a sample of 100 patients. The researcher wants to quickly visualize the overall shape of the distribution, its central tendency, and the spread of the middle 50% of the data. Which graphical method is most appropriate to convey this information in a compact format?",
+      "correct_answer": "Histogram",
       "wrong_answers": [
-        "Exudate",
-        "Hemorrhagic",
-        "Chylous"
+        "Line Graph",
+        "Frequency Polygon",
+        "Box-Whisker Plot"
       ]
     },
     {
-      "question": "A patient with tuberculosis presents with pericardial effusion. This is classified as:",
-      "correct_answer": "Exudate",
+      "question": "more frequency distribution tables?",
+      "correct_answer": "The groups should have the same total frequency or by relative frequencies",
       "wrong_answers": [
-        "Transudate",
-        "Physiological fluid",
-        "Chylous"
+        "The groups should have different total frequencies.",
+        "The data must always be qualitative.",
+        "Only simple frequency distribution tables can be compared."
       ]
     },
     {
-      "question": "A pericardial fluid sample appears turbid. Most likely cause?",
-      "correct_answer": "Infection or malignancy",
+      "question": "separates a dataset into two equal halves?",
+      "correct_answer": "Median",
       "wrong_answers": [
-        "Normal fluid",
-        "Transudate",
-        "Dehydration"
+        "Arithmetic Mean",
+        "Standard Deviation",
+        "Mode"
       ]
     },
     {
-      "question": "A hemorrhagic pericardial effusion is MOST commonly associated with:",
-      "correct_answer": "Malignancy",
+      "question": "pressure readings are recorded multiple times a day over a week. The cardiologist wants to identify if there is a relationship between his physical activity (measured as total steps per day) and his average daily systolic blood pressure. To graphically explore the relationship between these two variables, which presentation method is most appropriate? Research  \u0648\u063a\u064a\u0631 \u0645\u062e\u0635\u0635 \u0644\u0644\u0628\u064a\u0639.. \u0647\u0630\u0627 \u0627\u0644\u0639\u0645\u0644 \u062e\u0627\u0644\u0635 \u0644\u0648\u062c\u0647 \u0647\u0644\u0644\u0627 \u062a\u0639\u0627\u0644\u064a",
+      "correct_answer": "Scatter Diagram",
       "wrong_answers": [
-        "Diabetes",
-        "Hypertension",
-        "Hyperlipidemia"
+        "Line Graph",
+        "Histogram",
+        "Bar Chart"
       ]
     },
     {
-      "question": "A pericardial fluid sample shows glucose < 40 mg/dL. Possible cause?",
-      "correct_answer": "Bacterial infection",
+      "question": "TRUE?",
+      "correct_answer": "It has the same units as the measurements from which it is derived.",
       "wrong_answers": [
-        "Viral infection",
-        "Dehydration",
-        "Hypertension"
+        "It is expressed in squared units, making it difficult to interpret.",
+        "It measures variability around the median.",
+        "It is always a smaller value than the Variance for any given dataset."
       ]
     },
     {
-      "question": "Which of the following is TRUE regarding pericardial fluid protein?",
-      "correct_answer": "Limited diagnostic value",
+      "question": "tendency?",
+      "correct_answer": "It is unaffected by extreme values and can be used with nominal data.",
       "wrong_answers": [
-        "Highly diagnostic",
-        "Always elevated in exudate",
-        "Used as gold standard"
+        "It utilizes every data point in its calculation, reflecting the full distribution of values.",
+        "It always provides a unique central value for any dataset, making comparisons straightforward.",
+        "It is the most statistically efficient measure for normally distributed quantitative data."
       ]
     },
     {
-      "question": "Milky pericardial fluid suggests:",
-      "correct_answer": "Chylous effusion",
+      "question": "primary cause of death (e.g., cardiovascular, trauma, infectious, neoplastic) for all cases in the past year. There were 7000 total cases. The examiner needs a clear, concise tabular summary of these categorical data. Which type of table is most appropriate for summarizing this data, and what columns would it typically include?",
+      "correct_answer": "Simple frequency distribution table for qualitative data, with cause of Research \u0648\u063a\u064a\u0631 \u0645\u062e\u0635\u0635 \u0644\u0644\u0628\u064a\u0639.. \u0647\u0630\u0627 \u0627\u0644\u0639\u0645\u0644 \u062e\u0627\u0644\u0635 \u0644\u0648\u062c\u0647 \u0647\u0644\u0644\u0627 \u062a\u0639\u0627\u0644\u064a death and its frequency.",
       "wrong_answers": [
-        "Hemorrhagic effusion",
-        "Transudate",
-        "Infection"
+        "Comparing frequency distribution table, with relative frequencies for each cause.",
+        "Association table, showing the relationship between cause of death and age.",
+        "Simple frequency distribution table for quantitative continuous data, showing intervals for causes."
       ]
     },
     {
-      "question": "Which condition may cause hemorrhagic pericardial effusion?",
-      "correct_answer": "Myocardial infarction syndrome",
+      "question": "maximum and minimum values in a dataset?",
+      "correct_answer": "Range",
       "wrong_answers": [
-        "Hypothyroidism",
-        "Dehydration",
-        "Hyperglycemia"
+        "Variance",
+        "Standard Deviation",
+        "Interquartile Range"
       ]
     },
     {
-      "question": "Which parameter is ONLY supportive (not diagnostic) for exudate in pericardial fluid?",
-      "correct_answer": "All of the above",
+      "question": "dataset of continuous quantitative data where the smallest observation is 63. To minimize loss of precision without excessive summarization, which of the following choices for the first interval s lower limit and the number of intervals would be MOST appropriate according to established guidelines?",
+      "correct_answer": "Lower limit of 60, with 8 intervals",
       "wrong_answers": [
-        "LDH",
-        "Glucose",
-        "Specific gravity"
+        "Lower limit of 63, with 3 intervals",
+        "Lower limit of 65, with 15 intervals",
+        "Lower limit of 50, with 10 intervals"
       ]
     },
     {
-      "question": "Microscopic examination of pericardial fluid shows increased neutrophils. Most likely diagnosis?",
-      "correct_answer": "Bacterial infection",
+      "question": "medical students admitted to different specialties over the past decade. Which of the following graphical representations is most efficient for displaying this trends data ?",
+      "correct_answer": "Line Graph Research \u0648\u063a\u064a\u0631 \u0645\u062e\u0635\u0635 \u0644\u0644\u0628\u064a\u0639.. \u0647\u0630\u0627 \u0627\u0644\u0639\u0645\u0644 \u062e\u0627\u0644\u0635 \u0644\u0648\u062c\u0647 \u0647\u0644\u0644\u0627 \u062a\u0639\u0627\u0644\u064a",
       "wrong_answers": [
-        "Malignancy",
-        "Viral infection",
-        "Autoimmune disease"
+        "Pie Chart",
+        "Bar Chart",
+        "Histogram"
       ]
     },
     {
-      "question": "A patient presents with fever and neck stiffness. CSF shows ↓ glucose and neutrophilic predominance. Diagnosis?",
-      "correct_answer": "Bacterial meningitis",
+      "question": "Interquartile Range (IQR) a preferred measure of dispersion over the Range in situations with extreme values?",
+      "correct_answer": "IQR represents the spread of the middle 50% of the dataset, making it less affected by outliers than the Range.",
       "wrong_answers": [
-        "Viral meningitis",
-        "TB meningitis",
-        "Multiple sclerosis"
+        "IQR considers the total spread of all data points, while Range only considers the middle 50%.",
+        "IQR is calculated from the mean, making it more robust to skewness.",
+        "IQR is easier to calculate manually for large datasets than the Range."
       ]
     },
     {
-      "question": "CSF shows lymphocytic predominance and normal glucose. Most likely?",
-      "correct_answer": "Viral meningitis",
+      "question": "laboratory tests for blood glucose, where one test measures glucose in mmol/L and the other in mg/d Which measure of dispersion is most appropriate for this comparison?",
+      "correct_answer": "Coefficient of Variation",
       "wrong_answers": [
-        "Bacterial meningitis",
-        "Subarachnoid hemorrhage",
-        "Tumor"
+        "Interquartile Range",
+        "Range",
+        "Standard Deviation"
       ]
     },
     {
-      "question": "A CSF sample appears yellow after centrifugation. This indicates:",
-      "correct_answer": "Xanthochromia",
+      "question": "upcoming exam over a week. The data collected was: 4, 6, 8, 5, 7, 9, 7. They want to find the simple average study hours for the week. Which measure of central tendency should they calculate?",
+      "correct_answer": "Arithmetic Mean",
       "wrong_answers": [
-        "Infection",
-        "Lipemia",
-        "Hemolysis"
+        "Standard deviation",
+        "Median",
+        "Mode"
       ]
     },
     {
-      "question": "Best test to confirm CSF leak from nose?",
-      "correct_answer": "β2 transferrin",
+      "question": "The study records the blood groups of 1000 participants: A (100), B (200), AB (300), and O (400). The lead researcher intends to display the proportions using a Pie Chart. If they choose a Pie Chart, what would be the calculated angle for the segment representing Blood Group AB?",
+      "correct_answer": "108 degrees",
       "wrong_answers": [
-        "Protein level",
-        "Glucose",
-        "LDH"
+        "36 degrees",
+        "72 degrees",
+        "144 degrees"
       ]
     },
     {
-      "question": "Pleural fluid protein ratio ≥0.5 indicates:",
-      "correct_answer": "Exudate",
+      "question": "what serves as the primary  anchor point  on the X-axis for each frequency plotted on the Y-axis?",
+      "correct_answer": "The mid-point of the interval.",
       "wrong_answers": [
-        "Transudate",
-        "Normal",
-        "Artifact"
+        "The lower limit of the interval.",
+        "The upper limit of the interval.",
+        "The cumulative frequency of the  interval."
       ]
     },
     {
-      "question": "Which condition is MOST associated with transudative pleural effusion?",
-      "correct_answer": "Heart failure",
+      "question": "five times: 110, 120, 130, 140, and 150 mmHg. The researcher then replaces the 150 mmHg reading with 190 mmHg. If the 150 mmHg value is replaced with 190 mmHg, which measure of dispersion will show the most dramatic  step  increase in value?",
+      "correct_answer": "Range",
       "wrong_answers": [
-        "Pneumonia",
-        "Malignancy",
-        "TB"
+        "Interquartile Range",
+        "Median",
+        "Mode"
       ]
     },
     {
-      "question": "Pleural fluid LDH is very high (>1000 IU/L). Most likely?",
-      "correct_answer": "Empyema",
+      "question": "Chocolate, Strawberry) among 100 people. Which measure of central tendency is the only one that can be used for this data?",
+      "correct_answer": "Mode",
       "wrong_answers": [
-        "Transudate",
-        "Normal",
-        "Dehydration"
+        "Mean",
+        "Median Research \u0648\u063a\u064a\u0631 \u0645\u062e\u0635\u0635 \u0644\u0644\u0628\u064a\u0639.. \u0647\u0630\u0627 \u0627\u0644\u0639\u0645\u0644 \u062e\u0627\u0644\u0635 \u0644\u0648\u062c\u0647 \u0647\u0644\u0644\u0627 \u062a\u0639\u0627\u0644\u064a",
+        "Standard Deviation"
       ]
     },
     {
-      "question": "Milky pleural fluid with high triglycerides suggests:",
-      "correct_answer": "Chylous effusion",
+      "question": "Standard Deviation of 5 cm. Dataset B has a Standard Deviation of 15 cm. Both datasets have the same mean. What can be concluded about the variability  or  dispersion  of the two datasets?",
+      "correct_answer": "Dataset B has higher variability than Dataset",
       "wrong_answers": [
-        "Pseudochylous",
-        "Hemorrhagic",
-        "Infection"
+        "Dataset A has higher variability than Dataset",
+        "Both datasets have the same level of dispersion.",
+        "Variability cannot be determined without the Mean."
       ]
     },
     {
-      "question": "SAAG ≥1.1 g/dL indicates:",
-      "correct_answer": "Portal hypertension",
+      "question": "Calculate the Coefficient of Variation (CV) rounded to one decimal place.",
+      "correct_answer": "25.7%",
       "wrong_answers": [
-        "Exudate",
-        "Infection",
-        "Malignancy"
+        "4.1%",
+        "10.4%",
+        "38.9%"
       ]
     },
     {
-      "question": "Ascitic fluid with neutrophils >250 cells/µL suggests:",
-      "correct_answer": "SBP",
+      "question": "O=200. If you were to calculate the relative frequency of the AB blood group, what would be the result?",
+      "correct_answer": "54.3%",
       "wrong_answers": [
-        "Viral infection",
-        "Tuberculosis",
-        "Malignancy"
+        "38% Research \u0648\u063a\u064a\u0631 \u0645\u062e\u0635\u0635 \u0644\u0644\u0628\u064a\u0639.. \u0647\u0630\u0627 \u0627\u0644\u0639\u0645\u0644 \u062e\u0627\u0644\u0635 \u0644\u0648\u062c\u0647 \u0647\u0644\u0644\u0627 \u062a\u0639\u0627\u0644\u064a",
+        "70%",
+        "28.5%"
       ]
     },
     {
-      "question": "ANA test is BEST performed using:",
-      "correct_answer": "Immunofluorescence",
+      "question": "A study of 30 such patients find a Mean uric acid of 5.7 mg/dL and a Standard Deviation of 2.1 mg/d What is the Coefficient of Variation (CV) for this dataset, and does it meet the threshold for being  good ?",
+      "correct_answer": "CV = 36.8%; Not acceptable",
       "wrong_answers": [
-        "ELISA",
-        "PCR",
-        "Western blot"
+        "CV = 27.1%; Not acceptable",
+        "CV = 12.1%; Good",
+        "CV = 36.8%; Very good"
       ]
     },
     {
-      "question": "Which immunoglobulin is MOST abundant in serum?",
-      "correct_answer": "IgG",
+      "question": "extreme value, while the median remains stable, what is the downstream effect on the Coefficient of Variation (CV)?",
+      "correct_answer": "The CV increases because the Standard Deviation increases more than the Mean.",
       "wrong_answers": [
-        "IgA",
-        "IgM",
-        "IgE"
+        "The CV decreases because the mean is in the denominator.",
+        "The CV remains constant because it is unaffected by extreme values.",
+        "The CV becomes negative due to the deviation from the median."
       ]
     },
     {
-      "question": "Which test detects antibodies attached to RBCs?",
-      "correct_answer": "Direct Coombs",
+      "question": "",
+      "correct_answer": "The range and the variance.",
       "wrong_answers": [
-        "Indirect Coombs",
-        "ELISA",
-        "PCR"
+        "The median and the mode.",
+        "The parameter and the statistic.",
+        "The mean and the variance."
       ]
     },
     {
-      "question": "Widal test is based on:",
-      "correct_answer": "Agglutination",
+      "question": "sample?",
+      "correct_answer": "Mode",
       "wrong_answers": [
-        "Precipitation",
-        "Complement fixation",
-        "ELISA"
+        "Mean Research \u0648\u063a\u064a\u0631 \u0645\u062e\u0635\u0635 \u0644\u0644\u0628\u064a\u0639.. \u0647\u0630\u0627 \u0627\u0644\u0639\u0645\u0644 \u062e\u0627\u0644\u0635 \u0644\u0648\u062c\u0647 \u0647\u0644\u0644\u0627 \u062a\u0639\u0627\u0644\u064a",
+        "Variance",
+        "Range"
       ]
     },
     {
-      "question": "Nephelometry measures:",
-      "correct_answer": "Light scattering",
+      "question": "",
+      "correct_answer": "The standard deviation has the same units as the original data.",
       "wrong_answers": [
-        "Light absorption",
-        "Fluorescence",
-        "Radioactivity"
+        "The standard deviation is always greater than the variance.",
+        "The standard deviation is calculated with the median instead of the mean.",
+        "The standard deviation is better for describing the qualitative data."
       ]
     },
     {
-      "question": "ELISA detects antigen by:",
-      "correct_answer": "Enzyme color reaction",
+      "question": "",
+      "correct_answer": "Median",
       "wrong_answers": [
-        "Fluorescence",
-        "Radioactivity",
-        "Heat"
+        "Mean",
+        "Variance",
+        "Range"
       ]
     },
     {
-      "question": "Which condition shows oligoclonal bands in CSF?",
-      "correct_answer": "Multiple sclerosis",
+      "question": "by extreme values?",
+      "correct_answer": "Mean",
       "wrong_answers": [
-        "Bacterial meningitis",
-        "Viral meningitis",
-        "SAH"
+        "Range",
+        "Median",
+        "Mode"
       ]
     },
     {
-      "question": "Pleural fluid glucose ↓ is seen in:",
-      "correct_answer": "TB",
+      "question": "",
+      "correct_answer": "The serum concentrations of glutamyl transferase in a series of alcoholic patients.",
       "wrong_answers": [
-        "CHF",
-        "Dehydration",
-        "Normal"
+        "The distribution of a series of leukemia patients according to HLA type.",
+        "The weekly numbers of cholecystectomies carried out in a surgical unit over a 12-month period.",
+        "The numbers of cardiac arrests experienced by each of a group of patients while on a coronary care unit. Research \u0648\u063a\u064a\u0631 \u0645\u062e\u0635\u0635 \u0644\u0644\u0628\u064a\u0639.. \u0647\u0630\u0627 \u0627\u0644\u0639\u0645\u0644 \u062e\u0627\u0644\u0635 \u0644\u0648\u062c\u0647 \u0647\u0644\u0644\u0627 \u062a\u0639\u0627\u0644\u064a"
       ]
     },
     {
-      "question": "Which cells dominate in TB pleural effusion?",
-      "correct_answer": "Lymphocytes",
+      "question": "",
+      "correct_answer": "Bar graph",
       "wrong_answers": [
-        "Neutrophils",
-        "Eosinophils",
-        "RBCs"
+        "Histogram",
+        "Frequency polygon",
+        "Ogive graph"
       ]
     },
     {
-      "question": "Chylous vs pseudochylous effusion is differentiated by:",
-      "correct_answer": "Triglycerides & cholesterol",
+      "question": "",
+      "correct_answer": "The number of elements in a data set",
       "wrong_answers": [
-        "Protein",
-        "Glucose",
-        "LDH"
+        "will always equal 1",
+        "The number of classes",
+        "A value between 0 and 1"
+      ]
+    },
+    {
+      "question": "in a hospital are 30, 70, and 50 respectively. If these figures are represented by a pie- chart, then what is the angle corresponding to the medical graduates?",
+      "correct_answer": "120\u2070",
+      "wrong_answers": [
+        "36\u2070",
+        "72\u2070",
+        "168\u2070 Research \u0648\u063a\u064a\u0631 \u0645\u062e\u0635\u0635 \u0644\u0644\u0628\u064a\u0639.. \u0647\u0630\u0627 \u0627\u0644\u0639\u0645\u0644 \u062e\u0627\u0644\u0635 \u0644\u0648\u062c\u0647 \u0647\u0644\u0644\u0627 \u062a\u0639\u0627\u0644\u064a"
+      ]
+    },
+    {
+      "question": "temperatures over the course of a year. Which graph is most appropriate for summarizing this data?",
+      "correct_answer": "Line graph",
+      "wrong_answers": [
+        "Pie chart",
+        "Scatter plot",
+        "Bar chart"
+      ]
+    },
+    {
+      "question": "graph would allow you to compare the distribution of heights between the two schools effectively?",
+      "correct_answer": "Frequency Polygon",
+      "wrong_answers": [
+        "Histogram",
+        "Box Plot",
+        "Bar Chart"
       ]
     }
   ]

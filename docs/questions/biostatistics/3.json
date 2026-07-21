@@ -1,165 +1,705 @@
 {
   "questions": [
     {
-      "question": "Which of the following is used to detect amplification products in conventional PCR?",
-      "correct_answer": "Gel electrophoresis",
+      "question": "Which of the following is a characteristic of a negatively skewed \ndistribution?",
+      "correct_answer": "The tail is longer on the left side.",
       "wrong_answers": [
-        "Fluorescent probes",
-        "ELISA",
-        "Spectrophotometry"
+        "The Mean is greater than the Median.",
+        "The distribution is perfectly bell-shaped.",
+        "The Mode is smaller than the Mean"
       ]
     },
     {
-      "question": "What is the main purpose of a proficiency test in laboratories?",
-      "correct_answer": "Comparing results with other laboratories",
+      "question": "In the standard normal distribution formula Z = (x - µ) / σ, what does  x  \nrepresent?",
+      "correct_answer": "An individual observation",
       "wrong_answers": [
-        "Measuring instrument accuracy",
-        "Internal quality control",
-        "Calibration of equipment"
+        "The population mean",
+        "The standard deviation",
+        "The sample size"
       ]
     },
     {
-      "question": "A urinary microalbumin level of 400 mg/day is classified as:",
-      "correct_answer": "Macroalbuminuria",
+      "question": "A 40-year-old woman is prescribed a new weight loss drug. The \nmanufacturer reports the 99% CI for mean weight loss is (2.0 kg to 8.0 \nkg).  \nHow would the 95% CI for the same data compare to this 99% CI?",
+      "correct_answer": "It would be narrower.",
       "wrong_answers": [
-        "Normal",
-        "Microalbuminuria",
-        "Nephrotic range proteinuria"
+        "It would be wider.",
+        "It would be exactly the same.",
+        "It would be shifted to the left."
       ]
     },
     {
-      "question": "Which of the following is a specific marker for obstructive jaundice?",
-      "correct_answer": "GGT",
+      "question": "A study compares the mean weight loss between Group A and Group  \nThe difference in means is 3 kg. The calculated 95% CI for this \ndifference is (1.5 kg to 4.5 kg).  \nCalculate the margin of error (W) used to determine this confidence \ninterval.",
+      "correct_answer": "1.5 kg",
       "wrong_answers": [
-        "ALT",
-        "AST",
-        "ALP"
+        "3.0 kg",
+        "0.75 kg",
+        "1.96 kg"
       ]
     },
     {
-      "question": "Which condition is diagnosed by testing for Lupus anticoagulant, anticardiolipin antibodies, and anti-β2 glycoprotein I antibodies?",
-      "correct_answer": "Antiphospholipid syndrome",
+      "question": "A researcher measures the effect of a supplement on heart rate in 100 \nparticipants. The standard deviation of the heart rate is 10 bpm. f the \nresearcher wants to reduce the Standard Error of the Mean (SEM) to \nexactly 0.5 bpm, what sample size (n) is required?",
+      "correct_answer": "400",
       "wrong_answers": [
-        "Hemophilia",
-        "Disseminated intravascular coagulation",
-        "Protein C deficiency"
+        "200",
+        "100",
+        "800"
       ]
     },
     {
-      "question": "A patient with CBC abnormalities and M-protein >10% is most likely diagnosed with:",
-      "correct_answer": "Multiple myeloma",
+      "question": "A researcher wants to decrease the width of a Confidence Interval \nwithout changing the confidence level. What should they do?",
+      "correct_answer": "Increase the sample size.",
       "wrong_answers": [
-        "Leukemia",
-        "Lymphoma",
-        "Aplastic anemia"
+        "Decrease the sample size.",
+        "Increase the standard deviation.",
+        "Increase the Z-score."
       ]
     },
     {
-      "question": "Which type of urinary cast is commonly seen in chronic kidney disease (CKD)?",
-      "correct_answer": "Waxy cast",
+      "question": "According to the Empirical Rule, what percentage of values in a normal \ndistribution fall within two standard deviations of the mean?",
+      "correct_answer": "95%",
       "wrong_answers": [
-        "RBC cast",
-        "WBC cast",
-        "Hyaline cast"
+        "68%",
+        "99.7%",
+        "50%"
       ]
     },
     {
-      "question": "A child presents with anemia, target cells, and delayed development. What is the most likely diagnosis?",
-      "correct_answer": "Thalassemia",
+      "question": "A 55-year-old male is tested for his cholesterol level. The lab uses a \nstandard normal distribution (Z-scores) for reporting. The patient s Z\nscore is +3.1.  \nHow would this patient s cholesterol level be categorized relative to the \nempirical rule?",
+      "correct_answer": "In the extreme upper 0.3% of the population.",
       "wrong_answers": [
-        "Iron deficiency anemia",
-        "Sickle cell anemia",
-        "Megaloblastic anemia"
+        "Within the common 95% of the population.",
+        "Within the common 68% of the population.",
+        "Exactly at the average level."
       ]
     },
     {
-      "question": "Elevated PT, PTT, and D-dimer are characteristic of:",
-      "correct_answer": "Disseminated intravascular coagulation (DIC)",
+      "question": "A clinical test has a mean value of 50 and SD of 5. A patient’s result is \n62.9.  \nDetermine the patient s Z-score .",
+      "correct_answer": "Z = 2.58",
       "wrong_answers": [
-        "Hemophilia",
-        "Liver disease",
-        "Vitamin K deficiency"
+        "Z = 0.58",
+        "Z = 1.96",
+        "Z = 3.00"
       ]
     },
     {
-      "question": "If a patient exercises before sample collection, which of the following is expected?",
-      "correct_answer": "Increased lactate and pyruvate",
+      "question": "A pilot study with 25 people found a mean cholesterol of 200 mg/dL \nand SD of 20. A larger study with 100 people found the same mean and \nS By what factor does the width of the 95% Confidence Interval \ndecrease in the larger study compared to the pilot study?",
+      "correct_answer": "It decreases by half.",
       "wrong_answers": [
-        "Decreased glucose",
-        "Decreased potassium",
-        "Increased calcium"
+        "It stays the same.",
+        "It decreases by a factor of 4.",
+        "It decreases by a factor of 10."
       ]
     },
     {
-      "question": "Which stain is commonly used for white blood cells in peripheral blood smears?",
-      "correct_answer": "Leishman stain",
+      "question": "A study evaluated the IQ of 150 randomly selected medical students. \nThe sample mean was 120 with a standard deviation of 11.3. Calculate \nthe 95% Confidence Interval (CI) for the mean IQ of the population of \nmedical students.",
+      "correct_answer": "118.2 – 121.8",
       "wrong_answers": [
-        "Gram stain",
-        "Ziehl-Neelsen stain",
-        "PAS stain"
+        "119.1 – 120.9",
+        "117.5 – 122.5",
+        "110.5 – 129.5"
       ]
     },
     {
-      "question": "A urine sample with pH 7.8 and crystals having a coffin-lid appearance suggests:",
-      "correct_answer": "Triple phosphate crystals",
+      "question": "Which parameter specifically defines the  spread  or distance from the \ncenter in a Gaussian probability distribution?",
+      "correct_answer": "Standard Deviation",
       "wrong_answers": [
-        "Uric acid crystals",
-        "Calcium oxalate crystals",
-        "Cystine crystals"
+        "Variance",
+        "Coefficient of Variation",
+        "Range"
       ]
     },
     {
-      "question": "Marked lymphocytic elevation in CSF is most suggestive of:",
-      "correct_answer": "Viral infection",
+      "question": "A 50-year-old male is evaluated for palpitations. In a research study \ncomparing his demographic to a control, the 95% CI for the difference \nin mean heart rate is (-1 to +8) beats per minute. What is the correct \nstatistical interpretation of this finding regarding the null hypothesis \n(that there is no difference)?",
+      "correct_answer": "Fail to reject the null hypothesis; the result is not significant.",
       "wrong_answers": [
-        "Bacterial infection",
-        "Fungal infection",
-        "Tuberculosis"
+        "Reject the null hypothesis; the result is significant.",
+        "Accept the alternative hypothesis; the first group is faster.",
+        "The test is invalid because the CI includes negative numbers."
       ]
     },
     {
-      "question": "The normal color of peritoneal fluid is:",
-      "correct_answer": "Clear pale yellow",
+      "question": "A 60-year-old female is participating in a study on systolic blood \npressure (SBP). Her SBP is measured at 145 mmHg. The study assumes \nSBP is normally distributed with a mean of 120 mmHg and a standard \ndeviation of 10 mmHg. Within which percentage range of the empirical \nrule does her SBP fall?",
+      "correct_answer": "Within 99.7% of the mean but outside 95%.",
       "wrong_answers": [
-        "Milky white",
-        "Dark brown",
-        "Green"
+        "Within 68% of the mean.",
+        "Outside of 95% of the mean.",
+        "Within 95% of the mean."
       ]
     },
     {
-      "question": "Yellow discoloration of CSF after centrifugation is called:",
-      "correct_answer": "Xanthochromia",
+      "question": "What is the primary purpose of calculating a Confidence Interval (CI) \nin clinical research?",
+      "correct_answer": "To provide a range likely to contain the true population parameter.",
       "wrong_answers": [
-        "Hematuria",
-        "Lipemia",
-        "Icterus"
+        "To determine the exact value of the population mean.",
+        "To eliminate the need for a sample standard deviation.",
+        "To ensure the sample size is greater than 30."
       ]
     },
     {
-      "question": "Which of the following is typically elevated in a hemolyzed blood sample?",
-      "correct_answer": "Potassium",
+      "question": "A 62-year-old female with type 2 diabetes has her blood glucose \nmonitored as part of a 100-patient study. The sample mean is 150 mg/dL \nwith a standard deviation of 20 mg/d  \nWhat is the calculated SEM for this study?  \nResearch  \n \n  وغير مخصص للبيع.. هذا العمل خالص لوجه هللا تعالي",
+      "correct_answer": "2.0",
       "wrong_answers": [
-        "Sodium",
-        "Calcium",
-        "Chloride"
+        "0.2",
+        "1.5",
+        "20.0"
       ]
     },
     {
-      "question": "Which condition is commonly investigated using a 24-hour urine sample?",
-      "correct_answer": "Pheochromocytoma",
+      "question": "A 75-year-old male with pneumonia has a hospital stay of 15 days. In \nhis hospital, the distribution for length of stay has a very long tail to the \nright due to complex cases. Which of the following must be true for this \ndistribution?",
+      "correct_answer": "Mean > Median",
       "wrong_answers": [
-        "Diabetes mellitus",
-        "Hypertension",
-        "Hypothyroidism"
+        "Mean = Median",
+        "Mean < Median",
+        "It is a Standard Normal Distribution."
       ]
     },
     {
-      "question": "In slide agglutination blood grouping, a patient showing no agglutination with anti-A and anti-B but agglutination with anti-D is:",
-      "correct_answer": "O+",
+      "question": "A 28-year-old pregnant woman has her hemoglobin tested. In a study \nof 100 similar patients, the mean was 11.0 g/dL and the SD was 1.2 g/d \nWhat is the 95% Confidence Interval for the population mean \nhemoglobin?",
+      "correct_answer": "11.0 ± 0.24",
       "wrong_answers": [
-        "A+",
-        "B+",
-        "AB+"
+        "11.0 ± 0.12",
+        "11.0 ± 1.96",
+        "11.0 ± 1.2"
+      ]
+    },
+    {
+      "question": "A 48-year-old female in the ICU is being monitored for serum \npotassium levels. The clinical mean for this unit is 4.0 mEq/L with an SD \nof 0.5. Her current level is 3.0 mEq/ Based on the empirical rule, what is \nthe approximate Z-score for this patient?",
+      "correct_answer": "-2",
+      "wrong_answers": [
+        "-1",
+        "+2",
+        "0"
+      ]
+    },
+    {
+      "question": "A medical student is analyzing ages in a geriatric clinic where the mean \nage is 80 and the SD is 5. He converts all patient ages into Z-scores for \ncomparison. What will be the new mean and standard deviation of the \ntransformed Z-score dataset?",
+      "correct_answer": "Mean 0, SD 1",
+      "wrong_answers": [
+        "Mean 45, SD 1",
+        "Mean 0, SD 5",
+        "Mean 1, SD 0"
+      ]
+    },
+    {
+      "question": "A 60-year-old male with a 40-pack-year smoking history is reviewed. A \ncohort study shows the Relative Risk (RR) of lung cancer in smokers is \n15.0 with a 95% Confidence Interval of (12.0 to 18.0). What does this CI \nindicate about the risk of lung cancer in smokers?",
+      "correct_answer": "The risk is statistically significant because the CI does not include 1.",
+      "wrong_answers": [
+        "The risk is not statistically significant.",
+        "The risk is statistically significant because the CI does not include 0.",
+        "The CI is too narrow to be valid."
+      ]
+    },
+    {
+      "question": "A 45-year-old woman is evaluated for osteoporosis. Her bone mineral \ndensity (BMD) T-score is a Z-score of -2.5 compared to a healthy young \npopulation. Based on the properties of a standard normal distribution, \nwhere does her BMD rank?",
+      "correct_answer": "Between 2 and 3 SDs below the mean.",
+      "wrong_answers": [
+        "Between 1 and 2 SDs below the mean.",
+        "Exactly at the 5th percentile.",
+        "Above the population mean."
+      ]
+    },
+    {
+      "question": "A 55-year-old male with hypertension is enrolled in a clinical trial for a \nnew antihypertensive. The trial reports a 95% Confidence Interval for \nthe mean reduction in SBP of (10.2 mmHg to 15.8 mmHg). Which of the \nfollowing interpretations is most accurate?",
+      "correct_answer": "We are 95% confident that the true population mean reduction lies",
+      "wrong_answers": [
+        "95% of the patients had a reduction between 10.2 and 15.8 mmHg.",
+        "There is a 5% chance that the reduction is exactly 13 mmHg.",
+        "The reduction is not statistically significant because the interval is wide."
+      ]
+    },
+    {
+      "question": "A dataset of patient weights is symmetrical, bell-shaped, and unimodal. \nWhich of the following is the most definitive property that identifies this \nas a Standard Normal Distribution rather than just a Normal \nDistribution?",
+      "correct_answer": "The mean is 0 and the standard deviation is 1.",
+      "wrong_answers": [
+        "Mean, Median, and Mode are equal.",
+        "Total area under the curve is 1.",
+        "It follows the 68-95-99.7 rule."
+      ]
+    },
+    {
+      "question": "If a study comparing two drug treatments results in a 95% Confidence \nInterval for the difference between means of (-2.5 to 1.5), what is the \nstatistical conclusion?",
+      "correct_answer": "The difference is not statistically significant.",
+      "wrong_answers": [
+        "The difference is statistically significant.",
+        "The sample size was too small to draw a conclusion.",
+        "The first drug is superior to the second."
+      ]
+    },
+    {
+      "question": "A study comparing a new drug to a placebo finds a Relative Risk of 0.7 \nwith a 95% CI of (0.4 to 1.1). How should a clinician critically appraise \nthe effectiveness of this drug?",
+      "correct_answer": "The drug s effect is not statistically significant.",
+      "wrong_answers": [
+        "The drug significantly reduces risk by 30%.",
+        "The drug is ineffective because the RR is less than 1",
+        "The sample size was definitely 100 people."
+      ]
+    },
+    {
+      "question": "In a study of medical student heights, n = 36, Mean = 170 cm, SD = 6 \ncm. Using Z = 1.96.  \nWhat is the lower bound of the 95% Confidence Interval?",
+      "correct_answer": "168.04 cm",
+      "wrong_answers": [
+        "164.00 cm",
+        "166.08 cm",
+        "169.00 cm"
+      ]
+    },
+    {
+      "question": "A public health researcher measures the heights of 1,000 adult males. \nHe finds that the mean height is 175 cm and the median height is 160 \ncm. How should the researcher describe the distribution of heights in \nthis sample?",
+      "correct_answer": "Positively skewed.",
+      "wrong_answers": [
+        "Normally distributed.",
+        "Standard distribution.",
+        "Negatively skewed."
+      ]
+    },
+    {
+      "question": "A researcher is designing a study to estimate the prevalence of diabetes \nin a city. They want the most precise estimate possible with narrowest \ninterval Which combination of design choices would achieve this goal?",
+      "correct_answer": "Large sample size and 90% confidence level.",
+      "wrong_answers": [
+        "Large sample size and 99% confidence level.",
+        "Small sample size and 90% confidence level.",
+        "Small sample size and 95% confidence level."
+      ]
+    },
+    {
+      "question": "A paediatrician studies the birth weights of 40 newborns. Even though \nthe population of birth weights is known to be skewed, the paediatrician \ncalculates the mean of this sample. According to the Central Limit \nTheorem, what can be said about the distribution of means if the study \nwere repeated many times with the same sample size?",
+      "correct_answer": "The distribution of means will be approximately normal.",
+      "wrong_answers": [
+        "The means will be skewed similarly to the population.",
+        "The mean of means will be different from the population mean.",
+        "The standard error will be equal to the population standard deviation."
+      ]
+    },
+    {
+      "question": "In a screening for childhood obesity, weight is found to be normally \ndistributed. A 10-year-old girl s weight results in a Z-score of 0. What \ncan be concluded about her weight relative to her peers?  \nResearch  \n \n  وغير مخصص للبيع.. هذا العمل خالص لوجه هللا تعالي",
+      "correct_answer": "Her weight is exactly at the population mean.",
+      "wrong_answers": [
+        "She is in the 95th percentile.",
+        "She is underweight for her age.",
+        "Her weight is one standard deviation above the mean."
+      ]
+    },
+    {
+      "question": "An epidemiological survey found the average SBP in a village to be 130 \nmmHg with an SD of 12 mmHg. The sample size was 144. Calculate the \n99% Confidence Interval for the population mean using Z = 2.58.",
+      "correct_answer": "127.42 – 132.58",
+      "wrong_answers": [
+        "128.02 – 131.98",
+        "125.00 – 135.00",
+        "129.15 – 130.85"
+      ]
+    },
+    {
+      "question": "What is the total area under a normal distribution curve?",
+      "correct_answer": "1.0",
+      "wrong_answers": [
+        "0.5",
+        "1.96",
+        "95"
+      ]
+    },
+    {
+      "question": "In a study of 400 patients, the prevalence of a condition is being \nestimated. The sample mean is 0.20. The Z-score for a 95% confidence \nlevel is 1.96. Given the Standard Error for the proportion is calculated \nas 0.02, what is the 95% Confidence Interval for the population \nproportion?",
+      "correct_answer": "0.16 to 0.24",
+      "wrong_answers": [
+        "0.18 to 0.22",
+        "0.15 to 0.25",
+        "0.10 to 0.30"
+      ]
+    },
+    {
+      "question": "What does a Z-score of -2.0 signify in a clinical laboratory report?",
+      "correct_answer": "The value is 2 standard deviations below the mean.",
+      "wrong_answers": [
+        "The value is 2 units below the mean.",
+        "The value is 2% lower than the average population.",
+        "The value is at the 2nd percentile of the distribution"
+      ]
+    },
+    {
+      "question": "The fasting blood levels of glucose for a group of diabetics is found to \nbe normally distributed with a mean of 105 mg per 100 ml of blood and \na standard deviation of 10 mg per 100 ml of blood. From this data is can \nbe inferred that approximately 95% of diabetics will have their fasting \nblood glucose levels within the limits of:",
+      "correct_answer": "85 and 125 mgs",
+      "wrong_answers": [
+        "75 and 135 mgs",
+        "95 and 115 mgs",
+        "65 and 145 mgs"
+      ]
+    },
+    {
+      "question": "Mean hemoglobin of a group of pregnant females is found to be 10.6 \ngm/dL with Standard deviation of 2 gm/d------------% pregnant females \nin this group will have their hemoglobin level below 6.6 gm/d",
+      "correct_answer": "2.5%",
+      "wrong_answers": [
+        "5%",
+        "16%",
+        "50%"
+      ]
+    },
+    {
+      "question": "200 randomly selected pregnant females have mean weight of 100Kg \nwith a SD of 10Kg. The population is normally distributed with respect \nto weight. What is the range of weight of about 68% of pregnant \nfemales in the selected sample?",
+      "correct_answer": "From 90 to 110 Kg.",
+      "wrong_answers": [
+        "From 80 to 120 Kg.",
+        "From 70 to 130 Kg.",
+        "From 60 to 140 Kg."
+      ]
+    },
+    {
+      "question": "IQ test was done to 300 randomly selected patients attending \npsychiatry clinics at the University Hospital. Suppose scores on an IQ \ntest were normally distributed. If you know that 99% of the patients \nhad mean score ranging from 70 to 130. 6. What is the mean test score?",
+      "correct_answer": "100",
+      "wrong_answers": [
+        "90",
+        "95",
+        "105"
+      ]
+    },
+    {
+      "question": "If you got a 79 on a test in a class with a mean score of 85 and a \nstandard deviation of 4.8, the z-score of your test score would be",
+      "correct_answer": "-1.25",
+      "wrong_answers": [
+        "1.25",
+        "-2.50",
+        "2.50"
+      ]
+    },
+    {
+      "question": "The annual amount of rain water in the city of Alexandria is normally \ndistributed with a mean of 10 L/m2 and a standard deviation of 2 L/m2. \nThe probability that the annual amount will be  more than 12 L/m2 is –",
+      "correct_answer": "16%",
+      "wrong_answers": [
+        "68%",
+        "50%",
+        "95%"
+      ]
+    },
+    {
+      "question": "Which of the following statements about the sampling distribution of \nthe sample mean is incorrect?",
+      "correct_answer": "The sampling distribution is generated by repeatedly taking samples of",
+      "wrong_answers": [
+        "The standard deviation of the sampling distribution is ϭ",
+        "The sampling distribution is approximately normal whenever the",
+        "The mean of the sampling distribution is µ"
+      ]
+    },
+    {
+      "question": "Find the 95% confidence interval estimate of μ if the sample mean x ̅ = \n72, the sample size is n = 64, and σ = 12.",
+      "correct_answer": "69.06 to 74.9",
+      "wrong_answers": [
+        "52 to 76",
+        "72.08 to 77.6",
+        "75.05 to 80.19"
+      ]
+    },
+    {
+      "question": "Find the 95% confidence interval estimate of m if the sample mean x ̅= \n131, the sample size is n = 81, and σ = 18.",
+      "correct_answer": "-134.9199 to -127.0801",
+      "wrong_answers": [
+        "-133.3364 to -128.6636",
+        "-132.4803 to -129.5197",
+        "-138.0559 to -123.9441"
+      ]
+    },
+    {
+      "question": "A chest physician observed that the distribution of forced expiratory \nvolume (FEV) in 300 smokers had a median value of 2.5 liters with the \nfirst and third quartiles being 1.5 and 4.5 liters respectively. Based on \nthis data how many persons in the sample are expected to have a FEV \nbetween 1.5 and 4.5 liters?",
+      "correct_answer": "150",
+      "wrong_answers": [
+        "7.5",
+        "225",
+        "300"
+      ]
+    },
+    {
+      "question": "40. If the systolic blood pressure in a population has a mean of 130 \nmmHg and a median of 140 mm Hg, the distribution is said to be:",
+      "correct_answer": "Negatively skewed",
+      "wrong_answers": [
+        "Symmetrical",
+        "Positively skewed",
+        "Either positively or negatively skewed depending on the Standard"
+      ]
+    },
+    {
+      "question": "Find the 99% confidence interval estimate of m if the sample mean x ̅= \n0, the sample size is n = 121, and σ = 11.",
+      "correct_answer": "-2.575829 to 2.575829",
+      "wrong_answers": [
+        "-4.722354 to 4.722354",
+        "-1.888941 to 1.888941",
+        "-1.133365 to 1.133365"
+      ]
+    },
+    {
+      "question": "In a group of 100 children, the mean weight of children is 15 kg. The \nstandard deviation is 1.5 kg. Which one of the following is true?",
+      "correct_answer": "95% of all children weight between 12 and 18 kg",
+      "wrong_answers": [
+        "95% of all children weight between 13.5- and 16.5 kg",
+        "99% of all children weight between 12 and 18 kg",
+        "99% of all children weight between 13.5 and 16.5 kg"
+      ]
+    },
+    {
+      "question": "The IQs of the employees of a company are normally distributed, with \na mean of 120 and a standard deviation of 10. What is the probability \nthat the IQ of an employee selected at random will be between 120 and \n130?",
+      "correct_answer": "0.3453",
+      "wrong_answers": [
+        "0.2389",
+        "0.1064",
+        "0.4638"
+      ]
+    },
+    {
+      "question": "The exam scores of students in a college are normally distributed with \na mean of 520 and a standard deviation of 40. What proportion of \nstudents have a score higher than 600?",
+      "correct_answer": "0.0255",
+      "wrong_answers": [
+        "0.9744",
+        "0.2372",
+        "0.4774"
+      ]
+    },
+    {
+      "question": "In a normal curve, the highest point on the curve corresponds to:",
+      "correct_answer": "Mean",
+      "wrong_answers": [
+        "Variance",
+        "Standard deviation",
+        "Q1"
+      ]
+    },
+    {
+      "question": "If the distribution of intra-ocular pressure (IOP) seen in 100 glaucoma \npatients has an average 30 mm with a SD of 1.0, what is the lower limit \nof the average IOP that can be expected 95% of times?",
+      "correct_answer": "29.8",
+      "wrong_answers": [
+        "28",
+        "28.9",
+        "29"
+      ]
+    },
+    {
+      "question": "After conducting a survey, a researcher wishes to cut the standard \nerror (and thus the margin of error) to half of its original value. How \nwill the necessary sample size change?",
+      "correct_answer": "It will increase by a factor of 4",
+      "wrong_answers": [
+        "It will decrease by a factor of 2",
+        "It will increase by a factor of 2",
+        "It will decrease by a factor of 4"
+      ]
+    },
+    {
+      "question": "the laboratory reference range for a novel marker of cardiac injury is \n0.04-0.08 U/mL, at the standard 95% level of probability. The marker \nhas very high sensitivity and specificity for myocardial tissue. The \nclinical cardiology would like to use a 99.7% reference range to assess \npatients who come to the emergency depertment chest pain and have a \nhigh pretest probability of cardiac ischemia. An elevated value of the \nmarker is defined as exceeding the 99.7th percentile of the reference \nsample \nAssuming a normal (Geussian) distribution with a mean of 0.06 U/ml, \nwhich of the following most closely approximates the corresponding \nreference range?",
+      "correct_answer": "0.03 to 0.08",
+      "wrong_answers": [
+        "0.035 to 0.085",
+        "0,045 to 0.075",
+        "0.05 to 0.07"
+      ]
+    },
+    {
+      "question": "A large study of serum folate levels in a sample of woman age 16-45 \nreveals that this parameter is normally distributed with a of 5.0 ngint \nand a standard deviation of 0.5 ngint. According to the study results, \n95% of serum folate observationes in these patients will le \napproximately bebwenn which of the following limits?",
+      "correct_answer": "40 and 60 ng/mL",
+      "wrong_answers": [
+        "35 and 6.0 ng/ml.",
+        "35 and 6.5 ng/ml,",
+        "4.5 and 5.5 ng/mL"
+      ]
+    },
+    {
+      "question": "An intem in endocrinology department is to complete a chart review of \ncholesterol levels of all potients hospitalized with diabetes mellitus\nrelated cardiovascular complications in the past 6 months. The intem's \npreliminary data analysis reveals that there were 400 such patients, and \nthat serum cholesterol levels were normally distributed among the \npatients with a mean of 220 mg/dl, and a standard deviation of 10 mg/d \nBased on these results, how many patients in this study would be \nexpected to have serum cholesterol > 240 mg/dL?",
+      "correct_answer": "10",
+      "wrong_answers": [
+        "2",
+        "20",
+        "64"
+      ]
+    },
+    {
+      "question": "A researcher selects a random sample of 100 men age 18-24 and \ndetermines their mean serum total cholesterol is 180 mg/dL with a \nstandard deviation of 40 mg/dl. According to national statistics, \ncholesterol levels for the population of men 50% of the me 18-24 follow \na normal (gaussian) distribution. Based on this information, \napproximately the sample will have which of the following total \ncholesterol levels?",
+      "correct_answer": "< 180 mg/dL",
+      "wrong_answers": [
+        "100-260 mg/dL",
+        "140 mg/dl or 220 mg/dl",
+        "140-220 mg/dL"
+      ]
+    },
+    {
+      "question": "Pulmonary capillary wedges pressure (PCWP) masurements can be \nused to estimais left atrial pressure; nomal range is between 6-12 mm \nHg, and reconted values whole numbers. A patient in the intensiva caro \nunit has 20 serisi PCWP measurements taken over the course of 2 hours. \nAmong theee 20 observations, the maximal recorded value is 12 mm Hg \nand the minimal recorded value is 10 mm Hg. If the next measurement \nis 26 mm Hg, which of the following is most likely to remain \nunchanged?",
+      "correct_answer": "Mode",
+      "wrong_answers": [
+        "Mean",
+        "Range",
+        "Standant deviation"
+      ]
+    },
+    {
+      "question": "A medical student is conducting a chart review of patients admitted to \nthe local emergency department with acute pancreatitis. He is interested \nin comparing blood glucose levels between mild and severe cases. Before \nattempting to compare blood glucose levels between the 2 groups of \npatients, he decides to conduct a descriptive analysis of the variables in \neach group. Blood glucose levels in patients with severe acute \npancreatitis were found to have true strong positively skewed \nResearch  \n \n  وغير مخصص للبيع.. هذا العمل خالص لوجه هللا تعالي\n \ndistribution. Which of the following is most likely to be true regarding \ndata of severe acute pancreatitis group?",
+      "correct_answer": "mean is greater than the median",
+      "wrong_answers": [
+        "The mean is equal to the mode",
+        "The median is greater than the mean",
+        "The mode is greater than the mean"
+      ]
+    },
+    {
+      "question": "The Hb level in healthy women has mean 13.5 g/dl and standard \ndeviation 1.5 g/dl, what is the Z score for a woman with Hb level \n15.0g/dl:",
+      "correct_answer": "1.0",
+      "wrong_answers": [
+        "9.0",
+        "2.0",
+        "10.0"
+      ]
+    },
+    {
+      "question": "There is a population of 20000 people with mean hemoglobin 13.5 g \nwith normal distribution. What percentage of population will have their \nhemoglobin level more than 13.5 gm%?",
+      "correct_answer": "0.50",
+      "wrong_answers": [
+        "0.25",
+        "1.0",
+        "3.0"
+      ]
+    },
+    {
+      "question": "A normal distribution curve depends on:",
+      "correct_answer": "Mean and standard deviation",
+      "wrong_answers": [
+        "Mean and sample size",
+        "Range and sample size",
+        "Mean and median"
+      ]
+    },
+    {
+      "question": "Which of the following statements is correct about standard normal \ndistribution?",
+      "correct_answer": "Has mean =0",
+      "wrong_answers": [
+        "Has mean = 1",
+        "Is bilaterally asymmetrical",
+        "Has variance = 0"
+      ]
+    },
+    {
+      "question": "For a negatively skewed data mean will be:",
+      "correct_answer": "Less than median",
+      "wrong_answers": [
+        "More than median",
+        "Equal to median",
+        "One"
+      ]
+    },
+    {
+      "question": "If the systolic blood pressure in a population has a mean of 130 and a \nmedian of 140 , the distribution is said to be :",
+      "correct_answer": "Negatively skewed",
+      "wrong_answers": [
+        "Symmetrical",
+        "Positively skewed",
+        "Either positively or negatively skewed depending on the Standard"
+      ]
+    },
+    {
+      "question": "The PEFR of a group of 11 year old girls follow a normal distribution \nwith mean 300 L/min and standard deviation 20 L/min:l",
+      "correct_answer": "About 95% of the girls have PEFR between 260 and 340 L/min",
+      "wrong_answers": [
+        "The girls have healthy lungs",
+        "About 5% of girls have PEFR below 260 L/min",
+        "All the PEFR must be less than 340 L/min"
+      ]
+    },
+    {
+      "question": "Regarding the normal curve, which of the following statements is true?",
+      "correct_answer": "The curve is bilaterally symmetrical",
+      "wrong_answers": [
+        "Both limbs of the curve touch the baseline",
+        "There is a skew to the right",
+        "There is a skew to the left"
+      ]
+    },
+    {
+      "question": "Mean value of marks in a distribution of 100 students in a class is 105 \nand standard deviation is 10. How many students will have their marks \nin the range 95-115?",
+      "correct_answer": "68%",
+      "wrong_answers": [
+        "50%",
+        "95%",
+        "99.7%"
+      ]
+    },
+    {
+      "question": "Skewness of normal distribution is",
+      "correct_answer": "Zero",
+      "wrong_answers": [
+        "Negative",
+        "Positive",
+        "Undefined"
+      ]
+    },
+    {
+      "question": "The shape of normal curve depends on :",
+      "correct_answer": "Standard deviation",
+      "wrong_answers": [
+        "Mean deviation",
+        "Quartile deviation",
+        "Correlation"
+      ]
+    },
+    {
+      "question": "In a standard normal distribution, the mode is",
+      "correct_answer": "0",
+      "wrong_answers": [
+        "2",
+        "1",
+        "Not fixed"
+      ]
+    },
+    {
+      "question": "For a normal distribution with mean µ and standard deviation σ:",
+      "correct_answer": "Approximately 5% of values are outside the range (μ-2σ) to (μ +2σ)",
+      "wrong_answers": [
+        "Approximately 5% of values are greater than (µ+2σ) × 2.5/",
+        "Approximately 5% of values are outside the range (μ-σ) to (μ+σ) 1",
+        "Approximately 5% of values are less than (µ-3σ) 99.7%"
+      ]
+    },
+    {
+      "question": "Standard normal distribution has which of the following property",
+      "correct_answer": "Mean 0, variance=1",
+      "wrong_answers": [
+        "Mean=variance =1",
+        "Standard deviation=variance=0 X",
+        "Mean=standard deviation"
+      ]
+    },
+    {
+      "question": "Which of the following is false about a normal distribution",
+      "correct_answer": "Normal distribution is applied for discrete random variables",
+      "wrong_answers": [
+        "A standard normal curve is symmetric about the value 0",
+        "The area under the normal curve is l",
+        "The standard normal curve is bell shaped"
+      ]
+    },
+    {
+      "question": "Which of the following is correct property of a normal distribution",
+      "correct_answer": "It is a uni-modal distribution",
+      "wrong_answers": [
+        "Mean and median are not the same",
+        "Standard deviation is the only parameter of the distribution X",
+        "It is a discrete probability distribution X"
+      ]
+    },
+    {
+      "question": "The Central Limit Theorem states that the sampling distribution of the \nsample mean is approximately normal under certain conditions. Which \nof the following is a necessary condition for the Central Limit Theorem \nto be used?",
+      "correct_answer": "The sample size must be large (e.g., at least 30).",
+      "wrong_answers": [
+        "The population size must be large (e.g., at least 30)",
+        "The population from which we are sampling must be normally",
+        "The population from which we are sampling must not be normally"
+      ]
+    },
+    {
+      "question": "The Central Limit Theorem is important in statistics because",
+      "correct_answer": "For a large n, it says the sampling distribution of the sample mean is",
+      "wrong_answers": [
+        "For any size sample, it says the sampling distribution of the sample",
+        "For any population, it says the sampling distribution approximately",
+        "For a large n, it says the population is approximately normal"
+      ]
+    },
+    {
+      "question": "What sample size is required if we want a 95% confidence interval \nestimate with a margin of error of 2? Assume σ = 8.",
+      "correct_answer": "62",
+      "wrong_answers": [
+        "46",
+        "48",
+        "70"
       ]
     }
   ]

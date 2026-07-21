@@ -2,344 +2,344 @@
   "questions": [
     {
       "question": "Which of the following is one of the strengths of cross-sectional study?",
-      "correct_answer": "B. suggests association between exposure and disease",
+      "correct_answer": "suggests association between exposure and disease",
       "wrong_answers": [
-        "A. Can study rare diseases",
-        "C. Can test hypothesis",
-        "D. Free of different types of bias"
+        "Can study rare diseases",
+        "Can test hypothesis",
+        "Free of different types of bias"
       ]
     },
     {
       "question": "A surgeon reports outcomes on 10 patients who underwent a new procedure without a comparison group. What is this study design?",
-      "correct_answer": "A. Case series",
+      "correct_answer": "Case series",
       "wrong_answers": [
-        "B. Case-control",
-        "C. Prospective Cohort",
-        "D. Cross-sectional"
+        "Case-control",
+        "Prospective Cohort",
+        "Cross-sectional"
       ]
     },
     {
       "question": "You want to measure current prevalence of anaemia among pregnant women attending antenatal care clinics. Which study design best fulfill your objective?",
-      "correct_answer": "C. Cross-sectional study",
+      "correct_answer": "Cross-sectional study",
       "wrong_answers": [
-        "A. Cohort study",
-        "B. Case-control study",
-        "D. Intervention study"
+        "Cohort study",
+        "Case-control study",
+        "Intervention study"
       ]
     },
     {
       "question": "A cross-sectional study is also known as which of the following?",
-      "correct_answer": "D. prevalence study",
+      "correct_answer": "prevalence study",
       "wrong_answers": [
-        "A. Prospective design",
-        "B. Pre-test/post-test design",
-        "C. Population based study"
+        "Prospective design",
+        "Pre-test/post-test design",
+        "Population based study"
       ]
     },
     {
       "question": "A researcher studies per-capita cigarettes sales and heart disease rates across different countries. What is this design?",
-      "correct_answer": "D. Ecological study",
+      "correct_answer": "Ecological study",
       "wrong_answers": [
-        "A. Case-control study",
-        "B. Cohort study",
-        "C. Cross-sectional study"
+        "Case-control study",
+        "Cohort study",
+        "Cross-sectional study"
       ]
     },
     {
       "question": "Estimating the prevalence of obesity in school children in relation to sex is an example of which of the following studies?",
-      "correct_answer": "A. Cross-sectional study.",
+      "correct_answer": "Cross-sectional study.",
       "wrong_answers": [
-        "B. Prospective cohort study",
-        "C. Case series report",
-        "D. Ecological study"
+        "Prospective cohort study",
+        "Case series report",
+        "Ecological study"
       ]
     },
     {
       "question": "Ecological studies are NOT used for which of the following purposes?",
-      "correct_answer": "A. Comparison between countries /populations.",
+      "correct_answer": "Comparison between countries /populations.",
       "wrong_answers": [
-        "B. Correlate between two quantitative variables.",
-        "C. Determining the contextual effect of risk factors on the population.",
-        "D. Determining the effect of a risk factor and disease occurrence on the individual level"
+        "Correlate between two quantitative variables.",
+        "Determining the contextual effect of risk factors on the population.",
+        "Determining the effect of a risk factor and disease occurrence on the individual level"
       ]
     },
     {
       "question": "An investigator screened 1000 women above 50 years of age using mammography to sort out those with cancer breast from those without. He also asked about current use of oral contraceptive pills intake. What type of study designs was this?",
-      "correct_answer": "C. Cross sectional.",
+      "correct_answer": "Cross sectional.",
       "wrong_answers": [
-        "A. Correlation.",
-        "B. Case control.",
-        "D. Retrospective cohort"
+        "Correlation.",
+        "Case control.",
+        "Retrospective cohort"
       ]
     },
     {
       "question": "Five children with hepatoblastoma (rare form of cancer liver) were reported. History showed past exposure to a specific insecticide. What is the type of this study design?",
-      "correct_answer": "D. Case series",
+      "correct_answer": "Case series",
       "wrong_answers": [
-        "A. Cross-sectional study",
-        "B. Cohort study",
-        "C. Case-control study"
+        "Cross-sectional study",
+        "Cohort study",
+        "Case-control study"
       ]
     },
     {
       "question": "In 2024, researchers measured body mass index (BMI) and physical activity levels among office employees at the same point in time. They assessed the association between physical inactivity and obesity. Which type of study design best describes this investigation?",
-      "correct_answer": "D. Cross sectional study",
+      "correct_answer": "Cross sectional study",
       "wrong_answers": [
-        "A. Case report",
-        "B. Case series",
-        "C. Ecological (correlation) study"
+        "Case report",
+        "Case series",
+        "Ecological (correlation) study"
       ]
     },
     {
       "question": "Which of the following is a key characteristic of cross-sectional studies?",
-      "correct_answer": "B. The research can collect many variables at the same time.",
+      "correct_answer": "The research can collect many variables at the same time.",
       "wrong_answers": [
-        "A. It involves an intervention that the researcher applies.",
-        "C. Test hypothesis about cause effect relationship",
-        "D. Deal with average population data"
+        "It involves an intervention that the researcher applies.",
+        "Test hypothesis about cause effect relationship",
+        "Deal with average population data"
       ]
     },
     {
       "question": "What is the main feature of the cross-sectional study design?",
-      "correct_answer": "C. It measures the exposure & outcome simultaneously in a population at a specific point in time.",
+      "correct_answer": "It measures the exposure & outcome simultaneously in a population at a specific point in time.",
       "wrong_answers": [
-        "A. Subjects are followed over a long period of time.",
-        "B. It compares two groups: subjects with a disease to subjects without the disease.",
-        "D. It is the only design that establishes a cause-and-effect relationship"
+        "Subjects are followed over a long period of time.",
+        "It compares two groups: subjects with a disease to subjects without the disease.",
+        "It is the only design that establishes a cause-and-effect relationship"
       ]
     },
     {
       "question": "Which of the following statements characterizes case report?",
-      "correct_answer": "A. Can recognize new diseases.",
+      "correct_answer": "Can recognize new diseases.",
       "wrong_answers": [
-        "B. Can measure prevalence of disease.",
-        "C. Can measure the efficacy of certain treatments.",
-        "D. Can measure incidence of disease"
+        "Can measure prevalence of disease.",
+        "Can measure the efficacy of certain treatments.",
+        "Can measure incidence of disease"
       ]
     },
     {
       "question": "What is the epidemiological study design that measures the association between two different quantitative variables?",
-      "correct_answer": "A. Ecological (correlation) study",
+      "correct_answer": "Ecological (correlation) study",
       "wrong_answers": [
-        "B. Cross-sectional study",
-        "C. Retrospective cohort study",
-        "D. Case-control study"
+        "Cross-sectional study",
+        "Retrospective cohort study",
+        "Case-control study"
       ]
     },
     {
       "question": "Researchers want to investigate the relationship between smoking status and chronic respiratory disease among adults in a city. They select 1,000 adults and assess both smoking habits and lung function on the same day. What is the type of this epidemiological study design?",
-      "correct_answer": "C. Cross sectional study",
+      "correct_answer": "Cross sectional study",
       "wrong_answers": [
-        "A. Case series",
-        "B. Correlation study",
-        "D. Cohort study"
+        "Case series",
+        "Correlation study",
+        "Cohort study"
       ]
     },
     {
       "question": "Case report and case series are both important in which of the following?",
-      "correct_answer": "C. Identifying new clinical features of a known disease.",
+      "correct_answer": "Identifying new clinical features of a known disease.",
       "wrong_answers": [
-        "A. Measuring prevalence of a disease.",
-        "B. Measuring incidence of a disease.",
-        "D. Assessing the disease burden"
+        "Measuring prevalence of a disease.",
+        "Measuring incidence of a disease.",
+        "Assessing the disease burden"
       ]
     },
     {
       "question": "Which of the following is an advantage of a cross-sectional study?",
-      "correct_answer": "B. Can measure prevalence in a population",
+      "correct_answer": "Can measure prevalence in a population",
       "wrong_answers": [
-        "A. Can determine temporality between exposure and disease",
-        "C. Ideal for rare diseases",
-        "D. Can establish causality"
+        "Can determine temporality between exposure and disease",
+        "Ideal for rare diseases",
+        "Can establish causality"
       ]
     },
     {
       "question": "A study that compares disease rates and exposures across different populations or communities, rather than individuals, what is the name of this study?",
-      "correct_answer": "D. Ecological (Correlation) study",
+      "correct_answer": "Ecological (Correlation) study",
       "wrong_answers": [
-        "A. Case report",
-        "B. Case series",
-        "C. Cross-sectional study"
+        "Case report",
+        "Case series",
+        "Cross-sectional study"
       ]
     },
     {
       "question": "Which of the following is an advantage of correlation study?",
-      "correct_answer": "C. It generates hypothesis",
+      "correct_answer": "It generates hypothesis",
       "wrong_answers": [
-        "A. Confounding factors are controlled",
-        "B. Data are available on the individual level",
-        "D. The risk of exposure is calculated"
+        "Confounding factors are controlled",
+        "Data are available on the individual level",
+        "The risk of exposure is calculated"
       ]
     },
     {
       "question": "In a review of health data, researchers find that communities with higher levels of physical activity report lower rates of obesity. They conclude that all individuals in these communities have a lower risk of being obese due to higher levels of physical activity. What type of bias does this conclusion exhibit?",
-      "correct_answer": "B. Ecological fallacy",
+      "correct_answer": "Ecological fallacy",
       "wrong_answers": [
-        "A. Survival bias",
-        "C. Information bias",
-        "D. Selection error"
+        "Survival bias",
+        "Information bias",
+        "Selection error"
       ]
     },
     {
       "question": "Which of the following best defines a confounding factor?",
-      "correct_answer": "B. A variable related to both exposure and outcome and distorts the association",
+      "correct_answer": "A variable related to both exposure and outcome and distorts the association",
       "wrong_answers": [
-        "A. A variable that lies on the causal pathway between exposure and outcome",
-        "C. A variable that occurs after the outcome and cannot influence the relationship",
-        "D. A variable that is unrelated to both the exposure and the outcome"
+        "A variable that lies on the causal pathway between exposure and outcome",
+        "A variable that occurs after the outcome and cannot influence the relationship",
+        "A variable that is unrelated to both the exposure and the outcome"
       ]
     },
     {
       "question": "What is the study in which the units of observation are populations or groups of people rather than individuals?",
-      "correct_answer": "D. Ecological study",
+      "correct_answer": "Ecological study",
       "wrong_answers": [
-        "A. Cross section survey",
-        "B. Case report",
-        "C. Case series report"
+        "Cross section survey",
+        "Case report",
+        "Case series report"
       ]
     },
     {
       "question": "An investigator collected data on infant mortality rates in different governorates of Egypt and the average family size in these governorates in the year 2005. What is the type of the design?",
-      "correct_answer": "C. Ecological (Correlation) study",
+      "correct_answer": "Ecological (Correlation) study",
       "wrong_answers": [
-        "A. Case series",
-        "B. Cross sectional study",
-        "D. Case control study"
+        "Case series",
+        "Cross sectional study",
+        "Case control study"
       ]
     },
     {
       "question": "Which of the following is a key limitation of cross-sectional studies?",
-      "correct_answer": "C. Cannot determine temporality",
+      "correct_answer": "Cannot determine temporality",
       "wrong_answers": [
-        "A. Cannot measure prevalence",
-        "B. Cannot study chronic diseases",
-        "D. Cannot generate hypotheses"
+        "Cannot measure prevalence",
+        "Cannot study chronic diseases",
+        "Cannot generate hypotheses"
       ]
     },
     {
       "question": "Which of the following statements correctly describes descriptive studies?",
-      "correct_answer": "C. They identify patterns of disease and generate hypotheses",
+      "correct_answer": "They identify patterns of disease and generate hypotheses",
       "wrong_answers": [
-        "A. They are designed to establish causal relationships",
-        "B. They always include a control or comparison group",
-        "D. They have limited usefulness for public health planning"
+        "They are designed to establish causal relationships",
+        "They always include a control or comparison group",
+        "They have limited usefulness for public health planning"
       ]
     },
     {
       "question": "A researcher studied the relation between vaccination coverage rate of BCG vaccine in different countries and the average incidence rate of COVID 19. What is this type of study?",
-      "correct_answer": "C. Ecological study",
+      "correct_answer": "Ecological study",
       "wrong_answers": [
-        "A. Prospective survey",
-        "B. Retrospective survey",
-        "D. Cross sectional study"
+        "Prospective survey",
+        "Retrospective survey",
+        "Cross sectional study"
       ]
     },
     {
       "question": "Which of the followings is considered an advantage(s) of cross-sectional study?",
-      "correct_answer": "B. Quick, easy, needs minimal resources",
+      "correct_answer": "Quick, easy, needs minimal resources",
       "wrong_answers": [
-        "A. Can prove a relation between an exposure and an outcome",
-        "C. Can estimate the risk (incidence) of developing a disease in a community",
-        "D. Suitable for studying acute and fatal diseases"
+        "Can prove a relation between an exposure and an outcome",
+        "Can estimate the risk (incidence) of developing a disease in a community",
+        "Suitable for studying acute and fatal diseases"
       ]
     },
     {
       "question": "What is the main limitation of a case report?",
-      "correct_answer": "B. It cannot establish causality",
+      "correct_answer": "It cannot establish causality",
       "wrong_answers": [
-        "A. It is expensive and time-consuming",
-        "C. It requires large sample sizes",
-        "D. It cannot generate hypotheses"
+        "It is expensive and time-consuming",
+        "It requires large sample sizes",
+        "It cannot generate hypotheses"
       ]
     },
     {
       "question": "A research team wished to investigate a possible association between tobacco use and oral lesions among a group of workers. At periodic employment examination, each worker was asked about tobacco use, and a dentist examined them for the presence of oral lesion. What is the type of the study design?",
-      "correct_answer": "B. Cross-sectional study",
+      "correct_answer": "Cross-sectional study",
       "wrong_answers": [
-        "A. Case-control study",
-        "C. Cohort study",
-        "D. Case series"
+        "Case-control study",
+        "Cohort study",
+        "Case series"
       ]
     },
     {
       "question": "During pre-placement examination of 200 new employees, 20 persons were hypertensive among 80 smokers, while 6 hypertensive persons were detected among the remaining 120 non-smokers, What is the prevalence of hypertension among smokers in this study?",
-      "correct_answer": "D. 25%",
+      "correct_answer": "25%",
       "wrong_answers": [
-        "A. 5%",
-        "B. 13%",
-        "C. 20%"
+        "5%",
+        "13%",
+        "20%"
       ]
     },
     {
       "question": "A large, multi-country study is conducted to determine the effect of economic development on cancer incidence and mortality. The study uses data obtained from the national cancer registries, along with information regarding per capita gross domestic product as reported by the international Monetary Fund and life expectancy as reported by the World Health Organization. Which of the following best describes the design of this study?",
-      "correct_answer": "C. Ecological study",
+      "correct_answer": "Ecological study",
       "wrong_answers": [
-        "A. Cohort study",
-        "B. Cross-sectional survey",
-        "D. Systematic review"
+        "Cohort study",
+        "Cross-sectional survey",
+        "Systematic review"
       ]
     },
     {
       "question": "A study is designed to describe the manifestations of coronavirus disease 2019 (COVID-19) on imaging studies, particularly on computerized tomography (CT) scans. Eleven patients with COVID-19 are recruited for the study and their CT findings are studied and characterized. Which of the following best describes this study design?",
-      "correct_answer": "B. Case series",
+      "correct_answer": "Case series",
       "wrong_answers": [
-        "A. Case-control",
-        "C. Cohort",
-        "D. Cross-sectional"
+        "Case-control",
+        "Cohort",
+        "Cross-sectional"
       ]
     },
     {
       "question": "Researchers are studying the relationship between essential hypertension and a common mutation in the structure of a sodium channel protein. A study population is randomly selected and blood samples are obtained for leukocyte genotyping. The prevalence of hypertension is determined based on mean blood pressure measurements obtained using standardized ambulatory blood pressure monitoring conducted over 1 week. Based on the analysis results, the researchers conclude that the sodium channel structure mutation is associated with hypertension. Which of the following best describes the study design used by the investigators?",
-      "correct_answer": "B. Cross-sectional study",
+      "correct_answer": "Cross-sectional study",
       "wrong_answers": [
-        "A. Case-control study",
-        "C. Prospective cohort study",
-        "D. Randomized clinical trial"
+        "Case-control study",
+        "Prospective cohort study",
+        "Randomized clinical trial"
       ]
     },
     {
       "question": "Researchers want to explore the association between selective serotonin reuptake inhibitor (SSRI) use and pulmonary tuberculosis. A random sample of subjects age 20-84 with newly diagnosed pulmonary tuberculosis and an independent random sample of subjects without pulmonary tuberculosis are enrolled in the study. Subsequently, subjects who never had a prescription for an SSRI are defined as \"never users,\" and those who have had a prescription for an SSRI are defined as \"users\" The study compares the frequency of SSRI use in subjects with and without a diagnosis of pulmonary tuberculosis and determines that SSRI use with pulmonary tuberculosis. Which of the following best describes the design of this study?",
-      "correct_answer": "A. Case control study",
+      "correct_answer": "Case control study",
       "wrong_answers": [
-        "B. Cross-sectional study",
-        "C. Randomized controlled trial",
-        "D. Retrospective cohort study"
+        "Cross-sectional study",
+        "Randomized controlled trial",
+        "Retrospective cohort study"
       ]
     },
     {
       "question": "A 73-year-old man has stable Chronic Lymphocytic Leukemia (CLL). A new drug prolongs survival but does not cure the disease. If this drug is widely used, what happens to incidence and prevalence of CLL?",
-      "correct_answer": "C. The number of incident cases will not change, the number of prevalent cases will increase",
+      "correct_answer": "The number of incident cases will not change, the number of prevalent cases will increase",
       "wrong_answers": [
-        "A. The number of incident cases will increase, the number of prevalent cases will not change",
-        "B. The number of incident cases will decrease, the number of prevalent cases will increase",
-        "D. The number of incident cases will not change, the number of prevalent cases will not change"
+        "The number of incident cases will increase, the number of prevalent cases will not change",
+        "The number of incident cases will decrease, the number of prevalent cases will increase",
+        "The number of incident cases will not change, the number of prevalent cases will not change"
       ]
     },
     {
       "question": "The prevalence of a chronic disease that affects mostly older individuals has been constant in a population for the last 15 years. As a result of worsening economic conditions that have no effect on the disease itself, many young healthy individuals emigrate from the population. Which of the following is the most likely effect of the emigration on the estimate of disease prevalence over the next few years?",
-      "correct_answer": "B. The prevalence would increase",
+      "correct_answer": "The prevalence would increase",
       "wrong_answers": [
-        "A. The prevalence would decrease",
-        "C. The prevalence would remain the same",
-        "D. It is not possible to determine the effect on prevalence from the information given"
+        "The prevalence would decrease",
+        "The prevalence would remain the same",
+        "It is not possible to determine the effect on prevalence from the information given"
       ]
     },
     {
       "question": "Ecologic fallacy refers to:",
-      "correct_answer": "C. Ascribing the characteristics of a group to every individual in that group",
+      "correct_answer": "Ascribing the characteristics of a group to every individual in that group",
       "wrong_answers": [
-        "A. Assessing exposure in large groups rather than in many small groups",
-        "B. Assessing outcome in large groups rather than in many small groups",
-        "D. Examining correlations of exposure and outcomes rather than timetrends"
+        "Assessing exposure in large groups rather than in many small groups",
+        "Assessing outcome in large groups rather than in many small groups",
+        "Examining correlations of exposure and outcomes rather than timetrends"
       ]
     },
     {
       "question": "Residents of three villages with three different types of water supply were asked to participate in a survey to identify cholera carriers. Because several cholera deaths had occurred recently, virtually everyone present at the time underwent examination. The proportion of residents in each village who were carriers was computed and compared. What is the proper classification for this study?",
-      "correct_answer": "A. Cross-sectional study",
+      "correct_answer": "Cross-sectional study",
       "wrong_answers": [
-        "B. Case-control study",
-        "C. Prospective cohort study",
-        "D. Retrospective cohort study"
+        "Case-control study",
+        "Prospective cohort study",
+        "Retrospective cohort study"
       ]
     }
   ]
